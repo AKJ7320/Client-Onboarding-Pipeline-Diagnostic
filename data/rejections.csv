@@ -1,0 +1,112 @@
+rejection_id,applicant_id,stage_name,reason_desc,rejected_date
+1,38,Compliance,Incomplete ID document,2025-07-18
+2,68,Compliance,Duplicate application,2025-06-21
+3,70,Compliance,Sanctions list match - manual review,2025-01-17
+4,78,Compliance,Source of funds unclear,2025-02-22
+5,134,Compliance,Proof of address mismatch,2025-01-27
+6,194,Compliance,Proof of address mismatch,2025-02-05
+7,196,Compliance,Sanctions list match - manual review,2025-10-05
+8,236,Compliance,Duplicate application,2025-02-24
+9,243,Compliance,Source of funds unclear,2025-05-07
+10,326,Compliance,Sanctions list match - manual review,2025-08-19
+11,353,Compliance,Sanctions list match - manual review,2025-06-07
+12,370,Compliance,Duplicate application,2025-11-09
+13,390,Compliance,Proof of address mismatch,2025-08-26
+14,417,Compliance,Sanctions list match - manual review,2025-12-22
+15,422,Compliance,Sanctions list match - manual review,2025-04-04
+16,451,Compliance,Incomplete ID document,2025-10-21
+17,472,Compliance,Incomplete ID document,2025-04-16
+18,500,Compliance,Sanctions list match - manual review,2025-06-11
+19,624,Compliance,Source of funds unclear,2025-07-28
+20,647,Compliance,Source of funds unclear,2025-04-04
+21,650,Compliance,Incomplete ID document,2026-02-09
+22,664,Compliance,Proof of address mismatch,2025-09-22
+23,665,Compliance,Proof of address mismatch,2025-11-08
+24,728,Compliance,Incomplete ID document,2025-07-18
+25,730,Compliance,Incomplete ID document,2025-03-15
+26,746,Compliance,Sanctions list match - manual review,2026-01-15
+27,748,Compliance,Duplicate application,2025-03-14
+28,798,Compliance,Source of funds unclear,2025-12-26
+29,802,Compliance,Sanctions list match - manual review,2025-11-28
+30,808,Compliance,Sanctions list match - manual review,2025-05-09
+31,831,Compliance,Proof of address mismatch,2026-03-09
+32,847,Compliance,Source of funds unclear,2025-02-26
+33,877,Compliance,Duplicate application,2025-01-16
+34,879,Compliance,Duplicate application,2025-12-07
+35,927,Compliance,Source of funds unclear,2025-12-25
+36,936,Compliance,Incomplete ID document,2026-01-24
+37,1010,Compliance,Proof of address mismatch,2025-09-01
+38,1029,Compliance,Incomplete ID document,2025-02-18
+39,1063,Compliance,Duplicate application,2025-03-17
+40,1134,Compliance,Sanctions list match - manual review,2025-12-13
+41,1157,Compliance,Source of funds unclear,2025-12-20
+42,1170,Compliance,Sanctions list match - manual review,2026-01-04
+43,1187,Compliance,Incomplete ID document,2025-06-15
+44,1197,Compliance,Proof of address mismatch,2025-12-16
+45,1214,Compliance,Duplicate application,2026-01-02
+46,1226,Compliance,Sanctions list match - manual review,2025-12-12
+47,1295,Compliance,Sanctions list match - manual review,2025-06-05
+48,1296,Compliance,Proof of address mismatch,2026-03-23
+49,1302,Compliance,Incomplete ID document,2025-05-20
+50,1421,Compliance,Sanctions list match - manual review,2025-05-23
+51,1438,Compliance,Source of funds unclear,2025-04-08
+52,1459,Compliance,Source of funds unclear,2025-12-26
+53,1470,Compliance,Incomplete ID document,2025-01-11
+54,1497,Compliance,Proof of address mismatch,2025-02-08
+55,1498,Compliance,Sanctions list match - manual review,2025-12-17
+56,1524,Compliance,Duplicate application,2025-07-04
+57,1534,Compliance,Proof of address mismatch,2025-06-20
+58,1535,Compliance,Sanctions list match - manual review,2025-09-16
+59,1568,Compliance,Proof of address mismatch,2026-04-28
+60,1572,Compliance,Sanctions list match - manual review,2025-12-02
+61,1623,Compliance,Proof of address mismatch,2026-02-21
+62,1686,Compliance,Sanctions list match - manual review,2025-05-09
+63,1701,Compliance,Proof of address mismatch,2025-04-10
+64,1732,Compliance,Source of funds unclear,2025-04-18
+65,1757,Compliance,Source of funds unclear,2025-10-09
+66,1805,Compliance,Sanctions list match - manual review,2025-05-04
+67,1827,Compliance,Incomplete ID document,2025-12-16
+68,1850,Compliance,Proof of address mismatch,2025-03-10
+69,1878,Compliance,Duplicate application,2025-12-28
+70,1889,Compliance,Proof of address mismatch,2025-02-23
+71,1903,Compliance,Proof of address mismatch,2026-03-28
+72,1921,Compliance,Duplicate application,2025-05-12
+73,1948,Compliance,Incomplete ID document,2025-07-22
+74,2004,Compliance,Source of funds unclear,2025-03-03
+75,2007,Compliance,Sanctions list match - manual review,2025-12-20
+76,2092,Compliance,Source of funds unclear,2025-04-26
+77,2106,Compliance,Source of funds unclear,2025-11-07
+78,2164,Compliance,Sanctions list match - manual review,2026-03-20
+79,2175,Compliance,Source of funds unclear,2026-02-13
+80,2180,Compliance,Source of funds unclear,2025-08-26
+81,2186,Compliance,Incomplete ID document,2025-09-09
+82,2231,Compliance,Duplicate application,2025-01-05
+83,2234,Compliance,Incomplete ID document,2025-01-06
+84,2253,Compliance,Source of funds unclear,2026-03-27
+85,2258,Compliance,Proof of address mismatch,2025-08-15
+86,2281,Compliance,Duplicate application,2025-04-11
+87,2316,Compliance,Source of funds unclear,2025-11-13
+88,2449,Compliance,Source of funds unclear,2026-01-23
+89,2498,Compliance,Proof of address mismatch,2025-10-15
+90,2529,Compliance,Source of funds unclear,2025-04-16
+91,2532,Compliance,Incomplete ID document,2026-02-26
+92,2565,Compliance,Incomplete ID document,2025-11-05
+93,2572,Compliance,Proof of address mismatch,2025-05-06
+94,2579,Compliance,Incomplete ID document,2025-10-24
+95,2603,Compliance,Duplicate application,2025-03-04
+96,2620,Compliance,Incomplete ID document,2025-05-17
+97,2622,Compliance,Proof of address mismatch,2025-03-17
+98,2657,Compliance,Proof of address mismatch,2026-03-21
+99,2673,Compliance,Duplicate application,2025-05-08
+100,2693,Compliance,Proof of address mismatch,2025-05-13
+101,2741,Compliance,Duplicate application,2025-01-23
+102,2754,Compliance,Source of funds unclear,2025-05-02
+103,2811,Compliance,Incomplete ID document,2025-08-10
+104,2826,Compliance,Duplicate application,2025-09-24
+105,2836,Compliance,Incomplete ID document,2025-12-12
+106,2869,Compliance,Incomplete ID document,2026-03-01
+107,2887,Compliance,Sanctions list match - manual review,2026-02-10
+108,2890,Compliance,Duplicate application,2025-02-21
+109,2902,Compliance,Sanctions list match - manual review,2025-09-30
+110,2930,Compliance,Incomplete ID document,2026-02-09
+111,2943,Compliance,Duplicate application,2025-08-06

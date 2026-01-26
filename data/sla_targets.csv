@@ -1,0 +1,16 @@
+stage_name,client_type,target_days
+KYC,Institutional,3
+Documentation,Institutional,4
+Compliance,Institutional,3
+Funding,Institutional,2
+FirstTrade,Institutional,1
+KYC,Commercial,2
+Documentation,Commercial,3
+Compliance,Commercial,2
+Funding,Commercial,2
+FirstTrade,Commercial,1
+KYC,Retail,1
+Documentation,Retail,1
+Compliance,Retail,1
+Funding,Retail,1
+FirstTrade,Retail,1

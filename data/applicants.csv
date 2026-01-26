@@ -1,0 +1,3001 @@
+applicant_id,client_type,country,channel,submitted_date,onboarding_agent_id,final_status
+1,Retail,USA,Direct,2025-04-30,13,Completed
+2,Institutional,Nigeria,Online Signup,2025-08-05,3,Completed
+3,Retail,Nigeria,Online Signup,2025-08-24,13,Completed
+4,Retail,Australia,Direct,2025-12-05,10,Completed
+5,Retail,Australia,Online Signup,2025-11-28,9,Completed
+6,Commercial,Germany,Direct,2025-04-28,5,Completed
+7,Retail,Canada,Direct,2025-05-16,10,Completed
+8,Retail,Nigeria,Direct,2025-03-20,10,Completed
+9,Retail,Nigeria,Online Signup,2025-06-24,9,Completed
+10,Commercial,Russia,Online Signup,2025-06-02,6,Completed
+11,Retail,USA,Referral,2026-03-26,11,Completed
+12,Retail,USA,Referral,2025-10-09,10,Completed
+13,Retail,Germany,Online Signup,2025-08-20,9,Completed
+14,Institutional,Canada,Direct,2025-02-04,1,Completed
+15,Retail,India,Referral,2025-05-05,12,Dropped
+16,Retail,Singapore,Referral,2026-03-19,9,Completed
+17,Retail,USA,Direct,2025-05-23,12,Dropped
+18,Retail,Pakistan,Direct,2025-01-26,13,Completed
+19,Retail,UAE,Referral,2026-02-06,12,Completed
+20,Commercial,UAE,Online Signup,2026-01-12,5,Completed
+21,Institutional,UK,Online Signup,2025-02-04,2,Completed
+22,Retail,UK,Online Signup,2025-06-10,10,Completed
+23,Retail,USA,Direct,2025-09-17,11,Completed
+24,Retail,Australia,Online Signup,2026-02-18,13,Completed
+25,Commercial,Pakistan,Online Signup,2025-10-11,6,Completed
+26,Commercial,Pakistan,Direct,2025-02-17,8,Completed
+27,Retail,India,Direct,2025-02-08,10,Completed
+28,Institutional,Germany,Online Signup,2025-05-08,1,Completed
+29,Retail,Pakistan,Direct,2026-03-28,12,Completed
+30,Retail,Germany,Direct,2026-03-16,12,Completed
+31,Commercial,Canada,Referral,2025-06-18,7,Completed
+32,Retail,Russia,Direct,2026-03-26,11,Completed
+33,Institutional,Pakistan,Direct,2025-05-11,1,Completed
+34,Retail,USA,Online Signup,2025-06-19,13,Completed
+35,Commercial,Canada,Online Signup,2025-03-07,6,Completed
+36,Retail,Nigeria,Referral,2025-05-27,10,Completed
+37,Retail,India,Direct,2026-02-24,10,Completed
+38,Retail,UK,Online Signup,2025-07-16,12,Dropped
+39,Retail,UK,Online Signup,2025-09-23,12,Completed
+40,Retail,India,Referral,2026-01-22,12,Completed
+41,Commercial,Pakistan,Referral,2025-05-13,6,Completed
+42,Commercial,Germany,Online Signup,2025-02-11,6,Completed
+43,Retail,Singapore,Direct,2026-03-03,12,Completed
+44,Retail,USA,Referral,2025-06-02,12,Completed
+45,Commercial,India,Referral,2025-06-22,8,Completed
+46,Retail,Canada,Direct,2025-11-26,12,Completed
+47,Commercial,Russia,Referral,2025-05-10,5,Completed
+48,Retail,Nigeria,Direct,2025-04-13,9,Completed
+49,Retail,UK,Online Signup,2026-01-18,9,Dropped
+50,Institutional,Germany,Online Signup,2025-07-12,4,Completed
+51,Retail,India,Direct,2026-02-12,13,Completed
+52,Retail,Nigeria,Direct,2025-08-10,11,Completed
+53,Retail,India,Referral,2026-02-27,13,Completed
+54,Retail,Germany,Referral,2026-03-12,11,Completed
+55,Retail,India,Online Signup,2025-04-08,9,Completed
+56,Retail,Nigeria,Direct,2025-05-31,10,Completed
+57,Institutional,UK,Direct,2026-01-16,2,Completed
+58,Commercial,UK,Direct,2025-12-29,6,Completed
+59,Institutional,UK,Referral,2025-08-14,3,Completed
+60,Retail,India,Online Signup,2025-01-28,10,Completed
+61,Retail,UK,Online Signup,2025-08-08,11,Completed
+62,Commercial,Canada,Direct,2025-05-03,6,Dropped
+63,Retail,India,Referral,2025-01-17,10,Completed
+64,Retail,Singapore,Online Signup,2025-04-26,10,Completed
+65,Retail,India,Referral,2025-08-13,9,Completed
+66,Retail,Nigeria,Online Signup,2025-10-28,9,Completed
+67,Retail,UAE,Referral,2025-06-28,12,Completed
+68,Institutional,USA,Referral,2025-06-15,1,Dropped
+69,Retail,USA,Online Signup,2025-07-05,13,Completed
+70,Retail,Canada,Direct,2025-01-15,13,Dropped
+71,Institutional,UAE,Direct,2025-08-25,1,Completed
+72,Commercial,India,Referral,2025-04-08,6,Completed
+73,Retail,UK,Referral,2026-03-05,13,Completed
+74,Retail,India,Referral,2025-06-14,10,Dropped
+75,Retail,Australia,Referral,2025-07-17,10,Completed
+76,Institutional,USA,Online Signup,2025-03-21,1,Completed
+77,Commercial,Canada,Online Signup,2025-07-14,7,Completed
+78,Retail,Australia,Referral,2025-02-20,9,Dropped
+79,Retail,UK,Referral,2025-08-09,10,Completed
+80,Retail,USA,Referral,2025-11-23,11,Dropped
+81,Retail,Pakistan,Online Signup,2025-10-07,10,Completed
+82,Retail,UK,Online Signup,2025-07-03,13,Completed
+83,Retail,Canada,Online Signup,2025-01-26,13,Completed
+84,Commercial,Nigeria,Online Signup,2025-12-15,6,Completed
+85,Institutional,UK,Online Signup,2025-08-01,2,Completed
+86,Retail,Nigeria,Online Signup,2026-03-22,11,Completed
+87,Retail,Nigeria,Online Signup,2025-07-07,9,Completed
+88,Retail,Russia,Direct,2025-12-12,10,Completed
+89,Retail,USA,Direct,2025-06-05,12,Completed
+90,Retail,Russia,Referral,2025-10-28,10,Completed
+91,Retail,Pakistan,Online Signup,2025-07-03,9,Completed
+92,Retail,UAE,Direct,2026-02-07,11,Completed
+93,Retail,UK,Direct,2026-02-08,13,Completed
+94,Institutional,Pakistan,Direct,2025-01-08,3,Completed
+95,Institutional,Singapore,Referral,2025-09-20,1,Completed
+96,Retail,Singapore,Direct,2025-02-01,12,Dropped
+97,Retail,Singapore,Direct,2025-06-14,13,Completed
+98,Retail,India,Referral,2025-09-16,13,Completed
+99,Retail,UK,Referral,2026-03-31,10,Completed
+100,Retail,USA,Direct,2026-01-17,11,Completed
+101,Retail,Canada,Referral,2026-03-21,9,Completed
+102,Commercial,USA,Online Signup,2025-07-08,5,Completed
+103,Retail,Canada,Direct,2025-11-08,11,Dropped
+104,Retail,India,Referral,2025-02-05,10,Completed
+105,Retail,Pakistan,Direct,2025-03-22,13,Completed
+106,Retail,USA,Referral,2025-02-26,11,Dropped
+107,Retail,India,Direct,2025-04-15,11,Completed
+108,Retail,USA,Online Signup,2025-12-27,10,Completed
+109,Retail,Canada,Referral,2025-02-28,12,Completed
+110,Institutional,Singapore,Referral,2025-09-26,1,Completed
+111,Commercial,Nigeria,Referral,2026-01-08,6,Completed
+112,Retail,India,Referral,2026-01-22,13,Completed
+113,Retail,India,Direct,2025-08-14,9,Completed
+114,Commercial,Singapore,Direct,2025-07-08,7,Completed
+115,Retail,Russia,Online Signup,2025-01-22,12,Completed
+116,Retail,Germany,Online Signup,2025-02-13,13,Completed
+117,Retail,Russia,Referral,2025-07-29,11,Completed
+118,Retail,India,Direct,2025-06-20,9,Completed
+119,Institutional,Australia,Direct,2025-06-08,4,Completed
+120,Retail,Canada,Referral,2025-09-18,11,Completed
+121,Commercial,USA,Direct,2025-06-01,5,Completed
+122,Retail,USA,Referral,2025-03-20,10,Completed
+123,Retail,UK,Online Signup,2026-02-06,12,Completed
+124,Retail,Russia,Referral,2025-08-25,11,Completed
+125,Institutional,India,Referral,2025-10-11,1,Completed
+126,Institutional,Singapore,Direct,2026-02-23,4,Completed
+127,Institutional,UK,Referral,2025-02-20,3,Completed
+128,Retail,Singapore,Direct,2025-02-10,9,Completed
+129,Retail,UK,Direct,2025-01-25,10,Completed
+130,Retail,UK,Direct,2025-11-11,11,Completed
+131,Retail,India,Online Signup,2025-10-11,9,Dropped
+132,Retail,Germany,Online Signup,2025-01-09,11,Completed
+133,Commercial,USA,Online Signup,2025-06-23,6,Completed
+134,Retail,USA,Direct,2025-01-23,10,Dropped
+135,Commercial,Pakistan,Direct,2026-03-20,7,Completed
+136,Retail,India,Referral,2025-07-08,13,Completed
+137,Retail,Germany,Direct,2025-06-17,11,Completed
+138,Retail,Russia,Online Signup,2025-08-11,11,Completed
+139,Institutional,India,Referral,2025-01-18,2,Completed
+140,Retail,USA,Direct,2025-09-29,11,Completed
+141,Institutional,Nigeria,Online Signup,2025-08-17,2,Completed
+142,Retail,Nigeria,Referral,2025-12-08,11,Completed
+143,Commercial,Germany,Direct,2025-03-04,6,Completed
+144,Retail,USA,Direct,2025-02-03,11,Completed
+145,Institutional,UAE,Online Signup,2025-02-07,4,Completed
+146,Retail,Singapore,Direct,2026-03-02,9,Completed
+147,Retail,Pakistan,Direct,2025-05-09,10,Completed
+148,Retail,Germany,Online Signup,2025-01-22,9,Completed
+149,Retail,Canada,Referral,2025-11-18,13,Completed
+150,Retail,Canada,Direct,2025-08-14,12,Completed
+151,Retail,Germany,Referral,2025-03-08,11,Completed
+152,Institutional,UK,Referral,2026-03-19,4,Completed
+153,Commercial,UK,Online Signup,2025-08-28,8,Completed
+154,Commercial,India,Online Signup,2025-12-11,8,Completed
+155,Retail,Germany,Referral,2025-01-27,13,Dropped
+156,Retail,Nigeria,Referral,2026-02-27,13,Completed
+157,Retail,India,Direct,2025-01-20,10,Completed
+158,Retail,Nigeria,Online Signup,2025-06-22,13,Completed
+159,Retail,India,Online Signup,2026-03-23,9,Completed
+160,Retail,India,Direct,2025-09-26,13,Dropped
+161,Retail,USA,Direct,2025-08-14,11,Completed
+162,Retail,Australia,Direct,2025-12-28,10,Completed
+163,Retail,Canada,Online Signup,2025-05-16,13,Completed
+164,Commercial,UK,Direct,2025-12-20,8,Completed
+165,Retail,India,Referral,2026-02-24,11,Completed
+166,Commercial,Singapore,Direct,2026-02-28,7,Completed
+167,Retail,USA,Referral,2025-06-19,12,Completed
+168,Retail,Pakistan,Referral,2025-09-02,10,Completed
+169,Commercial,Pakistan,Direct,2025-01-19,8,Completed
+170,Retail,Russia,Referral,2025-05-26,12,Completed
+171,Retail,Australia,Direct,2026-01-13,11,Completed
+172,Retail,India,Direct,2025-07-25,9,Dropped
+173,Retail,Singapore,Referral,2025-06-18,11,Dropped
+174,Retail,Canada,Direct,2025-12-08,9,Completed
+175,Commercial,USA,Referral,2025-07-08,6,Completed
+176,Retail,Russia,Online Signup,2026-02-15,10,Completed
+177,Retail,UK,Online Signup,2025-03-18,10,Completed
+178,Institutional,Singapore,Online Signup,2025-01-30,4,Completed
+179,Institutional,UAE,Direct,2025-08-30,1,Completed
+180,Retail,Pakistan,Referral,2025-02-11,13,Completed
+181,Commercial,USA,Direct,2025-06-02,8,Completed
+182,Commercial,Pakistan,Direct,2025-01-17,8,Dropped
+183,Commercial,USA,Direct,2025-08-17,5,Completed
+184,Institutional,India,Referral,2025-04-30,3,Completed
+185,Commercial,USA,Online Signup,2026-03-27,6,Completed
+186,Retail,UK,Direct,2026-01-22,13,Completed
+187,Institutional,Singapore,Referral,2025-10-13,2,Completed
+188,Commercial,Canada,Online Signup,2025-01-21,5,Completed
+189,Retail,Germany,Direct,2025-04-19,10,Completed
+190,Commercial,Singapore,Online Signup,2025-07-03,7,Completed
+191,Retail,Germany,Direct,2025-07-09,11,Dropped
+192,Retail,India,Online Signup,2025-08-02,11,Completed
+193,Retail,Germany,Referral,2026-01-06,12,Completed
+194,Retail,India,Online Signup,2025-01-31,13,Dropped
+195,Retail,UK,Online Signup,2025-03-19,9,Completed
+196,Retail,India,Direct,2025-09-30,13,Dropped
+197,Retail,Pakistan,Direct,2025-02-19,13,Completed
+198,Retail,Singapore,Direct,2025-12-23,10,Completed
+199,Institutional,USA,Direct,2025-02-12,4,Completed
+200,Retail,UK,Online Signup,2026-03-31,13,Completed
+201,Retail,USA,Direct,2025-10-28,10,Completed
+202,Retail,USA,Online Signup,2025-06-27,9,Completed
+203,Institutional,UK,Referral,2025-09-09,2,Completed
+204,Institutional,UK,Referral,2025-12-31,2,Dropped
+205,Commercial,Germany,Referral,2025-02-22,6,Completed
+206,Retail,USA,Online Signup,2026-02-06,11,Dropped
+207,Retail,Nigeria,Online Signup,2025-10-14,10,Completed
+208,Retail,Germany,Direct,2026-01-05,12,Dropped
+209,Retail,Nigeria,Referral,2026-02-16,11,Completed
+210,Retail,UK,Referral,2025-04-01,12,Completed
+211,Retail,Nigeria,Referral,2025-07-06,9,Completed
+212,Retail,UK,Referral,2026-03-02,9,Completed
+213,Retail,Germany,Referral,2025-11-03,12,Completed
+214,Retail,Germany,Online Signup,2025-11-01,9,Completed
+215,Retail,Canada,Referral,2026-01-21,11,Dropped
+216,Commercial,Australia,Online Signup,2025-10-25,6,Completed
+217,Retail,India,Referral,2025-08-01,9,Completed
+218,Retail,Germany,Direct,2025-08-13,12,Dropped
+219,Retail,USA,Referral,2025-11-28,9,Completed
+220,Retail,India,Direct,2025-11-24,12,Dropped
+221,Retail,UK,Online Signup,2025-08-08,12,Completed
+222,Institutional,Pakistan,Direct,2025-07-07,3,Completed
+223,Retail,India,Referral,2025-06-30,12,Completed
+224,Commercial,USA,Referral,2025-12-22,6,Completed
+225,Retail,Russia,Direct,2025-10-12,10,Completed
+226,Retail,Canada,Referral,2025-12-17,12,Completed
+227,Commercial,USA,Direct,2025-10-03,7,Completed
+228,Retail,UK,Online Signup,2026-02-26,11,Completed
+229,Retail,UK,Direct,2025-08-19,11,Dropped
+230,Retail,USA,Direct,2025-04-18,13,Completed
+231,Retail,Nigeria,Online Signup,2025-06-29,13,Completed
+232,Retail,USA,Referral,2025-01-31,11,Completed
+233,Institutional,Canada,Online Signup,2025-08-01,4,Completed
+234,Retail,Pakistan,Referral,2025-09-07,11,Completed
+235,Retail,USA,Online Signup,2025-07-23,10,Completed
+236,Retail,Nigeria,Direct,2025-02-20,12,Dropped
+237,Commercial,Canada,Direct,2026-03-28,7,Completed
+238,Institutional,India,Online Signup,2025-12-25,2,Dropped
+239,Retail,Nigeria,Referral,2025-12-22,10,Completed
+240,Institutional,UAE,Direct,2025-02-05,1,Completed
+241,Retail,Pakistan,Direct,2025-02-21,10,Completed
+242,Retail,Nigeria,Online Signup,2025-01-14,11,Completed
+243,Retail,India,Direct,2025-05-04,12,Dropped
+244,Retail,USA,Online Signup,2025-08-04,11,Dropped
+245,Institutional,UK,Direct,2025-01-31,4,Completed
+246,Commercial,USA,Direct,2025-09-19,6,Completed
+247,Institutional,Canada,Online Signup,2026-03-10,2,Completed
+248,Institutional,USA,Direct,2025-03-25,4,Completed
+249,Retail,UK,Direct,2026-01-30,9,Dropped
+250,Retail,India,Direct,2025-09-12,12,Completed
+251,Institutional,India,Online Signup,2025-03-01,2,Completed
+252,Institutional,Nigeria,Online Signup,2026-01-15,4,Completed
+253,Retail,Pakistan,Direct,2025-04-25,13,Completed
+254,Retail,USA,Direct,2025-05-30,13,Completed
+255,Retail,Nigeria,Direct,2025-01-04,12,Dropped
+256,Retail,Nigeria,Online Signup,2025-06-07,9,Completed
+257,Institutional,Russia,Online Signup,2025-07-31,3,Completed
+258,Retail,UK,Referral,2026-03-12,11,Completed
+259,Commercial,Nigeria,Online Signup,2025-02-25,6,Completed
+260,Commercial,UK,Direct,2025-02-16,6,Completed
+261,Institutional,UK,Referral,2025-07-22,1,Completed
+262,Retail,UK,Referral,2025-02-22,10,Completed
+263,Retail,UK,Direct,2025-01-12,9,Completed
+264,Commercial,USA,Referral,2025-01-26,6,Completed
+265,Commercial,Singapore,Direct,2025-01-18,6,Completed
+266,Retail,Canada,Online Signup,2025-05-08,13,Completed
+267,Retail,India,Referral,2025-05-19,10,Completed
+268,Retail,UAE,Direct,2025-05-07,10,Completed
+269,Retail,UK,Direct,2025-10-31,11,Dropped
+270,Retail,Russia,Online Signup,2025-03-14,13,Completed
+271,Institutional,India,Direct,2025-09-27,4,Completed
+272,Institutional,USA,Online Signup,2025-03-14,1,Completed
+273,Institutional,Germany,Direct,2025-03-22,4,Completed
+274,Retail,UK,Online Signup,2026-02-22,10,Completed
+275,Retail,USA,Online Signup,2025-06-12,13,Dropped
+276,Retail,Germany,Direct,2025-05-02,11,Completed
+277,Retail,Singapore,Referral,2025-04-18,10,Dropped
+278,Retail,Singapore,Direct,2026-03-29,12,Completed
+279,Commercial,Singapore,Direct,2025-05-31,5,Completed
+280,Retail,Germany,Online Signup,2025-09-05,9,Completed
+281,Commercial,UK,Online Signup,2025-10-11,7,Completed
+282,Institutional,USA,Direct,2025-05-31,4,Completed
+283,Retail,Pakistan,Referral,2025-02-16,13,Completed
+284,Commercial,UK,Direct,2025-03-19,5,Completed
+285,Institutional,Germany,Online Signup,2025-08-03,4,Completed
+286,Retail,Pakistan,Online Signup,2025-12-13,13,Completed
+287,Institutional,Singapore,Online Signup,2025-08-11,2,Completed
+288,Commercial,Singapore,Direct,2026-02-07,8,Completed
+289,Retail,India,Direct,2026-02-07,11,Completed
+290,Retail,UK,Referral,2025-03-15,13,Completed
+291,Institutional,Singapore,Referral,2025-07-10,1,Completed
+292,Institutional,Pakistan,Direct,2025-06-03,4,Completed
+293,Retail,Nigeria,Referral,2026-02-25,9,Completed
+294,Retail,UK,Direct,2026-03-05,9,Dropped
+295,Retail,UK,Referral,2026-02-26,12,Completed
+296,Retail,India,Referral,2025-03-25,11,Completed
+297,Retail,Canada,Online Signup,2025-04-16,11,Completed
+298,Institutional,UK,Direct,2025-04-25,3,Completed
+299,Retail,Germany,Referral,2025-04-22,12,Completed
+300,Retail,Nigeria,Referral,2025-10-15,13,Completed
+301,Commercial,Canada,Online Signup,2025-06-02,6,Completed
+302,Retail,Germany,Direct,2026-01-05,9,Completed
+303,Retail,India,Direct,2025-06-25,10,Completed
+304,Commercial,Singapore,Online Signup,2025-05-13,6,Completed
+305,Retail,Germany,Online Signup,2025-05-31,12,Completed
+306,Retail,Germany,Referral,2025-07-31,9,Completed
+307,Retail,Nigeria,Referral,2025-06-20,10,Completed
+308,Retail,Canada,Referral,2025-08-08,12,Dropped
+309,Retail,Australia,Direct,2025-06-14,13,Dropped
+310,Institutional,Australia,Direct,2025-12-22,3,Completed
+311,Commercial,UK,Online Signup,2025-09-24,7,Completed
+312,Commercial,Russia,Referral,2025-01-10,6,Completed
+313,Retail,USA,Online Signup,2025-05-11,13,Dropped
+314,Retail,Singapore,Referral,2025-03-05,13,Completed
+315,Retail,Canada,Referral,2025-11-15,13,Completed
+316,Retail,India,Online Signup,2025-04-13,11,Completed
+317,Retail,Canada,Referral,2025-06-19,10,Completed
+318,Retail,Pakistan,Online Signup,2025-04-29,12,Completed
+319,Institutional,Pakistan,Direct,2025-01-05,2,Completed
+320,Retail,Nigeria,Online Signup,2026-03-12,12,Dropped
+321,Retail,USA,Direct,2025-02-23,12,Completed
+322,Retail,Pakistan,Online Signup,2025-03-08,12,Dropped
+323,Commercial,Germany,Online Signup,2026-03-21,6,Completed
+324,Retail,Canada,Online Signup,2025-07-17,10,Completed
+325,Retail,Germany,Referral,2025-05-23,9,Completed
+326,Retail,Singapore,Referral,2025-08-17,11,Dropped
+327,Retail,India,Direct,2026-02-27,9,Completed
+328,Retail,Nigeria,Referral,2025-06-19,13,Completed
+329,Institutional,Germany,Online Signup,2026-02-14,3,Completed
+330,Retail,Australia,Direct,2025-05-11,13,Completed
+331,Retail,USA,Referral,2025-01-24,13,Completed
+332,Retail,India,Direct,2025-10-11,12,Completed
+333,Retail,USA,Referral,2025-12-03,13,Completed
+334,Retail,UK,Referral,2025-05-31,12,Completed
+335,Retail,India,Direct,2025-04-13,10,Completed
+336,Retail,Australia,Referral,2025-10-15,12,Completed
+337,Commercial,Nigeria,Direct,2025-09-25,5,Completed
+338,Retail,USA,Direct,2025-12-20,11,Dropped
+339,Retail,USA,Online Signup,2026-01-14,13,Completed
+340,Commercial,Canada,Referral,2025-07-18,8,Completed
+341,Retail,Singapore,Direct,2025-11-21,11,Completed
+342,Commercial,Canada,Direct,2025-03-30,5,Dropped
+343,Retail,Russia,Direct,2025-03-20,11,Completed
+344,Retail,Nigeria,Referral,2025-09-27,10,Completed
+345,Retail,Singapore,Online Signup,2026-02-26,9,Completed
+346,Commercial,Russia,Direct,2025-07-17,7,Completed
+347,Retail,UK,Online Signup,2025-04-09,11,Dropped
+348,Retail,Nigeria,Online Signup,2025-01-04,9,Completed
+349,Retail,UAE,Referral,2025-11-28,9,Dropped
+350,Commercial,UK,Direct,2025-10-22,6,Completed
+351,Institutional,USA,Online Signup,2025-11-13,1,Completed
+352,Retail,India,Referral,2026-01-27,12,Completed
+353,Retail,UAE,Direct,2025-06-02,11,Dropped
+354,Retail,Russia,Referral,2025-04-18,11,Completed
+355,Commercial,UK,Online Signup,2026-03-13,5,Completed
+356,Retail,India,Referral,2025-07-02,10,Completed
+357,Retail,Germany,Referral,2025-08-08,10,Completed
+358,Retail,Singapore,Referral,2025-09-07,13,Completed
+359,Retail,UK,Online Signup,2025-02-09,9,Completed
+360,Commercial,USA,Referral,2025-10-06,8,Completed
+361,Retail,India,Referral,2025-07-06,13,Completed
+362,Retail,Singapore,Direct,2025-10-17,13,Completed
+363,Institutional,Germany,Direct,2025-12-09,2,Completed
+364,Retail,Nigeria,Online Signup,2025-05-15,13,Completed
+365,Commercial,UAE,Direct,2025-09-22,8,Dropped
+366,Retail,Singapore,Direct,2025-02-09,13,Completed
+367,Commercial,Nigeria,Online Signup,2025-02-28,8,Completed
+368,Retail,Pakistan,Direct,2025-01-29,10,Completed
+369,Retail,India,Direct,2026-03-02,12,Completed
+370,Commercial,Canada,Referral,2025-11-02,5,Dropped
+371,Retail,India,Referral,2026-02-28,10,Completed
+372,Retail,Pakistan,Online Signup,2025-11-29,12,Completed
+373,Retail,Pakistan,Online Signup,2025-10-22,9,Completed
+374,Retail,UK,Online Signup,2026-01-16,9,Completed
+375,Retail,USA,Referral,2025-11-30,13,Completed
+376,Retail,India,Direct,2025-07-09,13,Completed
+377,Institutional,Pakistan,Direct,2026-01-18,2,Completed
+378,Retail,Canada,Direct,2026-02-26,10,Dropped
+379,Institutional,Germany,Referral,2025-11-11,3,Completed
+380,Retail,Russia,Online Signup,2025-05-27,10,Completed
+381,Retail,Singapore,Direct,2025-09-23,9,Completed
+382,Commercial,Nigeria,Direct,2025-11-07,6,Completed
+383,Commercial,Russia,Online Signup,2025-05-12,7,Completed
+384,Retail,India,Direct,2025-09-04,9,Completed
+385,Commercial,Russia,Online Signup,2025-10-02,5,Completed
+386,Retail,Germany,Online Signup,2025-05-18,10,Completed
+387,Commercial,USA,Direct,2025-12-13,8,Dropped
+388,Retail,Russia,Referral,2025-07-10,13,Completed
+389,Retail,UK,Direct,2026-01-20,13,Completed
+390,Retail,Canada,Direct,2025-08-23,9,Dropped
+391,Retail,USA,Referral,2025-11-10,11,Completed
+392,Retail,UK,Online Signup,2026-01-21,11,Completed
+393,Commercial,USA,Referral,2026-02-16,6,Completed
+394,Retail,UK,Referral,2025-03-10,13,Completed
+395,Retail,Canada,Direct,2025-04-21,11,Dropped
+396,Retail,UK,Referral,2025-10-14,13,Completed
+397,Retail,Canada,Online Signup,2025-03-31,11,Completed
+398,Retail,Pakistan,Online Signup,2026-02-18,11,Completed
+399,Commercial,UK,Referral,2025-11-06,8,Completed
+400,Retail,UK,Direct,2025-03-06,10,Completed
+401,Institutional,Germany,Direct,2025-02-23,3,Completed
+402,Commercial,India,Direct,2025-09-27,6,Completed
+403,Retail,USA,Online Signup,2025-10-04,10,Completed
+404,Retail,Nigeria,Referral,2025-06-07,11,Dropped
+405,Retail,Nigeria,Referral,2025-05-27,12,Completed
+406,Institutional,Germany,Referral,2026-03-28,4,Completed
+407,Retail,Nigeria,Online Signup,2026-02-18,11,Completed
+408,Institutional,Singapore,Referral,2025-05-20,4,Completed
+409,Commercial,USA,Referral,2026-01-08,5,Dropped
+410,Commercial,Singapore,Referral,2025-07-10,8,Completed
+411,Institutional,Singapore,Direct,2026-03-07,3,Completed
+412,Retail,Australia,Direct,2025-04-12,12,Completed
+413,Commercial,India,Direct,2026-01-17,5,Completed
+414,Retail,UK,Referral,2025-06-16,9,Completed
+415,Retail,Canada,Online Signup,2025-11-02,10,Completed
+416,Retail,UK,Online Signup,2026-02-10,9,Completed
+417,Retail,Australia,Direct,2025-12-19,12,Dropped
+418,Retail,India,Referral,2025-04-08,13,Completed
+419,Retail,UK,Online Signup,2025-03-21,12,Completed
+420,Retail,Pakistan,Online Signup,2026-03-15,11,Completed
+421,Retail,India,Online Signup,2025-05-25,11,Dropped
+422,Retail,USA,Direct,2025-04-02,9,Dropped
+423,Retail,India,Online Signup,2025-10-30,11,Dropped
+424,Retail,UK,Referral,2026-03-03,9,Dropped
+425,Retail,Russia,Referral,2026-02-25,11,Dropped
+426,Institutional,Germany,Direct,2025-09-23,1,Completed
+427,Retail,UK,Online Signup,2025-10-13,12,Completed
+428,Institutional,Nigeria,Online Signup,2025-07-25,3,Completed
+429,Retail,Singapore,Online Signup,2025-08-09,11,Completed
+430,Retail,Singapore,Referral,2025-01-01,9,Completed
+431,Commercial,Pakistan,Direct,2026-01-31,7,Completed
+432,Commercial,UK,Referral,2025-02-17,8,Completed
+433,Retail,Canada,Online Signup,2026-02-24,9,Dropped
+434,Retail,Germany,Direct,2026-01-30,11,Completed
+435,Retail,Canada,Online Signup,2025-07-15,9,Completed
+436,Commercial,Canada,Referral,2025-08-17,5,Completed
+437,Retail,India,Referral,2025-02-13,12,Completed
+438,Retail,India,Online Signup,2025-11-12,13,Completed
+439,Institutional,Singapore,Referral,2025-06-28,2,Completed
+440,Commercial,Canada,Direct,2026-01-23,5,Completed
+441,Commercial,Germany,Direct,2025-06-06,8,Completed
+442,Commercial,India,Online Signup,2025-03-14,5,Completed
+443,Retail,India,Direct,2025-08-27,9,Dropped
+444,Retail,Canada,Direct,2025-07-14,13,Completed
+445,Retail,India,Online Signup,2025-01-12,9,Dropped
+446,Retail,Germany,Referral,2025-05-01,13,Completed
+447,Institutional,India,Referral,2025-04-26,2,Completed
+448,Retail,Pakistan,Referral,2025-08-18,13,Completed
+449,Retail,India,Direct,2025-08-09,10,Completed
+450,Retail,Pakistan,Referral,2025-07-30,11,Completed
+451,Retail,India,Online Signup,2025-10-18,13,Dropped
+452,Retail,Singapore,Online Signup,2026-03-10,13,Completed
+453,Commercial,USA,Direct,2025-05-19,8,Completed
+454,Retail,Pakistan,Referral,2025-12-19,11,Completed
+455,Retail,Russia,Online Signup,2025-11-01,13,Dropped
+456,Institutional,Singapore,Direct,2026-03-26,2,Completed
+457,Commercial,UK,Referral,2025-11-10,5,Completed
+458,Commercial,India,Online Signup,2025-10-07,6,Completed
+459,Commercial,Singapore,Referral,2025-06-15,6,Completed
+460,Retail,UAE,Online Signup,2025-03-23,12,Completed
+461,Retail,UK,Online Signup,2025-01-27,12,Completed
+462,Retail,UK,Referral,2025-09-12,12,Completed
+463,Retail,Singapore,Online Signup,2025-11-04,9,Completed
+464,Commercial,USA,Referral,2025-01-19,6,Completed
+465,Retail,UK,Online Signup,2025-05-26,13,Completed
+466,Commercial,Pakistan,Direct,2026-01-24,8,Completed
+467,Commercial,UK,Direct,2025-02-25,5,Completed
+468,Retail,UK,Online Signup,2025-11-16,11,Completed
+469,Retail,UK,Referral,2025-04-10,9,Dropped
+470,Retail,USA,Direct,2026-02-14,13,Dropped
+471,Commercial,UK,Direct,2025-06-07,7,Completed
+472,Retail,UAE,Direct,2025-04-10,11,Dropped
+473,Commercial,Singapore,Online Signup,2025-06-21,8,Completed
+474,Retail,USA,Online Signup,2025-12-17,11,Completed
+475,Retail,UK,Online Signup,2025-07-19,10,Completed
+476,Retail,Nigeria,Referral,2025-04-21,13,Dropped
+477,Commercial,USA,Online Signup,2025-01-13,8,Completed
+478,Commercial,Nigeria,Direct,2026-02-25,6,Dropped
+479,Retail,Canada,Online Signup,2026-03-23,9,Dropped
+480,Retail,Canada,Referral,2025-01-12,13,Completed
+481,Retail,Canada,Referral,2025-03-18,10,Dropped
+482,Retail,India,Referral,2025-03-14,11,Dropped
+483,Retail,Germany,Referral,2025-01-26,10,Completed
+484,Retail,Germany,Direct,2026-01-01,13,Completed
+485,Retail,Singapore,Referral,2025-06-08,12,Completed
+486,Retail,Canada,Online Signup,2025-06-19,11,Dropped
+487,Institutional,Singapore,Direct,2025-05-25,3,Completed
+488,Retail,USA,Referral,2025-09-30,12,Completed
+489,Retail,Singapore,Referral,2025-10-18,11,Completed
+490,Retail,USA,Online Signup,2025-08-26,11,Completed
+491,Retail,Germany,Online Signup,2025-12-05,9,Completed
+492,Retail,Canada,Referral,2025-09-30,11,Completed
+493,Retail,Russia,Online Signup,2025-06-26,9,Completed
+494,Retail,Nigeria,Referral,2025-02-26,11,Completed
+495,Retail,UK,Referral,2026-03-08,11,Completed
+496,Institutional,Australia,Referral,2025-12-03,4,Completed
+497,Retail,Singapore,Direct,2025-08-21,13,Completed
+498,Retail,Nigeria,Direct,2025-12-31,13,Completed
+499,Retail,USA,Online Signup,2025-09-27,11,Completed
+500,Retail,India,Online Signup,2025-06-09,13,Dropped
+501,Retail,Singapore,Online Signup,2025-06-19,12,Completed
+502,Retail,Australia,Online Signup,2025-05-14,9,Completed
+503,Institutional,India,Direct,2025-09-16,1,Completed
+504,Retail,Russia,Online Signup,2025-03-19,12,Completed
+505,Commercial,USA,Direct,2025-11-01,6,Completed
+506,Commercial,India,Referral,2025-01-28,7,Completed
+507,Retail,Germany,Referral,2025-03-16,13,Dropped
+508,Retail,Singapore,Online Signup,2025-06-11,13,Completed
+509,Retail,UK,Referral,2025-05-17,9,Completed
+510,Retail,UK,Referral,2025-12-13,10,Dropped
+511,Institutional,USA,Referral,2025-06-29,2,Completed
+512,Institutional,India,Referral,2025-12-03,2,Completed
+513,Retail,Nigeria,Referral,2025-05-12,10,Completed
+514,Commercial,Germany,Online Signup,2025-09-09,5,Completed
+515,Commercial,USA,Direct,2025-10-20,7,Dropped
+516,Retail,Canada,Direct,2025-01-20,12,Dropped
+517,Retail,Nigeria,Referral,2025-08-12,12,Dropped
+518,Retail,Nigeria,Referral,2025-03-04,13,Completed
+519,Institutional,India,Referral,2025-02-11,4,Completed
+520,Retail,Pakistan,Online Signup,2025-12-19,11,Completed
+521,Retail,India,Direct,2026-02-10,13,Dropped
+522,Commercial,Germany,Online Signup,2025-01-22,8,Completed
+523,Retail,Australia,Direct,2025-02-06,9,Dropped
+524,Retail,India,Direct,2025-12-26,10,Completed
+525,Retail,UK,Direct,2025-08-07,11,Completed
+526,Retail,Nigeria,Online Signup,2025-03-30,11,Completed
+527,Institutional,Nigeria,Online Signup,2025-07-12,2,Dropped
+528,Retail,Australia,Online Signup,2026-03-31,11,Completed
+529,Commercial,UK,Online Signup,2025-01-20,6,Completed
+530,Retail,UK,Online Signup,2025-02-18,13,Completed
+531,Commercial,USA,Direct,2026-02-12,6,Completed
+532,Commercial,UK,Online Signup,2026-02-17,8,Completed
+533,Retail,USA,Direct,2026-01-05,12,Completed
+534,Institutional,UK,Direct,2026-01-13,4,Completed
+535,Institutional,Russia,Referral,2025-04-02,4,Completed
+536,Retail,USA,Direct,2025-02-26,12,Completed
+537,Retail,India,Online Signup,2026-03-14,10,Dropped
+538,Retail,Pakistan,Direct,2025-06-17,12,Completed
+539,Institutional,UAE,Online Signup,2026-01-29,1,Completed
+540,Retail,Russia,Direct,2025-07-03,11,Completed
+541,Retail,USA,Referral,2025-08-26,10,Dropped
+542,Retail,Germany,Online Signup,2025-06-20,13,Completed
+543,Commercial,Canada,Online Signup,2026-03-27,7,Completed
+544,Retail,Canada,Online Signup,2025-02-04,13,Completed
+545,Retail,Pakistan,Online Signup,2025-04-18,10,Dropped
+546,Commercial,India,Online Signup,2026-03-01,5,Completed
+547,Retail,Russia,Direct,2025-04-07,12,Completed
+548,Retail,India,Direct,2025-09-24,9,Completed
+549,Retail,USA,Direct,2025-02-02,9,Completed
+550,Retail,India,Online Signup,2025-12-23,13,Completed
+551,Commercial,India,Referral,2026-01-30,5,Completed
+552,Retail,Canada,Online Signup,2026-02-11,10,Completed
+553,Commercial,Germany,Referral,2025-08-18,6,Completed
+554,Retail,Germany,Direct,2026-01-14,13,Completed
+555,Retail,India,Direct,2026-02-14,13,Dropped
+556,Retail,USA,Online Signup,2025-10-10,9,Dropped
+557,Retail,UK,Referral,2025-02-17,11,Completed
+558,Commercial,USA,Referral,2025-12-13,5,Completed
+559,Retail,Germany,Online Signup,2026-03-14,12,Dropped
+560,Commercial,Germany,Referral,2026-03-24,5,Completed
+561,Retail,UAE,Referral,2026-01-09,12,Completed
+562,Commercial,Russia,Online Signup,2026-01-23,8,Completed
+563,Retail,UK,Referral,2025-05-29,13,Completed
+564,Institutional,UK,Online Signup,2026-03-04,4,Completed
+565,Commercial,USA,Referral,2025-09-10,5,Completed
+566,Retail,Canada,Direct,2025-07-11,13,Dropped
+567,Commercial,India,Direct,2025-06-13,8,Completed
+568,Institutional,UK,Online Signup,2025-02-09,2,Completed
+569,Retail,Germany,Online Signup,2025-10-24,11,Dropped
+570,Retail,Germany,Referral,2025-07-30,11,Completed
+571,Retail,India,Online Signup,2025-12-26,9,Completed
+572,Retail,Pakistan,Online Signup,2025-09-25,11,Dropped
+573,Retail,UK,Online Signup,2025-03-14,10,Completed
+574,Institutional,USA,Online Signup,2025-09-20,1,Completed
+575,Retail,Russia,Direct,2025-10-28,10,Completed
+576,Institutional,Nigeria,Direct,2025-09-28,2,Dropped
+577,Retail,Russia,Online Signup,2026-03-12,12,Completed
+578,Retail,India,Referral,2025-02-27,11,Completed
+579,Retail,Germany,Referral,2025-11-04,11,Completed
+580,Retail,Nigeria,Online Signup,2025-07-08,10,Completed
+581,Institutional,Russia,Direct,2025-02-03,3,Completed
+582,Commercial,Australia,Online Signup,2025-10-31,7,Completed
+583,Institutional,India,Direct,2025-11-18,2,Completed
+584,Retail,USA,Direct,2025-12-05,13,Completed
+585,Commercial,Pakistan,Online Signup,2025-01-10,5,Completed
+586,Commercial,Canada,Referral,2026-03-29,6,Completed
+587,Retail,Singapore,Online Signup,2026-03-14,10,Completed
+588,Retail,USA,Referral,2025-06-28,13,Completed
+589,Commercial,UK,Referral,2025-10-31,5,Completed
+590,Retail,Singapore,Direct,2025-12-23,12,Dropped
+591,Commercial,India,Referral,2025-10-21,5,Completed
+592,Commercial,India,Referral,2025-08-12,6,Completed
+593,Commercial,UK,Online Signup,2025-07-25,6,Completed
+594,Institutional,Nigeria,Referral,2025-08-07,2,Completed
+595,Retail,Nigeria,Direct,2026-03-28,9,Completed
+596,Retail,Nigeria,Referral,2025-10-17,9,Completed
+597,Retail,Pakistan,Direct,2025-11-21,10,Completed
+598,Commercial,India,Referral,2025-08-05,5,Completed
+599,Commercial,Pakistan,Online Signup,2025-09-06,5,Completed
+600,Retail,Canada,Direct,2025-07-23,10,Completed
+601,Retail,UK,Direct,2026-01-31,11,Completed
+602,Commercial,UK,Referral,2025-05-11,5,Completed
+603,Commercial,UK,Direct,2025-07-05,8,Dropped
+604,Retail,India,Online Signup,2025-12-06,9,Completed
+605,Retail,India,Direct,2026-03-16,12,Dropped
+606,Retail,Russia,Referral,2025-06-04,9,Completed
+607,Retail,Nigeria,Referral,2026-03-20,9,Completed
+608,Retail,Canada,Online Signup,2025-02-03,11,Completed
+609,Institutional,Canada,Online Signup,2025-08-16,2,Completed
+610,Retail,Nigeria,Online Signup,2025-07-30,11,Completed
+611,Commercial,Pakistan,Online Signup,2025-04-25,5,Completed
+612,Retail,UK,Referral,2025-11-13,12,Dropped
+613,Retail,Russia,Direct,2025-01-08,13,Completed
+614,Retail,Nigeria,Referral,2025-05-28,12,Completed
+615,Institutional,UK,Referral,2025-05-01,4,Completed
+616,Commercial,Canada,Online Signup,2025-04-19,8,Completed
+617,Commercial,Pakistan,Online Signup,2025-12-10,5,Completed
+618,Retail,India,Referral,2025-03-28,13,Completed
+619,Institutional,USA,Referral,2026-01-18,3,Completed
+620,Commercial,Pakistan,Referral,2026-01-13,8,Completed
+621,Commercial,Singapore,Direct,2025-12-28,8,Completed
+622,Institutional,Australia,Direct,2025-03-05,3,Completed
+623,Retail,Canada,Direct,2025-10-26,9,Completed
+624,Commercial,UAE,Direct,2025-07-21,7,Dropped
+625,Retail,Singapore,Online Signup,2025-05-18,13,Dropped
+626,Retail,Singapore,Online Signup,2026-01-11,13,Dropped
+627,Retail,Germany,Direct,2026-01-16,9,Completed
+628,Retail,USA,Direct,2025-03-25,12,Completed
+629,Retail,Nigeria,Referral,2025-12-17,13,Completed
+630,Commercial,India,Direct,2026-01-23,8,Completed
+631,Retail,UK,Online Signup,2026-01-01,10,Completed
+632,Retail,Germany,Direct,2025-09-25,12,Completed
+633,Retail,Singapore,Online Signup,2025-10-19,11,Dropped
+634,Retail,USA,Online Signup,2025-08-25,10,Completed
+635,Retail,Germany,Direct,2025-04-19,10,Dropped
+636,Retail,USA,Direct,2025-01-07,10,Completed
+637,Retail,UAE,Online Signup,2025-07-22,11,Dropped
+638,Institutional,USA,Direct,2026-03-16,1,Completed
+639,Retail,USA,Referral,2025-03-17,12,Dropped
+640,Commercial,UK,Online Signup,2025-08-16,8,Dropped
+641,Retail,UK,Referral,2025-10-19,12,Dropped
+642,Retail,Singapore,Referral,2026-03-11,12,Completed
+643,Retail,India,Online Signup,2026-02-23,12,Completed
+644,Retail,Singapore,Referral,2025-03-01,12,Completed
+645,Commercial,Germany,Direct,2025-09-17,6,Completed
+646,Institutional,UK,Online Signup,2025-07-19,4,Completed
+647,Retail,Canada,Direct,2025-03-30,10,Dropped
+648,Retail,UK,Online Signup,2025-01-17,9,Completed
+649,Commercial,Germany,Direct,2026-01-30,7,Completed
+650,Retail,Nigeria,Direct,2026-02-05,13,Dropped
+651,Retail,Pakistan,Referral,2025-03-22,11,Completed
+652,Institutional,UK,Referral,2026-01-29,1,Completed
+653,Retail,UK,Online Signup,2025-08-04,10,Completed
+654,Institutional,USA,Online Signup,2025-02-05,1,Completed
+655,Retail,Canada,Online Signup,2025-01-30,13,Completed
+656,Retail,Pakistan,Online Signup,2025-03-17,12,Completed
+657,Retail,Canada,Direct,2026-03-28,11,Completed
+658,Institutional,India,Online Signup,2025-06-24,2,Completed
+659,Institutional,Germany,Online Signup,2025-09-17,3,Completed
+660,Retail,UAE,Online Signup,2025-10-25,13,Completed
+661,Institutional,Germany,Online Signup,2025-05-07,1,Completed
+662,Retail,Singapore,Direct,2025-02-01,12,Completed
+663,Retail,Germany,Referral,2025-10-27,12,Completed
+664,Retail,Singapore,Online Signup,2025-09-20,13,Dropped
+665,Retail,Germany,Direct,2025-11-05,12,Dropped
+666,Institutional,Germany,Referral,2025-06-05,3,Completed
+667,Commercial,UK,Direct,2026-02-24,8,Completed
+668,Retail,Pakistan,Referral,2025-09-01,13,Completed
+669,Commercial,Nigeria,Online Signup,2025-11-16,8,Completed
+670,Retail,Pakistan,Online Signup,2025-01-13,13,Completed
+671,Institutional,India,Direct,2026-01-20,4,Completed
+672,Retail,UK,Online Signup,2026-03-06,13,Completed
+673,Retail,Germany,Direct,2025-08-01,9,Completed
+674,Institutional,UK,Direct,2025-03-20,3,Completed
+675,Commercial,USA,Direct,2025-07-31,7,Completed
+676,Retail,Germany,Direct,2025-05-18,9,Completed
+677,Retail,UK,Online Signup,2025-12-12,9,Completed
+678,Retail,India,Direct,2025-07-11,13,Completed
+679,Institutional,Singapore,Online Signup,2025-05-29,2,Completed
+680,Commercial,India,Direct,2025-06-03,5,Completed
+681,Commercial,India,Referral,2026-03-29,7,Completed
+682,Commercial,Russia,Direct,2025-11-27,5,Completed
+683,Retail,Canada,Direct,2025-10-03,9,Completed
+684,Commercial,Nigeria,Online Signup,2025-01-05,5,Dropped
+685,Retail,Nigeria,Online Signup,2025-12-30,11,Completed
+686,Retail,Australia,Direct,2025-01-04,10,Completed
+687,Commercial,India,Online Signup,2025-02-03,6,Completed
+688,Retail,USA,Online Signup,2025-12-14,13,Completed
+689,Retail,USA,Referral,2025-08-10,12,Completed
+690,Retail,USA,Referral,2025-09-30,12,Dropped
+691,Retail,USA,Online Signup,2025-04-26,12,Completed
+692,Institutional,Nigeria,Referral,2026-03-07,3,Completed
+693,Retail,Nigeria,Online Signup,2025-08-13,9,Dropped
+694,Institutional,Germany,Online Signup,2025-02-03,2,Completed
+695,Retail,USA,Referral,2025-04-30,13,Completed
+696,Retail,Singapore,Referral,2025-10-28,10,Completed
+697,Retail,UK,Direct,2025-01-31,10,Completed
+698,Retail,India,Online Signup,2025-12-14,10,Dropped
+699,Commercial,UAE,Online Signup,2025-04-14,5,Completed
+700,Retail,Germany,Referral,2025-08-03,11,Completed
+701,Retail,Canada,Referral,2025-11-16,10,Dropped
+702,Institutional,Germany,Online Signup,2025-02-28,2,Completed
+703,Retail,UK,Direct,2025-01-12,10,Dropped
+704,Retail,Germany,Direct,2025-06-23,10,Completed
+705,Retail,USA,Direct,2026-02-11,10,Completed
+706,Retail,UK,Direct,2025-06-17,10,Completed
+707,Retail,India,Direct,2025-09-18,12,Completed
+708,Retail,Russia,Referral,2025-05-18,13,Completed
+709,Commercial,UK,Referral,2025-07-13,6,Completed
+710,Commercial,USA,Online Signup,2025-11-15,7,Completed
+711,Institutional,Singapore,Referral,2025-11-27,1,Completed
+712,Institutional,Germany,Online Signup,2025-04-13,3,Completed
+713,Commercial,India,Direct,2026-03-14,7,Completed
+714,Retail,Nigeria,Direct,2025-08-30,13,Completed
+715,Retail,Germany,Direct,2025-06-10,10,Completed
+716,Retail,USA,Online Signup,2026-03-04,11,Completed
+717,Commercial,India,Online Signup,2026-02-07,5,Completed
+718,Retail,Pakistan,Referral,2025-04-15,12,Dropped
+719,Retail,Singapore,Referral,2025-02-17,10,Completed
+720,Commercial,UK,Online Signup,2025-02-05,8,Dropped
+721,Commercial,Pakistan,Referral,2025-03-22,5,Completed
+722,Commercial,Singapore,Online Signup,2025-12-07,8,Completed
+723,Commercial,USA,Direct,2025-08-17,5,Completed
+724,Retail,USA,Direct,2025-05-28,12,Completed
+725,Retail,Australia,Referral,2025-07-16,10,Completed
+726,Institutional,Australia,Direct,2025-09-10,4,Completed
+727,Retail,UK,Direct,2025-09-17,9,Dropped
+728,Retail,Canada,Referral,2025-07-15,11,Dropped
+729,Retail,USA,Online Signup,2026-01-19,12,Dropped
+730,Retail,Australia,Referral,2025-03-13,12,Dropped
+731,Commercial,USA,Online Signup,2025-07-20,6,Dropped
+732,Commercial,Singapore,Direct,2025-04-21,5,Completed
+733,Retail,Pakistan,Referral,2025-12-20,11,Dropped
+734,Retail,Nigeria,Direct,2025-07-11,10,Completed
+735,Retail,UK,Direct,2025-01-23,12,Completed
+736,Retail,Russia,Direct,2025-04-29,10,Completed
+737,Commercial,Germany,Online Signup,2025-09-13,5,Completed
+738,Commercial,Canada,Referral,2025-12-14,6,Completed
+739,Institutional,USA,Online Signup,2025-08-18,4,Completed
+740,Retail,Pakistan,Referral,2025-05-02,12,Completed
+741,Institutional,Russia,Online Signup,2025-08-16,3,Completed
+742,Commercial,USA,Online Signup,2025-06-19,7,Completed
+743,Retail,UK,Referral,2025-09-24,11,Dropped
+744,Retail,USA,Direct,2025-01-27,10,Completed
+745,Retail,India,Referral,2025-05-27,13,Completed
+746,Retail,Singapore,Online Signup,2026-01-12,12,Dropped
+747,Retail,USA,Referral,2025-11-01,13,Completed
+748,Retail,India,Referral,2025-03-11,12,Dropped
+749,Retail,Germany,Referral,2025-08-01,12,Completed
+750,Retail,USA,Online Signup,2025-03-25,10,Completed
+751,Retail,Singapore,Direct,2025-05-05,12,Completed
+752,Institutional,India,Online Signup,2025-03-17,3,Completed
+753,Retail,Russia,Referral,2025-12-28,13,Completed
+754,Retail,Germany,Referral,2026-01-21,9,Completed
+755,Retail,Germany,Referral,2025-01-04,10,Completed
+756,Retail,UK,Direct,2025-09-15,9,Completed
+757,Commercial,UAE,Referral,2025-08-14,5,Completed
+758,Retail,Nigeria,Direct,2025-02-01,11,Dropped
+759,Commercial,Nigeria,Referral,2025-11-05,7,Completed
+760,Retail,Russia,Online Signup,2025-07-24,12,Completed
+761,Retail,Pakistan,Direct,2025-01-14,13,Completed
+762,Retail,Singapore,Referral,2025-12-05,10,Dropped
+763,Retail,USA,Online Signup,2025-06-16,12,Completed
+764,Retail,Russia,Online Signup,2026-03-15,9,Completed
+765,Retail,USA,Direct,2025-06-04,13,Completed
+766,Commercial,Nigeria,Online Signup,2025-12-25,5,Completed
+767,Commercial,UK,Referral,2025-12-10,5,Completed
+768,Commercial,India,Online Signup,2025-02-03,7,Completed
+769,Retail,Singapore,Direct,2025-04-25,11,Dropped
+770,Commercial,India,Direct,2026-01-17,5,Dropped
+771,Institutional,India,Referral,2025-08-05,3,Completed
+772,Institutional,USA,Referral,2025-06-11,2,Completed
+773,Retail,Germany,Online Signup,2025-03-05,11,Completed
+774,Retail,Germany,Online Signup,2025-04-18,10,Completed
+775,Institutional,Germany,Referral,2025-12-14,4,Completed
+776,Commercial,Pakistan,Referral,2025-02-19,6,Completed
+777,Commercial,USA,Online Signup,2025-09-05,7,Completed
+778,Retail,USA,Direct,2025-07-12,12,Dropped
+779,Retail,UK,Direct,2025-03-02,13,Completed
+780,Commercial,India,Online Signup,2025-11-02,6,Completed
+781,Retail,Germany,Online Signup,2025-12-01,12,Dropped
+782,Institutional,USA,Online Signup,2025-12-09,2,Completed
+783,Retail,UK,Direct,2025-02-20,11,Completed
+784,Retail,Nigeria,Online Signup,2025-09-08,9,Completed
+785,Retail,USA,Online Signup,2025-12-22,10,Completed
+786,Institutional,UAE,Online Signup,2025-06-02,3,Completed
+787,Retail,UK,Online Signup,2025-08-16,10,Completed
+788,Institutional,USA,Direct,2025-06-03,2,Completed
+789,Retail,Singapore,Direct,2025-05-11,12,Dropped
+790,Retail,UAE,Online Signup,2025-11-27,10,Completed
+791,Retail,Canada,Referral,2025-02-03,11,Completed
+792,Institutional,Germany,Direct,2025-07-13,1,Completed
+793,Retail,Australia,Referral,2025-10-10,11,Dropped
+794,Commercial,Nigeria,Direct,2025-06-26,8,Completed
+795,Retail,Canada,Referral,2025-12-29,10,Completed
+796,Commercial,Canada,Direct,2025-06-06,8,Completed
+797,Retail,USA,Referral,2025-10-11,12,Completed
+798,Retail,UAE,Online Signup,2025-12-24,9,Dropped
+799,Retail,Germany,Online Signup,2025-12-05,13,Completed
+800,Retail,UK,Referral,2026-03-06,10,Completed
+801,Retail,Pakistan,Referral,2025-06-03,12,Dropped
+802,Retail,Germany,Referral,2025-11-26,13,Dropped
+803,Commercial,Germany,Direct,2025-06-29,6,Completed
+804,Retail,UK,Online Signup,2025-05-09,10,Completed
+805,Commercial,Germany,Referral,2025-01-03,7,Completed
+806,Institutional,Canada,Referral,2025-12-07,3,Completed
+807,Retail,Pakistan,Online Signup,2026-01-07,12,Dropped
+808,Commercial,India,Online Signup,2025-05-02,5,Dropped
+809,Commercial,India,Referral,2025-05-07,6,Completed
+810,Retail,Singapore,Referral,2025-12-28,9,Completed
+811,Commercial,UK,Direct,2025-08-07,5,Completed
+812,Retail,UK,Referral,2025-09-03,9,Dropped
+813,Institutional,Germany,Referral,2025-12-31,4,Completed
+814,Retail,USA,Direct,2025-05-10,12,Dropped
+815,Retail,Canada,Direct,2025-06-19,11,Completed
+816,Retail,USA,Direct,2025-03-08,13,Completed
+817,Retail,USA,Online Signup,2025-11-13,11,Completed
+818,Commercial,India,Referral,2026-03-26,7,Completed
+819,Institutional,India,Online Signup,2025-03-08,3,Completed
+820,Retail,India,Online Signup,2025-02-08,10,Completed
+821,Retail,Pakistan,Online Signup,2025-08-22,13,Completed
+822,Retail,UK,Online Signup,2025-03-17,11,Completed
+823,Retail,USA,Referral,2025-11-20,13,Completed
+824,Retail,UK,Direct,2025-11-17,9,Completed
+825,Retail,Nigeria,Online Signup,2025-02-24,12,Completed
+826,Retail,Nigeria,Referral,2025-03-21,12,Completed
+827,Retail,UK,Online Signup,2025-09-09,10,Completed
+828,Retail,UAE,Direct,2026-01-06,13,Completed
+829,Retail,Canada,Direct,2025-03-09,10,Completed
+830,Retail,USA,Direct,2025-09-03,13,Completed
+831,Commercial,India,Direct,2026-02-27,5,Dropped
+832,Institutional,Singapore,Direct,2025-06-30,3,Completed
+833,Commercial,Russia,Referral,2025-07-02,5,Completed
+834,Retail,Germany,Direct,2025-12-14,12,Completed
+835,Commercial,India,Referral,2025-05-16,5,Completed
+836,Retail,Nigeria,Referral,2026-02-22,9,Completed
+837,Retail,Germany,Referral,2025-09-04,12,Completed
+838,Retail,India,Online Signup,2025-09-10,13,Completed
+839,Retail,Australia,Online Signup,2025-02-14,10,Completed
+840,Retail,Pakistan,Direct,2025-05-31,12,Completed
+841,Retail,USA,Online Signup,2025-01-14,12,Dropped
+842,Retail,Singapore,Online Signup,2026-03-22,10,Dropped
+843,Retail,Singapore,Direct,2025-08-29,10,Completed
+844,Retail,India,Direct,2025-07-22,12,Completed
+845,Retail,UK,Direct,2025-09-25,12,Completed
+846,Retail,India,Direct,2026-02-23,12,Completed
+847,Retail,UK,Direct,2025-02-23,9,Dropped
+848,Commercial,USA,Direct,2025-11-02,5,Completed
+849,Retail,USA,Referral,2025-01-24,9,Completed
+850,Retail,Germany,Referral,2026-01-07,11,Dropped
+851,Retail,Australia,Direct,2025-09-15,10,Completed
+852,Institutional,Australia,Direct,2026-02-18,2,Completed
+853,Commercial,India,Referral,2025-01-21,8,Completed
+854,Retail,Nigeria,Direct,2026-01-28,11,Completed
+855,Retail,Germany,Direct,2025-04-02,12,Completed
+856,Retail,UAE,Referral,2025-01-21,11,Completed
+857,Retail,Germany,Online Signup,2025-07-31,13,Completed
+858,Retail,USA,Direct,2025-05-29,12,Completed
+859,Retail,Nigeria,Direct,2025-02-13,10,Completed
+860,Retail,UK,Direct,2025-10-07,10,Completed
+861,Retail,UK,Direct,2026-03-21,9,Completed
+862,Commercial,Australia,Referral,2025-09-26,6,Completed
+863,Retail,India,Online Signup,2025-12-19,10,Dropped
+864,Retail,India,Direct,2026-01-06,13,Completed
+865,Retail,USA,Referral,2025-03-17,12,Dropped
+866,Retail,Nigeria,Direct,2025-11-21,12,Completed
+867,Retail,Germany,Direct,2025-12-14,13,Completed
+868,Institutional,India,Referral,2025-07-31,4,Completed
+869,Commercial,India,Online Signup,2025-08-12,8,Completed
+870,Retail,Pakistan,Direct,2026-02-17,9,Completed
+871,Institutional,Singapore,Online Signup,2026-02-17,1,Completed
+872,Retail,Russia,Referral,2026-02-11,12,Completed
+873,Retail,UK,Online Signup,2025-05-16,11,Dropped
+874,Retail,USA,Direct,2025-03-20,11,Completed
+875,Commercial,UAE,Direct,2025-11-12,8,Completed
+876,Retail,India,Referral,2025-04-29,9,Completed
+877,Retail,UK,Direct,2025-01-14,12,Dropped
+878,Retail,USA,Referral,2025-01-13,10,Completed
+879,Retail,Germany,Referral,2025-12-04,9,Dropped
+880,Retail,USA,Online Signup,2025-03-04,9,Completed
+881,Retail,Germany,Referral,2026-02-12,9,Completed
+882,Commercial,Pakistan,Direct,2025-04-03,7,Completed
+883,Commercial,UAE,Online Signup,2025-10-07,5,Completed
+884,Retail,UK,Referral,2025-02-28,10,Completed
+885,Retail,India,Online Signup,2025-07-24,10,Completed
+886,Retail,Russia,Referral,2025-08-10,12,Completed
+887,Retail,Pakistan,Direct,2025-08-19,10,Completed
+888,Retail,Singapore,Direct,2025-07-03,10,Completed
+889,Retail,Germany,Direct,2025-10-15,9,Completed
+890,Retail,Nigeria,Online Signup,2025-02-08,13,Completed
+891,Institutional,UK,Direct,2025-03-05,4,Completed
+892,Retail,India,Direct,2025-08-25,11,Completed
+893,Retail,USA,Direct,2026-03-01,12,Completed
+894,Retail,Germany,Online Signup,2025-08-21,12,Completed
+895,Institutional,UAE,Online Signup,2026-01-06,4,Completed
+896,Retail,Pakistan,Referral,2026-03-29,9,Completed
+897,Retail,USA,Referral,2026-03-18,10,Completed
+898,Retail,Germany,Online Signup,2025-09-05,10,Completed
+899,Institutional,UAE,Direct,2025-04-19,1,Completed
+900,Retail,Germany,Referral,2025-12-29,12,Completed
+901,Commercial,Singapore,Direct,2025-05-23,8,Completed
+902,Institutional,USA,Direct,2025-08-24,2,Completed
+903,Retail,India,Direct,2025-08-14,11,Completed
+904,Retail,India,Online Signup,2025-11-08,12,Completed
+905,Institutional,USA,Referral,2025-05-03,1,Completed
+906,Institutional,Australia,Online Signup,2025-05-18,4,Completed
+907,Institutional,UK,Online Signup,2025-11-15,4,Completed
+908,Commercial,Singapore,Direct,2025-12-08,8,Completed
+909,Retail,India,Referral,2025-10-26,9,Dropped
+910,Institutional,Canada,Referral,2026-03-04,2,Completed
+911,Retail,Canada,Referral,2025-07-06,12,Completed
+912,Retail,Nigeria,Referral,2025-02-27,11,Completed
+913,Retail,UAE,Referral,2025-04-16,9,Dropped
+914,Commercial,India,Online Signup,2025-08-19,6,Completed
+915,Commercial,UK,Online Signup,2025-09-24,7,Completed
+916,Institutional,USA,Online Signup,2025-03-17,4,Completed
+917,Institutional,UK,Referral,2025-01-21,2,Dropped
+918,Retail,Nigeria,Direct,2025-05-09,10,Completed
+919,Retail,Russia,Referral,2025-04-23,9,Completed
+920,Retail,Russia,Online Signup,2025-06-09,10,Completed
+921,Commercial,Russia,Referral,2025-10-07,6,Completed
+922,Retail,Germany,Referral,2025-08-07,12,Completed
+923,Institutional,USA,Referral,2026-02-07,2,Completed
+924,Institutional,Nigeria,Online Signup,2025-08-24,1,Completed
+925,Retail,Germany,Direct,2025-03-04,13,Dropped
+926,Commercial,USA,Online Signup,2025-09-11,6,Completed
+927,Retail,Nigeria,Online Signup,2025-12-19,10,Dropped
+928,Retail,Russia,Referral,2025-07-27,12,Completed
+929,Retail,UK,Online Signup,2025-12-03,10,Completed
+930,Commercial,Germany,Direct,2025-08-26,8,Completed
+931,Retail,Singapore,Referral,2025-03-13,12,Completed
+932,Commercial,Australia,Referral,2025-09-20,5,Completed
+933,Retail,UK,Online Signup,2025-06-05,12,Completed
+934,Retail,Russia,Online Signup,2025-09-27,11,Completed
+935,Commercial,Canada,Referral,2025-12-14,8,Completed
+936,Retail,UK,Referral,2026-01-22,12,Dropped
+937,Retail,Germany,Online Signup,2026-03-07,9,Completed
+938,Commercial,UK,Referral,2025-12-14,7,Completed
+939,Retail,India,Online Signup,2025-02-19,10,Completed
+940,Retail,Canada,Referral,2025-04-08,10,Completed
+941,Retail,India,Direct,2026-02-05,13,Completed
+942,Retail,UK,Referral,2025-07-19,11,Completed
+943,Retail,India,Referral,2025-07-24,13,Completed
+944,Retail,USA,Referral,2025-05-14,10,Completed
+945,Retail,Nigeria,Online Signup,2025-11-09,9,Completed
+946,Retail,UK,Direct,2025-02-23,9,Completed
+947,Retail,USA,Direct,2025-01-14,10,Dropped
+948,Retail,Germany,Referral,2025-12-23,10,Dropped
+949,Retail,Pakistan,Referral,2025-04-10,11,Dropped
+950,Institutional,Singapore,Online Signup,2025-10-18,1,Completed
+951,Commercial,Germany,Online Signup,2025-12-02,6,Completed
+952,Retail,UK,Online Signup,2026-01-12,11,Completed
+953,Commercial,Pakistan,Referral,2025-12-24,5,Completed
+954,Retail,India,Referral,2026-01-15,13,Completed
+955,Retail,Nigeria,Direct,2025-01-11,12,Completed
+956,Retail,USA,Referral,2025-07-16,12,Completed
+957,Institutional,Nigeria,Direct,2025-11-08,3,Completed
+958,Retail,Australia,Online Signup,2026-01-21,9,Completed
+959,Retail,Singapore,Online Signup,2025-10-18,13,Completed
+960,Institutional,Nigeria,Referral,2025-02-13,2,Completed
+961,Commercial,Canada,Referral,2026-03-10,6,Completed
+962,Retail,UK,Direct,2025-10-24,9,Completed
+963,Retail,UK,Referral,2025-03-07,10,Dropped
+964,Institutional,Canada,Referral,2025-10-24,3,Completed
+965,Institutional,Nigeria,Referral,2025-10-04,1,Completed
+966,Retail,Nigeria,Online Signup,2025-08-01,9,Completed
+967,Retail,Singapore,Referral,2025-11-15,9,Completed
+968,Commercial,Germany,Online Signup,2026-02-04,7,Completed
+969,Retail,Russia,Direct,2025-10-17,13,Completed
+970,Retail,Canada,Online Signup,2025-08-14,11,Completed
+971,Retail,UK,Referral,2026-01-19,9,Completed
+972,Institutional,Germany,Referral,2025-11-06,2,Completed
+973,Retail,India,Referral,2025-06-24,11,Completed
+974,Retail,Pakistan,Referral,2025-01-08,10,Dropped
+975,Retail,Nigeria,Direct,2025-12-20,10,Completed
+976,Retail,Pakistan,Online Signup,2025-11-08,13,Completed
+977,Retail,Nigeria,Referral,2026-01-23,12,Completed
+978,Institutional,India,Online Signup,2025-11-29,4,Completed
+979,Institutional,India,Online Signup,2025-10-24,4,Completed
+980,Retail,UAE,Direct,2025-08-09,13,Dropped
+981,Commercial,USA,Referral,2025-09-07,8,Completed
+982,Retail,Canada,Direct,2025-02-19,10,Dropped
+983,Retail,USA,Direct,2025-05-25,13,Completed
+984,Retail,Nigeria,Referral,2025-08-10,12,Completed
+985,Retail,UK,Direct,2025-06-17,10,Completed
+986,Institutional,Australia,Online Signup,2025-06-12,2,Completed
+987,Retail,UK,Direct,2025-09-06,10,Dropped
+988,Institutional,India,Direct,2025-12-30,2,Completed
+989,Commercial,India,Online Signup,2025-07-20,7,Completed
+990,Commercial,UAE,Referral,2025-05-07,8,Completed
+991,Retail,Nigeria,Referral,2025-11-04,12,Completed
+992,Commercial,Canada,Referral,2025-07-20,8,Completed
+993,Retail,Germany,Referral,2025-04-24,13,Completed
+994,Institutional,India,Online Signup,2025-01-11,4,Completed
+995,Institutional,UK,Online Signup,2025-04-12,2,Completed
+996,Institutional,Nigeria,Online Signup,2025-02-22,4,Completed
+997,Retail,Nigeria,Referral,2025-12-02,12,Completed
+998,Retail,USA,Online Signup,2026-03-02,13,Dropped
+999,Retail,Germany,Online Signup,2026-03-16,11,Completed
+1000,Retail,India,Referral,2025-05-30,12,Completed
+1001,Retail,Australia,Referral,2026-01-26,13,Dropped
+1002,Retail,Singapore,Referral,2025-10-16,9,Completed
+1003,Retail,India,Direct,2025-02-12,10,Completed
+1004,Commercial,UK,Referral,2025-12-19,8,Completed
+1005,Retail,UK,Referral,2025-12-29,12,Completed
+1006,Institutional,India,Direct,2025-03-27,2,Dropped
+1007,Institutional,UAE,Online Signup,2026-03-27,3,Completed
+1008,Retail,India,Referral,2025-08-25,10,Dropped
+1009,Retail,UK,Direct,2025-01-03,11,Dropped
+1010,Retail,USA,Online Signup,2025-08-28,13,Dropped
+1011,Commercial,Nigeria,Referral,2025-10-27,7,Completed
+1012,Commercial,UK,Direct,2025-03-06,8,Completed
+1013,Retail,Pakistan,Direct,2025-03-28,9,Completed
+1014,Institutional,India,Referral,2025-08-06,4,Completed
+1015,Retail,Germany,Online Signup,2025-06-12,13,Completed
+1016,Retail,Nigeria,Online Signup,2025-08-15,12,Completed
+1017,Retail,Canada,Online Signup,2025-08-06,10,Dropped
+1018,Retail,India,Direct,2025-10-28,11,Completed
+1019,Retail,USA,Online Signup,2025-12-27,11,Completed
+1020,Retail,Singapore,Online Signup,2026-01-20,13,Dropped
+1021,Retail,UK,Online Signup,2025-04-01,10,Completed
+1022,Commercial,India,Direct,2025-06-20,7,Completed
+1023,Retail,Nigeria,Online Signup,2025-02-01,9,Completed
+1024,Commercial,India,Direct,2025-11-22,5,Completed
+1025,Retail,Singapore,Direct,2025-02-16,10,Completed
+1026,Retail,UK,Online Signup,2025-11-25,10,Completed
+1027,Commercial,UAE,Referral,2025-12-24,8,Completed
+1028,Retail,UK,Online Signup,2025-07-17,10,Completed
+1029,Retail,Australia,Referral,2025-02-16,13,Dropped
+1030,Retail,Canada,Referral,2025-03-13,12,Completed
+1031,Institutional,Germany,Direct,2025-03-23,4,Completed
+1032,Retail,UK,Direct,2025-08-13,13,Completed
+1033,Retail,India,Referral,2025-12-14,12,Completed
+1034,Institutional,Singapore,Referral,2025-10-23,4,Completed
+1035,Retail,UK,Online Signup,2026-01-20,10,Dropped
+1036,Retail,USA,Referral,2025-08-23,12,Completed
+1037,Commercial,Pakistan,Referral,2025-02-16,6,Completed
+1038,Retail,Canada,Referral,2025-12-09,12,Completed
+1039,Institutional,Nigeria,Referral,2026-02-24,4,Completed
+1040,Retail,Nigeria,Referral,2025-07-05,11,Completed
+1041,Commercial,UK,Referral,2025-02-17,7,Completed
+1042,Institutional,Russia,Referral,2025-04-02,2,Completed
+1043,Commercial,India,Referral,2025-12-18,8,Completed
+1044,Commercial,Canada,Online Signup,2026-02-18,8,Completed
+1045,Retail,UAE,Online Signup,2026-01-24,12,Completed
+1046,Retail,Singapore,Direct,2025-08-26,11,Completed
+1047,Commercial,Nigeria,Online Signup,2025-05-17,6,Dropped
+1048,Commercial,Canada,Online Signup,2025-02-27,7,Completed
+1049,Retail,Germany,Referral,2025-12-19,13,Completed
+1050,Institutional,Germany,Direct,2025-03-17,1,Completed
+1051,Retail,UK,Online Signup,2025-05-12,9,Completed
+1052,Retail,Nigeria,Online Signup,2026-02-14,9,Completed
+1053,Retail,USA,Referral,2025-04-03,11,Dropped
+1054,Commercial,Nigeria,Online Signup,2025-03-08,7,Completed
+1055,Commercial,India,Online Signup,2025-12-31,8,Completed
+1056,Retail,UK,Online Signup,2025-09-13,10,Dropped
+1057,Retail,UAE,Online Signup,2025-09-07,13,Completed
+1058,Retail,UK,Online Signup,2025-03-27,13,Completed
+1059,Retail,India,Referral,2025-11-07,9,Completed
+1060,Retail,UAE,Referral,2025-10-09,12,Completed
+1061,Retail,UAE,Online Signup,2025-06-12,13,Completed
+1062,Commercial,Pakistan,Referral,2025-05-28,5,Completed
+1063,Commercial,USA,Direct,2025-03-12,5,Dropped
+1064,Commercial,India,Referral,2025-12-17,5,Completed
+1065,Commercial,Russia,Referral,2025-07-08,6,Completed
+1066,Retail,Singapore,Online Signup,2025-11-05,12,Completed
+1067,Commercial,Russia,Direct,2025-05-06,8,Completed
+1068,Institutional,Singapore,Referral,2026-03-29,1,Completed
+1069,Retail,Nigeria,Referral,2025-07-24,13,Completed
+1070,Institutional,UK,Referral,2025-12-03,3,Completed
+1071,Institutional,Pakistan,Referral,2026-01-21,2,Completed
+1072,Institutional,Pakistan,Online Signup,2025-07-05,3,Completed
+1073,Retail,Canada,Direct,2025-11-08,11,Completed
+1074,Institutional,Germany,Online Signup,2026-01-17,4,Completed
+1075,Commercial,Germany,Referral,2025-11-28,6,Completed
+1076,Commercial,India,Online Signup,2026-02-09,5,Completed
+1077,Retail,Nigeria,Online Signup,2025-04-27,10,Completed
+1078,Retail,UK,Referral,2026-02-13,10,Completed
+1079,Retail,Pakistan,Direct,2025-09-25,11,Completed
+1080,Institutional,Nigeria,Direct,2025-04-11,4,Completed
+1081,Institutional,Singapore,Direct,2026-01-04,4,Completed
+1082,Retail,UK,Online Signup,2025-04-01,11,Completed
+1083,Commercial,Canada,Online Signup,2025-06-08,8,Completed
+1084,Retail,UK,Direct,2026-01-25,12,Completed
+1085,Commercial,USA,Direct,2025-04-20,7,Completed
+1086,Commercial,Canada,Referral,2025-03-22,6,Completed
+1087,Retail,Canada,Referral,2026-02-04,11,Completed
+1088,Commercial,Germany,Online Signup,2025-06-11,8,Completed
+1089,Retail,Germany,Direct,2025-08-22,11,Completed
+1090,Institutional,Singapore,Referral,2025-06-16,2,Completed
+1091,Retail,Russia,Online Signup,2025-07-19,12,Completed
+1092,Retail,Russia,Direct,2025-08-30,10,Completed
+1093,Commercial,India,Referral,2025-12-20,5,Completed
+1094,Retail,Pakistan,Referral,2026-01-18,10,Completed
+1095,Retail,Singapore,Referral,2026-02-13,9,Completed
+1096,Retail,Pakistan,Referral,2026-02-09,13,Dropped
+1097,Institutional,USA,Online Signup,2026-02-04,1,Completed
+1098,Retail,UK,Direct,2026-01-28,12,Completed
+1099,Retail,Nigeria,Online Signup,2026-02-24,12,Dropped
+1100,Commercial,UK,Direct,2025-10-27,7,Completed
+1101,Commercial,Nigeria,Direct,2025-06-07,6,Completed
+1102,Commercial,Germany,Direct,2025-12-03,6,Completed
+1103,Retail,USA,Referral,2025-03-05,12,Completed
+1104,Retail,UK,Referral,2025-10-30,9,Completed
+1105,Retail,Germany,Referral,2025-08-01,10,Dropped
+1106,Retail,Singapore,Direct,2025-07-01,11,Completed
+1107,Institutional,Canada,Referral,2026-03-25,4,Completed
+1108,Commercial,India,Direct,2025-09-23,6,Completed
+1109,Retail,Germany,Referral,2026-02-26,10,Completed
+1110,Commercial,India,Referral,2025-11-15,7,Completed
+1111,Retail,USA,Referral,2026-01-26,13,Completed
+1112,Retail,Singapore,Online Signup,2025-08-14,10,Dropped
+1113,Retail,Pakistan,Referral,2025-03-07,11,Completed
+1114,Commercial,UK,Direct,2026-02-17,6,Completed
+1115,Commercial,UK,Online Signup,2025-12-04,7,Completed
+1116,Commercial,Pakistan,Referral,2025-08-05,7,Completed
+1117,Commercial,UK,Direct,2025-11-21,5,Completed
+1118,Retail,Nigeria,Online Signup,2025-07-27,12,Completed
+1119,Commercial,Germany,Referral,2026-01-31,8,Completed
+1120,Institutional,UK,Referral,2026-03-01,1,Completed
+1121,Retail,USA,Online Signup,2025-04-04,12,Dropped
+1122,Retail,Germany,Online Signup,2026-02-04,10,Completed
+1123,Institutional,UK,Online Signup,2026-03-16,2,Completed
+1124,Retail,Singapore,Referral,2025-08-28,11,Dropped
+1125,Retail,Canada,Direct,2026-01-11,13,Dropped
+1126,Retail,USA,Direct,2026-01-27,10,Completed
+1127,Retail,Russia,Direct,2025-04-16,12,Dropped
+1128,Institutional,Germany,Direct,2026-01-31,4,Completed
+1129,Retail,Germany,Referral,2025-01-21,12,Completed
+1130,Retail,Nigeria,Direct,2025-09-25,9,Completed
+1131,Retail,UAE,Referral,2025-01-30,9,Completed
+1132,Institutional,Australia,Referral,2025-05-05,4,Completed
+1133,Retail,Nigeria,Referral,2025-11-07,13,Completed
+1134,Retail,UK,Online Signup,2025-12-11,13,Dropped
+1135,Retail,India,Online Signup,2025-01-20,12,Dropped
+1136,Retail,USA,Referral,2025-02-20,11,Completed
+1137,Commercial,UAE,Direct,2025-05-22,8,Completed
+1138,Retail,Canada,Online Signup,2025-07-25,11,Completed
+1139,Retail,UK,Referral,2025-02-21,9,Completed
+1140,Retail,Germany,Referral,2025-07-05,10,Completed
+1141,Retail,Canada,Direct,2025-02-17,9,Completed
+1142,Retail,USA,Referral,2025-02-23,11,Dropped
+1143,Retail,Singapore,Direct,2025-05-06,13,Completed
+1144,Commercial,UK,Online Signup,2026-02-20,6,Dropped
+1145,Commercial,USA,Online Signup,2025-09-05,8,Completed
+1146,Retail,India,Referral,2026-01-18,11,Completed
+1147,Commercial,Germany,Online Signup,2025-03-10,7,Completed
+1148,Retail,India,Direct,2026-02-18,13,Completed
+1149,Retail,India,Direct,2025-08-24,13,Completed
+1150,Retail,USA,Referral,2025-09-02,10,Completed
+1151,Retail,Russia,Referral,2025-04-21,12,Completed
+1152,Institutional,India,Online Signup,2025-10-28,3,Completed
+1153,Retail,UK,Direct,2025-05-08,13,Dropped
+1154,Retail,Australia,Referral,2025-02-15,9,Completed
+1155,Institutional,Germany,Direct,2025-06-09,3,Completed
+1156,Commercial,UAE,Online Signup,2025-02-11,7,Dropped
+1157,Retail,UAE,Direct,2025-12-16,11,Dropped
+1158,Institutional,Pakistan,Online Signup,2025-07-11,1,Completed
+1159,Retail,India,Online Signup,2025-04-01,12,Completed
+1160,Retail,Nigeria,Direct,2026-02-18,11,Completed
+1161,Commercial,India,Referral,2025-08-21,8,Completed
+1162,Retail,India,Referral,2025-01-22,11,Completed
+1163,Retail,USA,Online Signup,2025-02-16,11,Completed
+1164,Commercial,USA,Direct,2025-05-30,8,Dropped
+1165,Institutional,India,Online Signup,2025-07-19,3,Completed
+1166,Institutional,Russia,Referral,2025-10-28,2,Completed
+1167,Commercial,Germany,Online Signup,2025-01-23,6,Completed
+1168,Retail,India,Online Signup,2025-01-08,9,Dropped
+1169,Commercial,Nigeria,Referral,2025-04-01,8,Completed
+1170,Retail,Singapore,Online Signup,2025-12-30,11,Dropped
+1171,Retail,Nigeria,Direct,2026-02-23,12,Completed
+1172,Commercial,Canada,Direct,2025-03-23,8,Completed
+1173,Retail,Germany,Online Signup,2025-05-27,11,Completed
+1174,Commercial,India,Direct,2025-08-29,8,Completed
+1175,Retail,Australia,Referral,2025-11-02,9,Completed
+1176,Retail,Germany,Referral,2025-03-31,11,Completed
+1177,Commercial,Canada,Referral,2025-01-13,8,Completed
+1178,Commercial,USA,Direct,2025-07-29,5,Dropped
+1179,Institutional,USA,Referral,2026-01-29,1,Completed
+1180,Retail,Canada,Referral,2025-08-19,10,Completed
+1181,Institutional,Canada,Direct,2025-07-18,3,Completed
+1182,Retail,India,Direct,2025-07-25,10,Completed
+1183,Retail,USA,Online Signup,2025-04-16,10,Completed
+1184,Retail,Germany,Referral,2025-04-20,12,Completed
+1185,Retail,Singapore,Direct,2025-04-22,11,Completed
+1186,Institutional,UK,Online Signup,2025-12-08,2,Completed
+1187,Commercial,Australia,Referral,2025-06-11,5,Dropped
+1188,Commercial,USA,Referral,2025-04-14,6,Completed
+1189,Retail,Germany,Direct,2025-05-29,11,Completed
+1190,Retail,India,Online Signup,2025-05-24,10,Completed
+1191,Institutional,Canada,Referral,2025-08-14,2,Completed
+1192,Institutional,Germany,Referral,2025-03-18,1,Completed
+1193,Retail,Nigeria,Direct,2025-11-15,13,Completed
+1194,Institutional,Germany,Direct,2025-01-27,2,Completed
+1195,Retail,USA,Online Signup,2025-01-10,11,Completed
+1196,Retail,Germany,Online Signup,2026-03-14,12,Completed
+1197,Commercial,USA,Referral,2025-12-10,5,Dropped
+1198,Retail,USA,Direct,2025-04-01,11,Dropped
+1199,Institutional,Nigeria,Online Signup,2025-02-06,2,Completed
+1200,Retail,USA,Direct,2026-01-03,9,Completed
+1201,Retail,UK,Direct,2025-12-29,12,Completed
+1202,Institutional,UAE,Referral,2025-03-15,2,Completed
+1203,Retail,UK,Referral,2025-05-09,11,Completed
+1204,Institutional,USA,Referral,2026-01-11,1,Completed
+1205,Retail,Canada,Referral,2025-10-29,11,Completed
+1206,Retail,Nigeria,Referral,2025-10-07,10,Completed
+1207,Retail,Singapore,Direct,2026-01-13,12,Completed
+1208,Institutional,Germany,Referral,2026-02-10,2,Completed
+1209,Commercial,Russia,Online Signup,2025-05-23,6,Completed
+1210,Institutional,UAE,Direct,2025-06-15,4,Completed
+1211,Commercial,UK,Online Signup,2025-06-09,8,Completed
+1212,Retail,Germany,Referral,2025-02-02,9,Completed
+1213,Retail,Canada,Referral,2026-02-07,11,Completed
+1214,Retail,India,Direct,2025-12-29,13,Dropped
+1215,Retail,Germany,Direct,2025-11-16,11,Completed
+1216,Institutional,Germany,Direct,2026-02-10,3,Dropped
+1217,Retail,India,Online Signup,2025-03-16,11,Completed
+1218,Commercial,Russia,Online Signup,2025-03-03,7,Completed
+1219,Retail,USA,Referral,2025-04-15,10,Dropped
+1220,Retail,Pakistan,Direct,2025-08-17,12,Completed
+1221,Retail,UK,Online Signup,2025-03-07,11,Completed
+1222,Retail,India,Online Signup,2025-08-11,11,Completed
+1223,Retail,USA,Online Signup,2025-01-29,10,Completed
+1224,Retail,India,Online Signup,2025-02-01,13,Completed
+1225,Retail,USA,Referral,2025-04-27,10,Completed
+1226,Retail,Germany,Online Signup,2025-12-10,12,Dropped
+1227,Retail,USA,Online Signup,2025-01-19,10,Dropped
+1228,Retail,India,Referral,2025-09-18,10,Completed
+1229,Commercial,India,Referral,2025-04-11,7,Completed
+1230,Retail,Nigeria,Direct,2025-04-05,9,Completed
+1231,Commercial,Canada,Direct,2026-03-30,7,Completed
+1232,Institutional,Nigeria,Referral,2025-04-16,4,Completed
+1233,Retail,Nigeria,Online Signup,2026-03-15,10,Completed
+1234,Retail,UK,Direct,2025-07-08,10,Completed
+1235,Institutional,Singapore,Direct,2025-03-03,1,Completed
+1236,Retail,UK,Direct,2025-12-26,13,Completed
+1237,Retail,UK,Direct,2025-10-23,9,Completed
+1238,Commercial,Canada,Direct,2025-05-01,8,Completed
+1239,Retail,Nigeria,Online Signup,2026-03-11,9,Completed
+1240,Retail,India,Direct,2025-06-14,11,Completed
+1241,Retail,Nigeria,Referral,2025-12-12,13,Completed
+1242,Retail,Nigeria,Online Signup,2025-03-26,9,Completed
+1243,Institutional,Nigeria,Direct,2026-02-27,4,Completed
+1244,Retail,Australia,Online Signup,2025-12-30,11,Completed
+1245,Retail,Australia,Online Signup,2026-01-20,9,Completed
+1246,Institutional,Nigeria,Online Signup,2026-02-14,1,Completed
+1247,Retail,USA,Direct,2025-01-13,9,Completed
+1248,Retail,USA,Referral,2025-12-05,12,Completed
+1249,Retail,Singapore,Online Signup,2025-10-31,9,Completed
+1250,Retail,Singapore,Online Signup,2025-11-14,11,Completed
+1251,Commercial,USA,Direct,2026-01-06,5,Completed
+1252,Retail,Australia,Referral,2025-04-21,13,Completed
+1253,Retail,USA,Direct,2025-08-26,11,Completed
+1254,Retail,UK,Direct,2025-01-21,11,Dropped
+1255,Commercial,Nigeria,Direct,2025-09-04,8,Completed
+1256,Commercial,Germany,Online Signup,2025-10-26,8,Completed
+1257,Retail,USA,Referral,2025-07-07,12,Completed
+1258,Institutional,Singapore,Online Signup,2025-08-05,1,Completed
+1259,Commercial,Russia,Direct,2025-03-03,5,Completed
+1260,Retail,UAE,Online Signup,2025-04-05,13,Completed
+1261,Retail,India,Direct,2025-02-27,13,Dropped
+1262,Retail,USA,Direct,2026-03-17,12,Completed
+1263,Retail,India,Direct,2025-03-16,10,Completed
+1264,Retail,Russia,Referral,2025-07-28,9,Completed
+1265,Commercial,Pakistan,Referral,2025-11-11,8,Completed
+1266,Retail,Australia,Direct,2026-01-31,9,Completed
+1267,Retail,Pakistan,Referral,2025-09-19,12,Completed
+1268,Retail,USA,Referral,2025-02-16,12,Completed
+1269,Retail,India,Direct,2025-06-10,11,Completed
+1270,Retail,UK,Referral,2025-12-09,10,Completed
+1271,Retail,India,Direct,2025-03-02,11,Completed
+1272,Retail,UK,Referral,2026-01-03,11,Completed
+1273,Retail,India,Referral,2025-01-02,9,Completed
+1274,Retail,India,Referral,2025-04-12,11,Completed
+1275,Commercial,USA,Direct,2025-07-05,5,Completed
+1276,Retail,Canada,Direct,2025-01-21,13,Dropped
+1277,Commercial,India,Referral,2025-05-26,8,Completed
+1278,Retail,Germany,Direct,2025-03-29,12,Dropped
+1279,Commercial,India,Online Signup,2025-05-19,8,Completed
+1280,Commercial,UK,Direct,2025-01-02,6,Completed
+1281,Retail,Singapore,Referral,2025-08-15,10,Completed
+1282,Commercial,USA,Online Signup,2025-11-12,8,Completed
+1283,Retail,Nigeria,Direct,2025-04-22,11,Completed
+1284,Institutional,Russia,Direct,2025-11-27,1,Completed
+1285,Retail,Germany,Referral,2025-07-07,11,Completed
+1286,Commercial,USA,Referral,2025-07-06,5,Completed
+1287,Institutional,Russia,Referral,2025-03-18,3,Completed
+1288,Commercial,USA,Direct,2025-10-21,6,Completed
+1289,Commercial,Australia,Direct,2026-01-31,5,Completed
+1290,Retail,UK,Direct,2025-06-16,10,Dropped
+1291,Retail,USA,Direct,2025-03-27,9,Completed
+1292,Commercial,USA,Direct,2025-03-24,5,Completed
+1293,Retail,India,Online Signup,2025-07-26,13,Completed
+1294,Retail,Singapore,Online Signup,2026-03-16,12,Completed
+1295,Retail,Singapore,Referral,2025-06-03,11,Dropped
+1296,Retail,Nigeria,Referral,2026-03-19,13,Dropped
+1297,Retail,India,Referral,2025-12-31,12,Completed
+1298,Commercial,USA,Referral,2025-07-17,8,Completed
+1299,Retail,Singapore,Referral,2025-06-19,10,Completed
+1300,Retail,USA,Referral,2025-06-21,13,Completed
+1301,Retail,Nigeria,Referral,2026-01-26,13,Completed
+1302,Retail,Australia,Online Signup,2025-05-17,10,Dropped
+1303,Retail,UK,Online Signup,2025-04-10,12,Completed
+1304,Commercial,USA,Online Signup,2025-09-05,5,Completed
+1305,Retail,Pakistan,Online Signup,2026-01-08,11,Completed
+1306,Retail,India,Online Signup,2025-12-16,13,Completed
+1307,Retail,UK,Online Signup,2025-06-03,12,Completed
+1308,Retail,Nigeria,Direct,2026-03-27,10,Completed
+1309,Retail,Nigeria,Direct,2025-08-12,12,Dropped
+1310,Retail,USA,Direct,2025-09-07,12,Completed
+1311,Commercial,UK,Referral,2025-10-31,8,Completed
+1312,Retail,Canada,Direct,2025-01-27,9,Completed
+1313,Retail,USA,Referral,2025-06-19,9,Dropped
+1314,Institutional,USA,Direct,2026-02-09,2,Completed
+1315,Retail,Pakistan,Direct,2025-11-26,13,Completed
+1316,Retail,Germany,Online Signup,2025-12-28,12,Completed
+1317,Commercial,USA,Online Signup,2026-03-25,5,Completed
+1318,Retail,India,Online Signup,2025-09-04,12,Completed
+1319,Retail,UK,Referral,2025-12-02,9,Completed
+1320,Commercial,UK,Referral,2025-08-26,8,Completed
+1321,Retail,UK,Direct,2025-05-09,12,Completed
+1322,Retail,Russia,Direct,2026-01-05,10,Completed
+1323,Commercial,USA,Online Signup,2025-12-04,7,Completed
+1324,Retail,Australia,Direct,2025-08-21,13,Dropped
+1325,Retail,UAE,Direct,2025-08-31,12,Completed
+1326,Institutional,UK,Online Signup,2025-05-11,4,Dropped
+1327,Commercial,UK,Referral,2025-05-03,8,Completed
+1328,Retail,Singapore,Online Signup,2026-03-21,11,Completed
+1329,Retail,Pakistan,Referral,2025-10-15,11,Completed
+1330,Institutional,USA,Online Signup,2026-01-10,3,Completed
+1331,Commercial,USA,Referral,2025-06-08,5,Dropped
+1332,Commercial,Nigeria,Referral,2025-04-02,5,Completed
+1333,Retail,Nigeria,Referral,2026-02-08,9,Dropped
+1334,Retail,Nigeria,Direct,2025-02-02,10,Completed
+1335,Retail,USA,Online Signup,2026-02-02,12,Completed
+1336,Retail,Australia,Online Signup,2026-02-04,12,Completed
+1337,Retail,USA,Referral,2025-01-09,11,Completed
+1338,Retail,India,Online Signup,2026-01-28,9,Completed
+1339,Retail,Germany,Referral,2025-10-02,12,Dropped
+1340,Retail,Canada,Direct,2025-12-23,11,Completed
+1341,Retail,India,Online Signup,2025-06-03,12,Dropped
+1342,Commercial,UK,Direct,2026-03-22,6,Completed
+1343,Commercial,Pakistan,Direct,2025-10-23,6,Completed
+1344,Retail,Nigeria,Online Signup,2025-10-23,13,Dropped
+1345,Retail,Russia,Referral,2026-03-26,12,Dropped
+1346,Retail,India,Direct,2025-09-02,9,Completed
+1347,Retail,UK,Referral,2025-03-28,10,Completed
+1348,Retail,Canada,Referral,2025-10-23,10,Completed
+1349,Retail,Russia,Referral,2025-05-18,10,Completed
+1350,Institutional,UK,Online Signup,2025-10-25,1,Completed
+1351,Retail,USA,Direct,2025-05-22,9,Dropped
+1352,Commercial,USA,Online Signup,2025-01-08,8,Completed
+1353,Retail,UAE,Referral,2025-12-04,13,Completed
+1354,Retail,Canada,Referral,2025-09-08,11,Dropped
+1355,Retail,USA,Direct,2026-01-19,12,Completed
+1356,Retail,USA,Online Signup,2025-02-03,13,Completed
+1357,Retail,Germany,Direct,2025-09-03,10,Dropped
+1358,Commercial,India,Direct,2025-10-10,6,Completed
+1359,Retail,Germany,Referral,2025-01-11,9,Dropped
+1360,Retail,UK,Direct,2026-01-23,13,Completed
+1361,Institutional,Russia,Referral,2026-01-29,4,Completed
+1362,Commercial,Singapore,Online Signup,2025-10-17,7,Completed
+1363,Retail,Nigeria,Online Signup,2025-06-20,12,Completed
+1364,Retail,UK,Referral,2025-10-01,9,Completed
+1365,Commercial,USA,Referral,2025-01-06,8,Completed
+1366,Retail,India,Direct,2026-02-17,11,Completed
+1367,Retail,Canada,Online Signup,2026-01-09,9,Completed
+1368,Retail,Russia,Referral,2025-01-01,12,Completed
+1369,Retail,Canada,Direct,2025-03-30,10,Completed
+1370,Retail,UK,Online Signup,2026-01-23,11,Dropped
+1371,Retail,Singapore,Direct,2025-03-29,11,Completed
+1372,Institutional,UK,Direct,2025-05-17,3,Completed
+1373,Retail,India,Referral,2025-05-23,11,Completed
+1374,Commercial,Nigeria,Referral,2025-02-16,5,Completed
+1375,Retail,India,Online Signup,2026-02-23,10,Completed
+1376,Commercial,India,Referral,2025-09-26,5,Completed
+1377,Retail,Canada,Direct,2025-09-23,10,Dropped
+1378,Retail,Singapore,Online Signup,2025-05-22,11,Dropped
+1379,Institutional,Canada,Direct,2026-03-18,1,Completed
+1380,Commercial,Russia,Direct,2025-08-13,7,Completed
+1381,Retail,Nigeria,Online Signup,2025-11-27,11,Completed
+1382,Institutional,UK,Referral,2025-09-14,1,Completed
+1383,Institutional,UK,Direct,2025-07-13,3,Completed
+1384,Institutional,Singapore,Referral,2025-09-19,2,Completed
+1385,Retail,Singapore,Direct,2025-07-30,13,Completed
+1386,Retail,UK,Direct,2025-02-01,11,Completed
+1387,Retail,Australia,Referral,2025-11-17,11,Completed
+1388,Retail,UK,Online Signup,2025-02-02,12,Completed
+1389,Retail,India,Online Signup,2025-12-09,11,Dropped
+1390,Retail,Nigeria,Direct,2025-07-08,13,Completed
+1391,Commercial,UAE,Referral,2025-03-22,7,Completed
+1392,Commercial,Canada,Referral,2025-04-09,5,Completed
+1393,Retail,India,Direct,2026-01-31,10,Completed
+1394,Retail,USA,Online Signup,2025-11-24,9,Completed
+1395,Retail,UK,Referral,2026-03-29,9,Completed
+1396,Retail,USA,Direct,2025-11-07,10,Completed
+1397,Retail,Australia,Direct,2026-01-20,13,Completed
+1398,Retail,Nigeria,Online Signup,2026-03-19,13,Completed
+1399,Retail,USA,Direct,2026-03-05,13,Completed
+1400,Commercial,UK,Online Signup,2025-03-03,8,Completed
+1401,Retail,USA,Online Signup,2025-02-06,9,Completed
+1402,Retail,Germany,Direct,2025-10-28,10,Completed
+1403,Commercial,USA,Online Signup,2026-03-15,7,Completed
+1404,Retail,Germany,Referral,2025-07-22,12,Completed
+1405,Retail,Nigeria,Direct,2025-04-09,9,Completed
+1406,Retail,Canada,Direct,2025-06-14,10,Completed
+1407,Institutional,India,Referral,2025-08-06,2,Dropped
+1408,Retail,Singapore,Direct,2025-06-25,11,Completed
+1409,Institutional,UK,Referral,2025-11-11,1,Completed
+1410,Retail,UAE,Online Signup,2025-12-29,9,Dropped
+1411,Retail,UAE,Online Signup,2026-02-18,10,Completed
+1412,Retail,India,Online Signup,2026-01-17,12,Completed
+1413,Retail,UK,Referral,2025-10-17,9,Dropped
+1414,Retail,Germany,Online Signup,2026-02-10,10,Completed
+1415,Retail,UAE,Direct,2025-07-28,13,Dropped
+1416,Retail,UAE,Direct,2025-11-25,12,Completed
+1417,Retail,India,Referral,2025-11-29,10,Completed
+1418,Institutional,Canada,Online Signup,2025-08-11,3,Completed
+1419,Retail,Singapore,Referral,2025-02-17,13,Completed
+1420,Retail,Nigeria,Direct,2025-12-11,10,Completed
+1421,Retail,Nigeria,Online Signup,2025-05-20,9,Dropped
+1422,Retail,India,Referral,2025-02-02,9,Completed
+1423,Retail,Germany,Direct,2025-01-25,9,Completed
+1424,Retail,Germany,Referral,2025-07-28,10,Dropped
+1425,Retail,Singapore,Referral,2025-07-20,10,Completed
+1426,Retail,USA,Referral,2026-01-07,12,Completed
+1427,Retail,USA,Online Signup,2025-12-12,13,Completed
+1428,Retail,Germany,Online Signup,2025-03-29,10,Completed
+1429,Commercial,Germany,Direct,2026-01-20,8,Completed
+1430,Retail,Germany,Direct,2025-04-22,12,Completed
+1431,Commercial,India,Direct,2025-03-14,8,Completed
+1432,Commercial,UK,Referral,2026-03-02,5,Completed
+1433,Retail,UK,Direct,2025-02-08,9,Completed
+1434,Institutional,UK,Online Signup,2025-08-03,2,Completed
+1435,Retail,India,Direct,2026-03-11,13,Completed
+1436,Retail,Australia,Referral,2026-02-07,13,Completed
+1437,Retail,Singapore,Referral,2025-05-01,12,Dropped
+1438,Retail,USA,Direct,2025-04-03,10,Dropped
+1439,Retail,Singapore,Direct,2025-12-18,11,Completed
+1440,Retail,USA,Online Signup,2025-07-23,12,Completed
+1441,Retail,India,Online Signup,2026-03-21,9,Completed
+1442,Retail,UK,Online Signup,2025-08-10,13,Completed
+1443,Retail,India,Online Signup,2025-02-03,9,Completed
+1444,Institutional,Canada,Direct,2025-07-02,2,Completed
+1445,Commercial,Nigeria,Online Signup,2025-02-02,8,Completed
+1446,Retail,Nigeria,Direct,2025-06-13,13,Dropped
+1447,Retail,Germany,Online Signup,2025-01-01,12,Completed
+1448,Retail,Pakistan,Referral,2025-07-15,13,Dropped
+1449,Institutional,UK,Online Signup,2025-04-01,3,Completed
+1450,Institutional,Nigeria,Online Signup,2025-05-31,2,Completed
+1451,Retail,Germany,Direct,2025-05-14,9,Completed
+1452,Retail,Germany,Online Signup,2025-03-29,12,Completed
+1453,Retail,USA,Online Signup,2025-07-20,11,Dropped
+1454,Retail,India,Referral,2026-03-12,13,Dropped
+1455,Commercial,India,Online Signup,2025-05-28,7,Completed
+1456,Retail,Russia,Online Signup,2025-09-05,10,Completed
+1457,Commercial,USA,Referral,2025-04-14,5,Completed
+1458,Retail,India,Direct,2026-02-13,12,Dropped
+1459,Retail,UK,Direct,2025-12-23,9,Dropped
+1460,Commercial,Germany,Online Signup,2025-03-04,8,Completed
+1461,Institutional,Nigeria,Online Signup,2025-10-13,3,Completed
+1462,Institutional,Germany,Online Signup,2025-09-17,4,Completed
+1463,Retail,UAE,Online Signup,2025-05-24,13,Completed
+1464,Commercial,India,Referral,2025-11-11,5,Completed
+1465,Retail,USA,Referral,2025-07-10,10,Completed
+1466,Retail,USA,Direct,2025-06-15,11,Completed
+1467,Institutional,Germany,Online Signup,2025-09-26,4,Completed
+1468,Retail,Canada,Referral,2026-01-04,11,Dropped
+1469,Retail,India,Online Signup,2025-12-27,10,Completed
+1470,Institutional,India,Online Signup,2025-01-04,3,Dropped
+1471,Retail,Singapore,Referral,2025-03-23,10,Dropped
+1472,Commercial,Singapore,Online Signup,2025-12-28,5,Completed
+1473,Commercial,USA,Direct,2026-03-18,5,Completed
+1474,Retail,Canada,Direct,2026-01-09,9,Completed
+1475,Commercial,Singapore,Direct,2025-04-12,8,Completed
+1476,Commercial,UK,Online Signup,2025-10-18,6,Completed
+1477,Retail,Canada,Direct,2025-10-11,13,Completed
+1478,Retail,Pakistan,Direct,2025-06-13,13,Completed
+1479,Commercial,Germany,Direct,2025-01-11,7,Completed
+1480,Institutional,Pakistan,Online Signup,2026-02-27,4,Completed
+1481,Retail,USA,Referral,2025-12-29,11,Completed
+1482,Institutional,Nigeria,Referral,2026-01-09,1,Completed
+1483,Retail,Singapore,Online Signup,2025-09-17,13,Completed
+1484,Retail,UK,Online Signup,2025-10-01,12,Completed
+1485,Institutional,UAE,Direct,2025-07-18,1,Completed
+1486,Commercial,Australia,Direct,2025-01-12,6,Completed
+1487,Institutional,UK,Referral,2025-12-01,2,Completed
+1488,Retail,USA,Direct,2025-11-21,10,Completed
+1489,Institutional,Nigeria,Online Signup,2025-02-15,1,Completed
+1490,Institutional,Germany,Online Signup,2025-09-28,4,Completed
+1491,Retail,Canada,Referral,2025-11-30,11,Completed
+1492,Retail,USA,Referral,2026-03-17,9,Completed
+1493,Retail,India,Online Signup,2026-03-10,11,Completed
+1494,Retail,UK,Online Signup,2025-10-19,13,Dropped
+1495,Institutional,UAE,Direct,2025-03-14,3,Completed
+1496,Commercial,USA,Direct,2026-03-31,6,Completed
+1497,Commercial,UK,Online Signup,2025-02-01,8,Dropped
+1498,Institutional,Pakistan,Online Signup,2025-11-29,1,Dropped
+1499,Retail,USA,Direct,2025-03-05,9,Completed
+1500,Retail,Singapore,Referral,2025-11-15,9,Completed
+1501,Commercial,UK,Referral,2026-03-07,5,Completed
+1502,Retail,Nigeria,Online Signup,2025-03-04,9,Completed
+1503,Retail,USA,Direct,2025-08-05,13,Completed
+1504,Institutional,USA,Online Signup,2025-02-25,3,Completed
+1505,Retail,UK,Direct,2025-01-25,11,Completed
+1506,Institutional,UK,Direct,2025-10-17,4,Completed
+1507,Retail,India,Direct,2025-03-03,13,Completed
+1508,Commercial,Nigeria,Referral,2025-05-11,8,Completed
+1509,Retail,USA,Direct,2025-05-17,12,Completed
+1510,Retail,USA,Online Signup,2025-09-06,12,Dropped
+1511,Retail,UK,Direct,2025-10-06,13,Completed
+1512,Retail,Germany,Online Signup,2025-12-29,9,Completed
+1513,Retail,Russia,Referral,2026-02-06,13,Completed
+1514,Retail,Germany,Online Signup,2026-01-19,11,Completed
+1515,Institutional,Singapore,Referral,2025-05-08,2,Completed
+1516,Institutional,India,Direct,2025-02-04,3,Completed
+1517,Institutional,Singapore,Online Signup,2026-03-09,2,Completed
+1518,Retail,Russia,Direct,2025-05-01,11,Completed
+1519,Institutional,UAE,Direct,2026-01-10,3,Completed
+1520,Retail,UK,Direct,2025-08-20,11,Completed
+1521,Retail,USA,Direct,2025-02-01,9,Completed
+1522,Commercial,UK,Online Signup,2025-02-13,7,Completed
+1523,Retail,Nigeria,Referral,2026-02-10,10,Completed
+1524,Retail,UK,Online Signup,2025-07-01,10,Dropped
+1525,Retail,UK,Referral,2025-12-12,13,Completed
+1526,Retail,Nigeria,Online Signup,2025-11-25,12,Completed
+1527,Retail,India,Online Signup,2025-05-16,13,Dropped
+1528,Retail,Germany,Direct,2025-08-16,9,Dropped
+1529,Institutional,UAE,Referral,2025-10-24,2,Dropped
+1530,Retail,UAE,Direct,2025-05-17,13,Completed
+1531,Retail,UAE,Online Signup,2025-08-16,13,Dropped
+1532,Retail,USA,Direct,2025-04-20,9,Completed
+1533,Retail,UK,Direct,2026-01-01,12,Dropped
+1534,Commercial,UK,Referral,2025-06-14,5,Dropped
+1535,Retail,Russia,Referral,2025-09-11,10,Dropped
+1536,Retail,USA,Online Signup,2025-09-05,9,Completed
+1537,Retail,Russia,Online Signup,2025-01-02,12,Completed
+1538,Institutional,UK,Referral,2025-11-15,2,Completed
+1539,Retail,India,Referral,2025-06-09,13,Completed
+1540,Retail,Nigeria,Direct,2025-02-26,9,Completed
+1541,Retail,USA,Direct,2025-02-06,12,Completed
+1542,Retail,Germany,Referral,2025-06-10,10,Dropped
+1543,Institutional,Canada,Online Signup,2025-06-04,2,Completed
+1544,Retail,India,Referral,2025-08-09,12,Dropped
+1545,Retail,Germany,Referral,2026-03-19,11,Completed
+1546,Commercial,Germany,Direct,2025-04-09,5,Completed
+1547,Retail,Pakistan,Direct,2026-01-30,12,Completed
+1548,Retail,UK,Direct,2025-03-02,10,Completed
+1549,Retail,India,Referral,2025-01-15,9,Completed
+1550,Retail,Russia,Online Signup,2026-02-13,13,Dropped
+1551,Retail,India,Direct,2025-08-31,13,Completed
+1552,Retail,Germany,Direct,2026-02-15,11,Completed
+1553,Retail,USA,Direct,2025-03-26,9,Completed
+1554,Retail,Nigeria,Direct,2025-08-25,13,Completed
+1555,Institutional,India,Direct,2025-09-15,3,Completed
+1556,Retail,Germany,Referral,2025-05-27,12,Completed
+1557,Retail,UK,Online Signup,2025-11-11,12,Completed
+1558,Commercial,Canada,Online Signup,2025-11-25,6,Completed
+1559,Retail,Pakistan,Referral,2026-01-01,9,Completed
+1560,Commercial,Canada,Direct,2025-07-17,6,Completed
+1561,Retail,Pakistan,Direct,2025-01-19,9,Completed
+1562,Retail,UAE,Referral,2025-05-11,11,Completed
+1563,Institutional,India,Direct,2025-08-19,1,Completed
+1564,Retail,USA,Online Signup,2025-08-22,13,Completed
+1565,Retail,India,Online Signup,2026-02-02,10,Completed
+1566,Institutional,Germany,Direct,2026-02-19,1,Completed
+1567,Commercial,India,Direct,2025-10-31,8,Completed
+1568,Institutional,Russia,Direct,2026-03-28,2,Dropped
+1569,Retail,USA,Online Signup,2025-09-25,12,Dropped
+1570,Retail,India,Online Signup,2025-11-02,13,Completed
+1571,Retail,USA,Direct,2026-01-06,10,Completed
+1572,Retail,Nigeria,Online Signup,2025-11-25,10,Dropped
+1573,Retail,Singapore,Referral,2025-04-04,9,Completed
+1574,Retail,Germany,Online Signup,2025-01-24,12,Dropped
+1575,Retail,Russia,Referral,2026-03-21,9,Dropped
+1576,Retail,Germany,Referral,2025-11-11,13,Dropped
+1577,Retail,Nigeria,Referral,2025-08-03,13,Completed
+1578,Retail,Nigeria,Online Signup,2025-04-30,13,Dropped
+1579,Retail,Canada,Online Signup,2025-09-06,13,Completed
+1580,Institutional,Singapore,Referral,2025-01-12,2,Completed
+1581,Retail,Pakistan,Referral,2025-01-08,11,Dropped
+1582,Retail,Pakistan,Referral,2025-03-13,9,Completed
+1583,Institutional,Australia,Referral,2025-06-01,4,Completed
+1584,Institutional,USA,Online Signup,2025-10-31,4,Completed
+1585,Retail,Pakistan,Referral,2026-01-05,11,Completed
+1586,Institutional,Singapore,Online Signup,2025-03-06,1,Completed
+1587,Institutional,Australia,Direct,2025-11-20,4,Completed
+1588,Commercial,USA,Referral,2025-04-01,6,Completed
+1589,Retail,Canada,Online Signup,2025-04-04,10,Completed
+1590,Retail,India,Direct,2026-02-07,11,Completed
+1591,Institutional,UK,Referral,2026-03-30,1,Completed
+1592,Retail,Nigeria,Direct,2025-04-13,9,Dropped
+1593,Retail,Pakistan,Online Signup,2025-02-14,13,Completed
+1594,Retail,Singapore,Online Signup,2025-10-12,13,Completed
+1595,Retail,Singapore,Online Signup,2025-02-15,13,Completed
+1596,Commercial,Nigeria,Direct,2025-01-19,7,Completed
+1597,Retail,UK,Online Signup,2025-07-04,12,Completed
+1598,Retail,Singapore,Referral,2025-10-07,12,Completed
+1599,Commercial,UK,Online Signup,2025-09-15,6,Completed
+1600,Retail,UAE,Referral,2025-07-27,10,Dropped
+1601,Retail,India,Referral,2025-02-10,11,Dropped
+1602,Institutional,Russia,Referral,2025-02-24,1,Completed
+1603,Retail,UAE,Referral,2026-02-03,13,Dropped
+1604,Commercial,UK,Referral,2025-12-16,8,Completed
+1605,Retail,Germany,Referral,2025-12-24,9,Completed
+1606,Retail,Pakistan,Referral,2026-03-23,9,Completed
+1607,Commercial,Australia,Direct,2026-03-26,7,Completed
+1608,Retail,Australia,Direct,2025-08-26,13,Completed
+1609,Retail,USA,Referral,2025-05-28,13,Dropped
+1610,Retail,India,Direct,2025-05-23,11,Completed
+1611,Retail,USA,Online Signup,2025-06-03,13,Completed
+1612,Retail,Germany,Direct,2025-07-11,13,Completed
+1613,Retail,India,Online Signup,2025-01-10,12,Completed
+1614,Retail,Singapore,Direct,2026-02-03,10,Completed
+1615,Retail,UAE,Direct,2025-01-11,9,Completed
+1616,Retail,Nigeria,Direct,2025-09-10,10,Completed
+1617,Retail,Nigeria,Direct,2026-02-09,10,Dropped
+1618,Retail,India,Online Signup,2025-08-04,9,Completed
+1619,Commercial,USA,Direct,2025-02-15,8,Dropped
+1620,Retail,Germany,Referral,2025-06-21,13,Completed
+1621,Commercial,Australia,Referral,2025-06-09,6,Completed
+1622,Retail,Pakistan,Direct,2025-08-23,11,Completed
+1623,Institutional,Singapore,Direct,2026-02-15,3,Dropped
+1624,Retail,Russia,Direct,2025-11-28,13,Dropped
+1625,Retail,USA,Direct,2026-01-31,9,Completed
+1626,Retail,UAE,Direct,2025-12-27,9,Completed
+1627,Retail,UK,Online Signup,2025-07-12,13,Completed
+1628,Retail,Germany,Direct,2025-12-03,9,Dropped
+1629,Commercial,UK,Referral,2025-10-02,6,Completed
+1630,Retail,Canada,Online Signup,2025-03-09,13,Completed
+1631,Retail,Canada,Online Signup,2025-11-18,9,Completed
+1632,Commercial,USA,Online Signup,2025-08-13,8,Completed
+1633,Institutional,Nigeria,Direct,2025-09-15,1,Completed
+1634,Commercial,Nigeria,Direct,2026-03-01,8,Completed
+1635,Retail,Canada,Online Signup,2025-02-15,12,Completed
+1636,Retail,India,Direct,2026-02-07,9,Completed
+1637,Retail,UK,Direct,2026-02-15,10,Dropped
+1638,Institutional,Singapore,Referral,2026-03-07,4,Completed
+1639,Retail,USA,Online Signup,2026-02-16,12,Completed
+1640,Retail,Singapore,Referral,2025-07-20,10,Completed
+1641,Institutional,UK,Direct,2025-08-11,1,Completed
+1642,Retail,Germany,Online Signup,2025-10-12,11,Dropped
+1643,Retail,India,Direct,2025-10-01,12,Completed
+1644,Commercial,Germany,Online Signup,2025-02-13,8,Completed
+1645,Retail,UK,Referral,2025-04-06,11,Completed
+1646,Institutional,Canada,Direct,2025-02-10,3,Completed
+1647,Retail,Germany,Online Signup,2025-10-16,11,Completed
+1648,Commercial,Nigeria,Online Signup,2025-06-21,6,Completed
+1649,Retail,Nigeria,Referral,2026-02-18,9,Dropped
+1650,Commercial,Germany,Online Signup,2025-12-24,5,Completed
+1651,Retail,UK,Referral,2025-11-02,10,Dropped
+1652,Retail,UK,Direct,2025-07-08,13,Completed
+1653,Retail,Canada,Online Signup,2025-04-11,10,Completed
+1654,Commercial,Nigeria,Direct,2025-02-23,5,Completed
+1655,Institutional,USA,Referral,2026-01-09,4,Completed
+1656,Retail,Australia,Direct,2025-08-10,13,Completed
+1657,Retail,Canada,Direct,2026-03-22,9,Completed
+1658,Retail,USA,Referral,2025-07-24,11,Completed
+1659,Institutional,Nigeria,Online Signup,2025-07-02,2,Completed
+1660,Retail,UK,Direct,2025-02-03,11,Completed
+1661,Commercial,UAE,Online Signup,2026-02-10,5,Completed
+1662,Commercial,UK,Online Signup,2025-06-27,7,Completed
+1663,Retail,UK,Direct,2026-01-04,11,Completed
+1664,Commercial,Canada,Referral,2025-04-27,6,Completed
+1665,Commercial,Germany,Direct,2025-04-27,8,Completed
+1666,Retail,Germany,Referral,2026-02-08,9,Dropped
+1667,Institutional,Germany,Referral,2025-11-27,2,Completed
+1668,Retail,Nigeria,Referral,2025-04-13,11,Completed
+1669,Commercial,Russia,Online Signup,2025-09-18,5,Completed
+1670,Retail,Australia,Online Signup,2025-12-17,10,Completed
+1671,Institutional,Germany,Online Signup,2026-02-09,4,Completed
+1672,Retail,USA,Direct,2025-01-04,12,Completed
+1673,Institutional,Pakistan,Direct,2025-04-23,4,Completed
+1674,Retail,Germany,Direct,2025-06-10,11,Completed
+1675,Retail,Germany,Referral,2026-01-04,11,Completed
+1676,Retail,Canada,Online Signup,2026-01-05,12,Completed
+1677,Institutional,Nigeria,Direct,2025-01-10,3,Dropped
+1678,Retail,Canada,Direct,2025-03-11,9,Completed
+1679,Retail,Singapore,Online Signup,2025-10-18,12,Completed
+1680,Retail,UK,Online Signup,2026-01-30,10,Completed
+1681,Commercial,Canada,Direct,2025-11-20,7,Completed
+1682,Retail,Canada,Online Signup,2025-11-23,11,Completed
+1683,Institutional,Germany,Referral,2025-05-20,3,Dropped
+1684,Institutional,USA,Online Signup,2025-08-26,4,Completed
+1685,Retail,USA,Direct,2025-07-17,11,Dropped
+1686,Retail,USA,Referral,2025-05-06,11,Dropped
+1687,Retail,India,Online Signup,2025-04-06,12,Completed
+1688,Retail,Germany,Direct,2025-12-22,11,Dropped
+1689,Retail,USA,Online Signup,2025-03-24,12,Completed
+1690,Commercial,India,Online Signup,2026-03-07,7,Completed
+1691,Commercial,UK,Referral,2026-01-17,6,Completed
+1692,Retail,India,Direct,2026-01-21,13,Completed
+1693,Retail,UK,Referral,2025-05-16,9,Completed
+1694,Retail,India,Direct,2025-11-06,12,Completed
+1695,Retail,UK,Direct,2025-03-22,9,Completed
+1696,Retail,Nigeria,Referral,2025-06-17,11,Completed
+1697,Institutional,Nigeria,Direct,2025-05-06,1,Completed
+1698,Commercial,USA,Direct,2025-03-14,7,Completed
+1699,Retail,India,Online Signup,2025-07-20,10,Completed
+1700,Retail,Russia,Referral,2025-12-28,11,Completed
+1701,Retail,UK,Direct,2025-04-08,12,Dropped
+1702,Commercial,Singapore,Direct,2025-05-16,8,Dropped
+1703,Commercial,Singapore,Online Signup,2025-08-01,8,Completed
+1704,Retail,Pakistan,Online Signup,2026-03-17,11,Completed
+1705,Retail,Pakistan,Direct,2025-08-27,11,Dropped
+1706,Commercial,Nigeria,Referral,2025-01-25,6,Completed
+1707,Retail,Nigeria,Direct,2025-04-12,10,Dropped
+1708,Commercial,India,Direct,2025-04-21,6,Completed
+1709,Retail,Canada,Referral,2026-02-06,12,Dropped
+1710,Retail,USA,Referral,2025-11-09,13,Completed
+1711,Retail,USA,Direct,2025-04-29,13,Completed
+1712,Institutional,India,Referral,2025-02-04,1,Completed
+1713,Retail,USA,Online Signup,2025-07-31,11,Dropped
+1714,Retail,Canada,Online Signup,2025-09-11,11,Completed
+1715,Commercial,Germany,Online Signup,2025-10-05,6,Completed
+1716,Retail,Russia,Direct,2025-03-21,11,Completed
+1717,Retail,Russia,Online Signup,2026-01-14,10,Dropped
+1718,Commercial,USA,Direct,2025-01-25,5,Completed
+1719,Retail,Russia,Online Signup,2025-01-26,9,Completed
+1720,Retail,India,Referral,2025-12-22,11,Completed
+1721,Commercial,Pakistan,Referral,2026-01-19,7,Completed
+1722,Retail,Germany,Referral,2025-12-17,11,Completed
+1723,Institutional,India,Direct,2025-04-14,3,Completed
+1724,Retail,India,Referral,2025-01-07,11,Dropped
+1725,Commercial,Pakistan,Online Signup,2025-12-16,8,Completed
+1726,Commercial,Australia,Direct,2025-07-23,8,Completed
+1727,Retail,India,Referral,2026-02-11,10,Dropped
+1728,Retail,India,Direct,2026-02-19,13,Dropped
+1729,Retail,Australia,Direct,2025-03-19,13,Completed
+1730,Institutional,India,Referral,2026-01-23,4,Completed
+1731,Retail,Australia,Online Signup,2026-01-27,10,Dropped
+1732,Retail,Germany,Direct,2025-04-15,9,Dropped
+1733,Retail,Pakistan,Direct,2025-12-27,10,Completed
+1734,Retail,Pakistan,Online Signup,2025-08-02,13,Dropped
+1735,Retail,USA,Referral,2025-05-15,13,Completed
+1736,Institutional,Nigeria,Direct,2025-10-19,4,Completed
+1737,Retail,UK,Referral,2026-01-19,11,Completed
+1738,Institutional,Russia,Direct,2025-04-02,1,Completed
+1739,Retail,USA,Online Signup,2025-09-06,13,Completed
+1740,Commercial,Nigeria,Online Signup,2025-11-09,7,Completed
+1741,Institutional,Pakistan,Referral,2025-07-29,1,Completed
+1742,Institutional,Germany,Direct,2025-06-17,2,Completed
+1743,Retail,UK,Online Signup,2026-01-28,13,Completed
+1744,Commercial,Nigeria,Direct,2026-03-28,8,Completed
+1745,Retail,Nigeria,Referral,2025-04-01,12,Dropped
+1746,Institutional,UK,Online Signup,2026-02-10,2,Completed
+1747,Retail,India,Direct,2025-09-28,12,Completed
+1748,Retail,Singapore,Online Signup,2026-01-06,11,Completed
+1749,Retail,UK,Direct,2025-11-15,10,Completed
+1750,Retail,UK,Online Signup,2025-06-03,11,Completed
+1751,Retail,Germany,Referral,2025-10-01,12,Completed
+1752,Commercial,India,Online Signup,2025-03-25,7,Completed
+1753,Retail,Pakistan,Online Signup,2026-03-18,13,Completed
+1754,Commercial,Nigeria,Online Signup,2025-11-13,8,Dropped
+1755,Retail,Singapore,Online Signup,2025-12-15,12,Completed
+1756,Retail,UK,Online Signup,2026-02-15,13,Completed
+1757,Commercial,Germany,Online Signup,2025-10-02,5,Dropped
+1758,Commercial,Nigeria,Direct,2025-12-06,8,Completed
+1759,Retail,Germany,Referral,2025-10-11,13,Dropped
+1760,Retail,UK,Referral,2025-07-03,13,Dropped
+1761,Retail,India,Direct,2026-03-24,9,Completed
+1762,Retail,Nigeria,Online Signup,2025-02-24,13,Dropped
+1763,Retail,Singapore,Referral,2025-01-07,9,Completed
+1764,Retail,Pakistan,Online Signup,2025-07-02,10,Completed
+1765,Retail,UK,Referral,2025-10-19,9,Completed
+1766,Commercial,Pakistan,Direct,2025-01-16,5,Completed
+1767,Retail,USA,Online Signup,2025-01-23,12,Completed
+1768,Retail,UK,Direct,2025-07-13,10,Completed
+1769,Retail,UK,Online Signup,2025-01-05,11,Completed
+1770,Retail,India,Referral,2025-06-05,13,Completed
+1771,Institutional,Nigeria,Direct,2025-10-01,2,Completed
+1772,Institutional,Australia,Referral,2025-03-07,2,Completed
+1773,Commercial,Nigeria,Online Signup,2025-11-25,6,Completed
+1774,Commercial,Canada,Referral,2025-03-13,7,Completed
+1775,Institutional,Germany,Direct,2025-09-28,1,Completed
+1776,Retail,USA,Referral,2026-03-24,13,Completed
+1777,Retail,India,Direct,2025-05-14,11,Completed
+1778,Institutional,UK,Direct,2026-03-24,1,Completed
+1779,Institutional,Singapore,Online Signup,2025-03-31,1,Completed
+1780,Institutional,UK,Referral,2025-12-21,3,Completed
+1781,Retail,India,Direct,2025-09-20,13,Completed
+1782,Institutional,Singapore,Online Signup,2025-07-13,2,Completed
+1783,Retail,India,Referral,2025-05-15,11,Completed
+1784,Retail,India,Referral,2025-04-27,13,Completed
+1785,Retail,India,Referral,2025-03-29,11,Completed
+1786,Retail,India,Referral,2025-03-29,13,Completed
+1787,Retail,Nigeria,Direct,2025-04-02,10,Completed
+1788,Retail,Canada,Referral,2025-02-11,12,Completed
+1789,Commercial,USA,Referral,2026-02-11,6,Completed
+1790,Institutional,Australia,Online Signup,2025-01-16,2,Completed
+1791,Retail,UK,Referral,2025-10-23,9,Completed
+1792,Retail,UK,Direct,2025-08-16,12,Completed
+1793,Commercial,Nigeria,Referral,2025-02-15,7,Completed
+1794,Commercial,USA,Referral,2025-01-11,5,Completed
+1795,Institutional,India,Referral,2025-06-07,2,Completed
+1796,Retail,USA,Referral,2025-06-17,9,Completed
+1797,Retail,Nigeria,Referral,2025-04-16,12,Completed
+1798,Commercial,Germany,Online Signup,2025-01-31,5,Completed
+1799,Retail,UK,Online Signup,2025-06-21,12,Completed
+1800,Institutional,UK,Referral,2025-12-14,1,Completed
+1801,Commercial,India,Online Signup,2025-07-13,8,Completed
+1802,Commercial,Nigeria,Online Signup,2025-07-31,5,Completed
+1803,Retail,UK,Referral,2025-01-22,11,Completed
+1804,Institutional,USA,Referral,2025-04-17,4,Completed
+1805,Retail,India,Online Signup,2025-04-28,13,Dropped
+1806,Retail,Canada,Online Signup,2026-03-17,13,Completed
+1807,Retail,Nigeria,Referral,2026-01-22,11,Completed
+1808,Retail,USA,Referral,2026-03-31,10,Dropped
+1809,Institutional,Germany,Referral,2026-02-02,1,Completed
+1810,Retail,India,Referral,2025-11-30,11,Completed
+1811,Retail,India,Online Signup,2025-02-27,11,Completed
+1812,Retail,UAE,Referral,2025-02-04,10,Completed
+1813,Retail,Canada,Online Signup,2025-05-20,9,Completed
+1814,Institutional,India,Online Signup,2025-11-12,3,Completed
+1815,Institutional,Australia,Online Signup,2025-09-01,2,Completed
+1816,Institutional,UK,Referral,2026-03-03,2,Completed
+1817,Commercial,Singapore,Direct,2025-10-07,8,Completed
+1818,Retail,Nigeria,Direct,2025-07-20,12,Completed
+1819,Retail,Germany,Direct,2025-02-19,12,Dropped
+1820,Retail,UK,Referral,2025-02-15,10,Completed
+1821,Institutional,Germany,Direct,2025-04-06,1,Completed
+1822,Retail,USA,Referral,2025-02-26,13,Dropped
+1823,Retail,Singapore,Referral,2025-05-06,12,Completed
+1824,Retail,USA,Referral,2025-03-15,9,Dropped
+1825,Commercial,UK,Online Signup,2025-05-19,5,Completed
+1826,Retail,Singapore,Referral,2026-03-29,10,Completed
+1827,Retail,Australia,Direct,2025-12-13,10,Dropped
+1828,Institutional,Canada,Referral,2025-10-02,1,Completed
+1829,Retail,India,Referral,2025-05-11,12,Completed
+1830,Retail,UAE,Direct,2025-09-14,13,Completed
+1831,Institutional,India,Online Signup,2025-01-17,4,Completed
+1832,Retail,Australia,Online Signup,2026-02-26,10,Completed
+1833,Institutional,UK,Direct,2025-10-21,4,Dropped
+1834,Institutional,UK,Online Signup,2026-01-08,4,Completed
+1835,Institutional,USA,Online Signup,2025-09-23,4,Completed
+1836,Retail,USA,Online Signup,2025-10-20,13,Dropped
+1837,Retail,USA,Direct,2025-07-16,13,Completed
+1838,Retail,India,Online Signup,2026-01-08,12,Dropped
+1839,Retail,Germany,Online Signup,2026-03-08,9,Completed
+1840,Retail,Nigeria,Online Signup,2025-09-21,11,Dropped
+1841,Retail,Russia,Direct,2025-02-19,13,Completed
+1842,Retail,UAE,Referral,2025-03-18,9,Completed
+1843,Commercial,Singapore,Referral,2025-06-14,8,Completed
+1844,Retail,USA,Direct,2025-02-18,9,Completed
+1845,Retail,USA,Online Signup,2025-03-19,10,Completed
+1846,Retail,USA,Referral,2025-12-19,11,Completed
+1847,Commercial,Russia,Referral,2025-08-21,5,Completed
+1848,Commercial,India,Online Signup,2025-08-03,5,Completed
+1849,Retail,USA,Direct,2025-02-01,12,Dropped
+1850,Retail,USA,Direct,2025-03-07,13,Dropped
+1851,Commercial,Pakistan,Online Signup,2026-01-12,8,Completed
+1852,Retail,Singapore,Referral,2025-04-25,11,Dropped
+1853,Retail,Canada,Direct,2025-08-14,12,Completed
+1854,Commercial,USA,Referral,2026-01-04,6,Completed
+1855,Retail,Singapore,Direct,2025-03-25,11,Completed
+1856,Retail,India,Referral,2025-12-27,12,Completed
+1857,Retail,Pakistan,Referral,2026-03-13,13,Completed
+1858,Commercial,USA,Direct,2025-07-05,5,Completed
+1859,Retail,UAE,Direct,2025-05-01,11,Completed
+1860,Commercial,USA,Direct,2025-06-22,8,Completed
+1861,Institutional,Germany,Online Signup,2025-05-22,3,Completed
+1862,Retail,India,Referral,2025-05-08,9,Completed
+1863,Retail,Nigeria,Online Signup,2025-02-03,13,Completed
+1864,Institutional,Nigeria,Direct,2025-01-23,2,Completed
+1865,Retail,Germany,Online Signup,2025-09-28,12,Completed
+1866,Institutional,UK,Online Signup,2025-04-14,1,Completed
+1867,Institutional,UK,Direct,2025-04-18,3,Completed
+1868,Retail,Nigeria,Online Signup,2025-08-01,9,Completed
+1869,Retail,UAE,Direct,2026-01-05,13,Completed
+1870,Retail,USA,Direct,2025-02-09,10,Dropped
+1871,Retail,UK,Online Signup,2025-12-13,12,Completed
+1872,Commercial,USA,Referral,2025-02-24,8,Completed
+1873,Institutional,UK,Online Signup,2026-03-27,4,Completed
+1874,Retail,USA,Direct,2025-04-04,11,Dropped
+1875,Retail,India,Referral,2025-08-27,13,Completed
+1876,Retail,UK,Direct,2025-07-20,13,Completed
+1877,Retail,Germany,Referral,2025-01-11,12,Completed
+1878,Retail,Russia,Referral,2025-12-23,10,Dropped
+1879,Commercial,Germany,Online Signup,2025-09-25,7,Completed
+1880,Commercial,USA,Online Signup,2026-03-14,7,Dropped
+1881,Commercial,USA,Referral,2025-11-04,5,Completed
+1882,Retail,Germany,Online Signup,2025-10-09,12,Completed
+1883,Commercial,Germany,Direct,2025-02-17,5,Dropped
+1884,Institutional,Nigeria,Referral,2025-08-04,3,Completed
+1885,Commercial,Germany,Online Signup,2026-01-27,5,Completed
+1886,Retail,India,Direct,2025-06-24,11,Completed
+1887,Retail,UK,Referral,2025-01-10,10,Completed
+1888,Retail,Singapore,Direct,2025-08-24,10,Completed
+1889,Retail,Australia,Direct,2025-02-20,12,Dropped
+1890,Retail,UK,Direct,2026-03-07,11,Completed
+1891,Commercial,UK,Referral,2025-12-17,8,Completed
+1892,Retail,UK,Direct,2025-08-17,12,Completed
+1893,Commercial,India,Referral,2025-09-01,8,Completed
+1894,Retail,USA,Online Signup,2025-12-22,9,Completed
+1895,Institutional,Germany,Referral,2026-02-03,2,Completed
+1896,Institutional,Pakistan,Online Signup,2026-03-14,4,Completed
+1897,Institutional,Singapore,Online Signup,2026-03-28,4,Completed
+1898,Retail,UK,Direct,2025-09-02,10,Completed
+1899,Institutional,USA,Referral,2026-03-02,3,Completed
+1900,Commercial,India,Online Signup,2025-07-10,5,Completed
+1901,Retail,Nigeria,Online Signup,2025-01-05,10,Dropped
+1902,Commercial,Singapore,Online Signup,2026-02-11,5,Completed
+1903,Institutional,Singapore,Direct,2026-03-21,1,Dropped
+1904,Retail,USA,Direct,2025-08-17,9,Completed
+1905,Retail,UK,Referral,2025-07-12,13,Completed
+1906,Retail,UK,Online Signup,2025-01-03,13,Dropped
+1907,Retail,Russia,Referral,2025-02-01,10,Completed
+1908,Retail,India,Online Signup,2026-03-17,9,Dropped
+1909,Retail,Germany,Direct,2025-06-02,13,Completed
+1910,Retail,Singapore,Direct,2025-10-11,11,Completed
+1911,Institutional,Australia,Online Signup,2026-03-16,4,Completed
+1912,Retail,UK,Online Signup,2025-01-06,9,Completed
+1913,Retail,Nigeria,Referral,2026-03-28,10,Dropped
+1914,Commercial,Germany,Direct,2025-03-20,7,Completed
+1915,Commercial,Germany,Online Signup,2025-12-16,5,Completed
+1916,Retail,India,Direct,2025-04-09,10,Completed
+1917,Retail,Canada,Direct,2025-03-06,11,Completed
+1918,Retail,Pakistan,Online Signup,2025-11-04,13,Completed
+1919,Commercial,Germany,Direct,2025-02-03,5,Completed
+1920,Retail,India,Direct,2025-10-28,10,Completed
+1921,Retail,India,Referral,2025-05-09,12,Dropped
+1922,Retail,Singapore,Direct,2025-01-14,9,Completed
+1923,Institutional,USA,Direct,2025-12-28,1,Completed
+1924,Institutional,Canada,Referral,2025-05-02,1,Completed
+1925,Retail,USA,Online Signup,2026-01-15,11,Dropped
+1926,Retail,Australia,Referral,2025-11-18,11,Completed
+1927,Retail,India,Referral,2025-09-10,12,Completed
+1928,Retail,Germany,Referral,2026-03-23,13,Completed
+1929,Institutional,India,Online Signup,2025-09-15,3,Completed
+1930,Retail,Nigeria,Direct,2025-07-27,10,Completed
+1931,Retail,Germany,Online Signup,2025-03-23,10,Dropped
+1932,Institutional,UK,Online Signup,2026-02-12,4,Completed
+1933,Retail,Pakistan,Online Signup,2025-01-07,9,Completed
+1934,Retail,India,Online Signup,2025-08-02,12,Completed
+1935,Retail,Germany,Direct,2025-10-25,11,Dropped
+1936,Retail,Canada,Direct,2026-01-03,10,Completed
+1937,Commercial,Singapore,Direct,2025-10-31,6,Completed
+1938,Commercial,UK,Direct,2025-12-17,8,Completed
+1939,Retail,Germany,Direct,2025-10-21,11,Completed
+1940,Institutional,UK,Direct,2025-04-16,2,Completed
+1941,Retail,Germany,Referral,2026-02-23,11,Completed
+1942,Retail,Singapore,Referral,2026-01-21,9,Completed
+1943,Institutional,UK,Referral,2026-02-19,1,Completed
+1944,Retail,India,Online Signup,2025-10-17,10,Completed
+1945,Retail,UK,Referral,2025-08-08,11,Completed
+1946,Commercial,Pakistan,Online Signup,2025-07-09,6,Completed
+1947,Retail,Australia,Referral,2025-02-02,9,Completed
+1948,Retail,UK,Direct,2025-07-20,11,Dropped
+1949,Retail,UK,Online Signup,2025-02-09,11,Completed
+1950,Commercial,India,Online Signup,2025-05-15,7,Completed
+1951,Retail,Pakistan,Referral,2025-05-12,12,Completed
+1952,Retail,Germany,Referral,2026-03-28,9,Completed
+1953,Commercial,Nigeria,Direct,2026-02-02,7,Completed
+1954,Retail,Nigeria,Referral,2025-01-18,11,Completed
+1955,Retail,Canada,Online Signup,2025-04-19,9,Completed
+1956,Retail,Singapore,Referral,2025-10-22,11,Completed
+1957,Commercial,Nigeria,Online Signup,2025-11-03,5,Completed
+1958,Retail,Pakistan,Online Signup,2026-01-23,12,Completed
+1959,Retail,India,Direct,2026-03-01,9,Completed
+1960,Retail,Singapore,Online Signup,2025-08-15,9,Completed
+1961,Retail,UAE,Direct,2025-08-31,10,Completed
+1962,Retail,Nigeria,Direct,2025-08-26,9,Completed
+1963,Institutional,Australia,Online Signup,2025-10-02,2,Completed
+1964,Retail,UAE,Referral,2025-01-14,12,Dropped
+1965,Commercial,India,Direct,2025-05-20,6,Completed
+1966,Retail,Nigeria,Online Signup,2025-12-14,9,Dropped
+1967,Retail,Russia,Referral,2025-12-06,10,Completed
+1968,Retail,Australia,Direct,2026-03-12,13,Completed
+1969,Retail,UAE,Referral,2025-11-19,11,Dropped
+1970,Retail,USA,Online Signup,2026-03-20,9,Completed
+1971,Retail,Nigeria,Referral,2026-03-08,13,Completed
+1972,Retail,Russia,Direct,2025-11-25,12,Dropped
+1973,Retail,Canada,Online Signup,2025-11-04,12,Dropped
+1974,Institutional,USA,Direct,2025-05-03,1,Completed
+1975,Retail,UK,Referral,2025-04-22,11,Completed
+1976,Retail,India,Direct,2025-02-11,10,Completed
+1977,Institutional,USA,Direct,2025-04-25,4,Completed
+1978,Retail,Australia,Direct,2025-11-09,12,Dropped
+1979,Retail,UK,Referral,2025-06-12,10,Completed
+1980,Retail,Russia,Online Signup,2025-01-09,10,Completed
+1981,Retail,UK,Online Signup,2025-07-24,12,Completed
+1982,Retail,Nigeria,Online Signup,2025-07-28,11,Completed
+1983,Retail,Russia,Direct,2025-11-06,13,Completed
+1984,Retail,Russia,Online Signup,2025-10-26,12,Completed
+1985,Retail,Nigeria,Online Signup,2025-10-08,10,Completed
+1986,Retail,USA,Direct,2025-05-07,11,Completed
+1987,Commercial,Germany,Online Signup,2025-09-28,6,Completed
+1988,Retail,Canada,Referral,2025-03-17,13,Completed
+1989,Commercial,Russia,Direct,2025-04-22,7,Completed
+1990,Retail,USA,Online Signup,2025-10-04,12,Completed
+1991,Institutional,Pakistan,Referral,2025-11-14,2,Completed
+1992,Retail,India,Online Signup,2025-07-25,10,Completed
+1993,Institutional,USA,Referral,2025-12-04,3,Dropped
+1994,Retail,Singapore,Online Signup,2025-08-09,13,Completed
+1995,Retail,Nigeria,Direct,2025-06-08,10,Dropped
+1996,Commercial,Canada,Referral,2026-03-12,8,Dropped
+1997,Retail,India,Online Signup,2025-03-28,9,Completed
+1998,Institutional,Germany,Online Signup,2026-01-17,1,Completed
+1999,Commercial,UK,Referral,2025-05-21,8,Dropped
+2000,Commercial,Singapore,Referral,2026-01-19,8,Dropped
+2001,Retail,Singapore,Direct,2026-02-03,13,Completed
+2002,Retail,USA,Online Signup,2025-05-03,10,Completed
+2003,Retail,Germany,Online Signup,2026-01-15,9,Completed
+2004,Retail,UK,Online Signup,2025-03-01,12,Dropped
+2005,Institutional,UK,Direct,2026-01-03,3,Completed
+2006,Retail,Nigeria,Online Signup,2025-03-18,10,Completed
+2007,Retail,India,Referral,2025-12-17,11,Dropped
+2008,Commercial,India,Referral,2025-02-16,8,Completed
+2009,Retail,USA,Direct,2025-04-08,13,Completed
+2010,Retail,Singapore,Direct,2025-09-16,13,Completed
+2011,Institutional,Canada,Direct,2025-10-04,3,Completed
+2012,Institutional,Germany,Referral,2025-10-11,3,Completed
+2013,Retail,Singapore,Referral,2025-08-21,10,Completed
+2014,Retail,Canada,Direct,2026-03-19,13,Completed
+2015,Retail,Nigeria,Online Signup,2025-06-23,10,Completed
+2016,Retail,USA,Direct,2025-01-07,10,Dropped
+2017,Retail,India,Direct,2025-06-19,9,Completed
+2018,Institutional,India,Online Signup,2025-02-14,4,Completed
+2019,Institutional,USA,Direct,2025-01-31,2,Completed
+2020,Commercial,USA,Online Signup,2026-02-27,6,Completed
+2021,Retail,Russia,Online Signup,2025-06-14,11,Completed
+2022,Commercial,UK,Referral,2025-04-26,5,Completed
+2023,Commercial,Nigeria,Referral,2026-01-26,7,Completed
+2024,Retail,Germany,Direct,2026-02-20,12,Completed
+2025,Commercial,Pakistan,Direct,2026-01-23,8,Completed
+2026,Retail,UK,Direct,2025-02-04,12,Completed
+2027,Retail,Germany,Referral,2025-10-20,9,Completed
+2028,Retail,UK,Online Signup,2025-07-12,11,Completed
+2029,Retail,Germany,Referral,2025-03-05,13,Completed
+2030,Retail,Germany,Online Signup,2025-07-27,13,Completed
+2031,Retail,India,Referral,2025-10-08,9,Dropped
+2032,Commercial,UK,Online Signup,2025-12-22,8,Completed
+2033,Institutional,UK,Direct,2025-11-05,3,Completed
+2034,Retail,UK,Online Signup,2025-03-10,10,Completed
+2035,Retail,Nigeria,Referral,2025-07-12,13,Completed
+2036,Commercial,India,Referral,2025-11-30,6,Dropped
+2037,Institutional,Canada,Direct,2025-02-03,4,Completed
+2038,Retail,India,Direct,2025-11-06,13,Completed
+2039,Retail,Germany,Referral,2025-12-20,11,Dropped
+2040,Retail,Germany,Online Signup,2025-12-20,13,Completed
+2041,Retail,UK,Direct,2025-04-20,10,Completed
+2042,Retail,Singapore,Online Signup,2025-09-17,9,Completed
+2043,Commercial,Germany,Direct,2025-07-13,5,Completed
+2044,Institutional,Nigeria,Online Signup,2025-08-31,3,Completed
+2045,Retail,USA,Online Signup,2025-01-02,12,Dropped
+2046,Institutional,Australia,Direct,2026-02-17,3,Completed
+2047,Retail,Germany,Referral,2025-11-27,13,Completed
+2048,Retail,UK,Online Signup,2026-02-09,9,Completed
+2049,Commercial,Germany,Referral,2025-11-02,6,Completed
+2050,Commercial,India,Referral,2025-02-21,6,Completed
+2051,Institutional,Pakistan,Direct,2025-06-18,3,Dropped
+2052,Retail,UK,Referral,2025-08-12,10,Completed
+2053,Retail,Germany,Online Signup,2025-08-25,13,Completed
+2054,Commercial,India,Online Signup,2025-11-29,8,Completed
+2055,Retail,Canada,Referral,2025-10-22,11,Completed
+2056,Commercial,USA,Online Signup,2025-06-16,8,Completed
+2057,Commercial,USA,Online Signup,2026-03-16,8,Completed
+2058,Institutional,USA,Referral,2025-03-09,1,Completed
+2059,Retail,Germany,Online Signup,2025-09-25,12,Completed
+2060,Commercial,Singapore,Referral,2025-01-03,5,Completed
+2061,Retail,UK,Direct,2025-07-02,9,Completed
+2062,Commercial,USA,Online Signup,2025-10-29,8,Completed
+2063,Retail,UK,Referral,2026-02-25,12,Completed
+2064,Retail,Nigeria,Referral,2025-03-20,10,Completed
+2065,Retail,UK,Direct,2025-04-19,11,Dropped
+2066,Retail,Canada,Online Signup,2025-09-01,13,Completed
+2067,Commercial,UAE,Online Signup,2025-05-18,5,Completed
+2068,Retail,Nigeria,Online Signup,2025-09-09,11,Dropped
+2069,Commercial,Canada,Direct,2025-10-21,7,Completed
+2070,Retail,USA,Online Signup,2025-11-12,11,Completed
+2071,Retail,India,Direct,2025-06-20,13,Completed
+2072,Commercial,India,Referral,2025-12-07,8,Completed
+2073,Retail,USA,Referral,2026-01-13,11,Completed
+2074,Retail,Nigeria,Online Signup,2026-03-24,12,Completed
+2075,Retail,Singapore,Online Signup,2025-11-26,11,Completed
+2076,Institutional,UAE,Direct,2025-12-25,1,Completed
+2077,Institutional,Nigeria,Direct,2025-08-28,2,Completed
+2078,Retail,USA,Online Signup,2025-08-31,9,Dropped
+2079,Commercial,UK,Referral,2025-12-14,5,Completed
+2080,Retail,India,Online Signup,2025-08-18,9,Completed
+2081,Retail,Singapore,Referral,2025-06-10,11,Dropped
+2082,Retail,Pakistan,Online Signup,2025-11-16,9,Dropped
+2083,Retail,Germany,Online Signup,2025-01-30,13,Completed
+2084,Retail,India,Referral,2025-07-30,10,Dropped
+2085,Retail,USA,Direct,2025-10-31,12,Completed
+2086,Retail,India,Direct,2025-10-18,13,Completed
+2087,Retail,USA,Referral,2025-01-04,12,Completed
+2088,Retail,UK,Direct,2025-10-29,13,Completed
+2089,Retail,India,Referral,2025-01-24,10,Completed
+2090,Commercial,Germany,Referral,2025-01-07,8,Completed
+2091,Commercial,Germany,Referral,2025-11-20,5,Completed
+2092,Retail,Canada,Online Signup,2025-04-24,13,Dropped
+2093,Retail,India,Direct,2025-02-09,11,Completed
+2094,Commercial,UK,Online Signup,2026-02-11,7,Completed
+2095,Retail,Nigeria,Online Signup,2025-02-08,9,Completed
+2096,Commercial,UAE,Online Signup,2025-05-17,7,Completed
+2097,Retail,Nigeria,Referral,2026-01-07,12,Completed
+2098,Retail,Canada,Direct,2025-07-01,13,Completed
+2099,Retail,UK,Online Signup,2025-07-21,13,Completed
+2100,Retail,Germany,Direct,2026-02-25,10,Completed
+2101,Retail,Nigeria,Direct,2025-08-27,10,Completed
+2102,Retail,Australia,Online Signup,2025-02-28,12,Completed
+2103,Retail,Canada,Referral,2025-02-20,10,Completed
+2104,Retail,UK,Online Signup,2025-03-07,13,Completed
+2105,Retail,Nigeria,Referral,2026-03-13,11,Completed
+2106,Retail,Singapore,Direct,2025-11-04,12,Dropped
+2107,Retail,Russia,Referral,2025-03-31,9,Completed
+2108,Retail,Australia,Referral,2025-10-11,10,Completed
+2109,Retail,USA,Referral,2025-01-14,13,Completed
+2110,Retail,Singapore,Referral,2025-03-13,12,Completed
+2111,Retail,Nigeria,Referral,2026-01-12,12,Completed
+2112,Retail,UK,Direct,2025-06-02,13,Dropped
+2113,Retail,UAE,Online Signup,2025-06-15,9,Dropped
+2114,Retail,UK,Referral,2026-02-04,11,Completed
+2115,Retail,Germany,Direct,2025-04-30,9,Completed
+2116,Commercial,Germany,Direct,2025-05-14,8,Completed
+2117,Institutional,USA,Referral,2025-05-27,2,Completed
+2118,Retail,USA,Direct,2025-10-26,9,Completed
+2119,Institutional,Nigeria,Direct,2025-10-08,4,Completed
+2120,Retail,USA,Online Signup,2025-10-08,9,Completed
+2121,Institutional,Russia,Direct,2025-12-28,2,Completed
+2122,Retail,USA,Referral,2026-01-15,9,Completed
+2123,Institutional,Germany,Online Signup,2025-10-17,2,Completed
+2124,Commercial,USA,Referral,2025-04-29,6,Completed
+2125,Institutional,USA,Direct,2025-05-12,3,Completed
+2126,Retail,UAE,Direct,2025-03-23,10,Completed
+2127,Retail,Singapore,Direct,2025-03-30,11,Completed
+2128,Retail,Singapore,Online Signup,2025-08-31,10,Completed
+2129,Retail,Russia,Referral,2026-02-21,11,Completed
+2130,Retail,India,Online Signup,2025-08-02,12,Completed
+2131,Retail,Germany,Referral,2026-03-26,12,Completed
+2132,Retail,Singapore,Online Signup,2026-03-27,13,Completed
+2133,Retail,UK,Direct,2025-06-23,12,Completed
+2134,Retail,India,Direct,2025-06-15,11,Completed
+2135,Retail,USA,Direct,2025-07-21,13,Completed
+2136,Retail,Nigeria,Direct,2025-08-01,9,Completed
+2137,Commercial,Singapore,Direct,2025-05-06,5,Completed
+2138,Retail,USA,Direct,2025-05-21,13,Completed
+2139,Institutional,Australia,Online Signup,2025-04-17,1,Completed
+2140,Retail,Singapore,Direct,2025-06-15,11,Completed
+2141,Commercial,Singapore,Direct,2025-11-03,5,Completed
+2142,Institutional,Germany,Online Signup,2025-05-15,1,Completed
+2143,Institutional,Singapore,Online Signup,2025-01-14,4,Completed
+2144,Institutional,Germany,Online Signup,2025-01-15,1,Completed
+2145,Retail,UK,Direct,2025-05-20,11,Completed
+2146,Retail,India,Direct,2025-05-25,9,Completed
+2147,Retail,India,Direct,2025-02-07,11,Completed
+2148,Retail,USA,Direct,2025-01-25,11,Dropped
+2149,Retail,Nigeria,Referral,2026-03-13,12,Dropped
+2150,Retail,Pakistan,Online Signup,2025-01-21,10,Completed
+2151,Institutional,Germany,Direct,2025-08-06,1,Completed
+2152,Commercial,India,Direct,2025-02-10,7,Completed
+2153,Institutional,Australia,Online Signup,2025-12-16,3,Completed
+2154,Retail,India,Online Signup,2025-02-15,11,Completed
+2155,Retail,Russia,Direct,2026-01-31,13,Completed
+2156,Retail,USA,Online Signup,2025-09-13,11,Completed
+2157,Commercial,Canada,Direct,2025-06-28,7,Completed
+2158,Retail,Germany,Referral,2025-10-08,11,Completed
+2159,Retail,USA,Online Signup,2025-07-06,11,Dropped
+2160,Retail,India,Online Signup,2025-12-27,13,Completed
+2161,Commercial,USA,Referral,2025-02-24,7,Completed
+2162,Retail,Pakistan,Direct,2025-08-18,9,Completed
+2163,Retail,Singapore,Online Signup,2025-01-22,9,Dropped
+2164,Retail,India,Referral,2026-03-17,10,Dropped
+2165,Retail,India,Online Signup,2025-05-20,9,Completed
+2166,Institutional,Germany,Online Signup,2025-03-24,2,Completed
+2167,Commercial,UAE,Online Signup,2025-11-01,7,Completed
+2168,Commercial,Pakistan,Direct,2025-12-27,5,Completed
+2169,Commercial,Canada,Online Signup,2025-03-09,5,Completed
+2170,Retail,India,Referral,2025-09-26,10,Completed
+2171,Retail,Pakistan,Direct,2026-02-07,13,Completed
+2172,Retail,India,Direct,2025-02-13,13,Completed
+2173,Retail,Canada,Direct,2025-12-11,10,Dropped
+2174,Retail,India,Online Signup,2025-08-16,11,Completed
+2175,Commercial,Germany,Referral,2026-02-06,7,Dropped
+2176,Commercial,Pakistan,Direct,2026-03-04,8,Completed
+2177,Retail,Singapore,Referral,2025-02-04,9,Completed
+2178,Retail,USA,Referral,2025-03-15,12,Completed
+2179,Retail,USA,Direct,2025-11-22,9,Completed
+2180,Retail,UK,Referral,2025-08-24,12,Dropped
+2181,Retail,UK,Direct,2025-05-09,10,Dropped
+2182,Institutional,USA,Online Signup,2025-03-06,3,Completed
+2183,Retail,Germany,Referral,2026-03-10,13,Completed
+2184,Commercial,Singapore,Direct,2026-01-26,6,Completed
+2185,Commercial,India,Direct,2025-09-26,8,Completed
+2186,Retail,Singapore,Direct,2025-09-06,11,Dropped
+2187,Retail,India,Direct,2025-03-03,11,Completed
+2188,Retail,Germany,Direct,2026-02-24,11,Completed
+2189,Retail,Russia,Referral,2025-01-04,10,Completed
+2190,Institutional,USA,Direct,2025-11-27,1,Completed
+2191,Retail,Australia,Direct,2025-09-21,11,Completed
+2192,Retail,UK,Referral,2026-02-11,11,Completed
+2193,Retail,India,Direct,2025-05-26,11,Completed
+2194,Retail,UK,Online Signup,2025-12-25,9,Completed
+2195,Institutional,UK,Referral,2025-11-28,4,Completed
+2196,Retail,USA,Online Signup,2025-11-16,9,Dropped
+2197,Institutional,Singapore,Online Signup,2025-12-15,4,Completed
+2198,Commercial,Canada,Direct,2025-10-04,7,Completed
+2199,Retail,Germany,Direct,2025-09-12,9,Completed
+2200,Retail,Singapore,Referral,2026-01-31,10,Completed
+2201,Retail,Germany,Direct,2025-03-06,12,Dropped
+2202,Retail,UK,Online Signup,2025-09-12,12,Completed
+2203,Institutional,USA,Referral,2025-12-08,1,Completed
+2204,Retail,Pakistan,Referral,2025-02-02,10,Completed
+2205,Retail,Germany,Referral,2025-07-30,11,Completed
+2206,Retail,USA,Referral,2025-11-17,10,Completed
+2207,Retail,USA,Referral,2026-01-28,10,Completed
+2208,Commercial,USA,Direct,2025-10-22,5,Dropped
+2209,Institutional,UK,Referral,2025-08-25,1,Completed
+2210,Retail,Pakistan,Referral,2025-12-24,9,Completed
+2211,Retail,Russia,Direct,2026-02-01,10,Completed
+2212,Retail,Australia,Direct,2025-07-22,10,Dropped
+2213,Institutional,USA,Direct,2025-01-14,1,Completed
+2214,Retail,UK,Direct,2025-08-05,12,Completed
+2215,Retail,India,Online Signup,2025-11-23,9,Completed
+2216,Retail,Pakistan,Online Signup,2025-03-10,9,Completed
+2217,Institutional,India,Direct,2025-10-16,2,Dropped
+2218,Institutional,Germany,Referral,2025-02-26,4,Completed
+2219,Retail,India,Online Signup,2026-01-23,9,Dropped
+2220,Commercial,UK,Direct,2025-06-28,8,Completed
+2221,Retail,UK,Referral,2025-08-23,11,Dropped
+2222,Retail,India,Referral,2025-07-15,11,Completed
+2223,Retail,USA,Referral,2026-02-09,9,Completed
+2224,Institutional,USA,Referral,2025-09-22,4,Completed
+2225,Retail,Germany,Referral,2025-10-24,13,Completed
+2226,Retail,Germany,Online Signup,2025-04-17,11,Completed
+2227,Retail,India,Direct,2025-07-06,10,Completed
+2228,Retail,India,Online Signup,2025-01-23,9,Completed
+2229,Commercial,Nigeria,Direct,2025-01-04,6,Completed
+2230,Retail,Canada,Referral,2025-06-12,9,Completed
+2231,Retail,Singapore,Direct,2025-01-03,13,Dropped
+2232,Retail,USA,Online Signup,2026-03-08,9,Completed
+2233,Retail,Singapore,Online Signup,2026-01-22,9,Completed
+2234,Retail,Russia,Direct,2025-01-01,13,Dropped
+2235,Retail,USA,Referral,2025-12-12,11,Completed
+2236,Retail,Canada,Referral,2025-02-18,13,Completed
+2237,Retail,Singapore,Referral,2025-07-26,12,Completed
+2238,Institutional,India,Referral,2025-03-19,2,Completed
+2239,Institutional,USA,Direct,2026-01-25,3,Completed
+2240,Retail,Singapore,Direct,2025-06-21,12,Completed
+2241,Institutional,Australia,Direct,2025-08-03,1,Completed
+2242,Commercial,Singapore,Referral,2025-11-03,8,Completed
+2243,Retail,Pakistan,Online Signup,2025-04-06,9,Dropped
+2244,Commercial,UK,Online Signup,2025-09-16,8,Completed
+2245,Institutional,UAE,Referral,2025-12-21,2,Completed
+2246,Retail,USA,Direct,2025-01-21,9,Dropped
+2247,Retail,USA,Referral,2025-12-08,12,Completed
+2248,Institutional,Pakistan,Referral,2025-11-30,2,Completed
+2249,Institutional,Pakistan,Direct,2026-01-05,1,Completed
+2250,Institutional,Russia,Online Signup,2025-01-23,2,Completed
+2251,Institutional,Australia,Direct,2025-05-15,2,Completed
+2252,Institutional,USA,Online Signup,2025-08-08,1,Completed
+2253,Retail,Nigeria,Direct,2026-03-23,11,Dropped
+2254,Retail,UK,Online Signup,2025-05-06,9,Completed
+2255,Institutional,India,Direct,2026-01-18,3,Completed
+2256,Retail,Nigeria,Direct,2025-07-27,12,Completed
+2257,Commercial,Russia,Referral,2025-10-06,7,Completed
+2258,Commercial,UK,Referral,2025-08-10,8,Dropped
+2259,Retail,Germany,Referral,2026-02-23,11,Completed
+2260,Retail,Singapore,Online Signup,2025-10-26,10,Completed
+2261,Retail,UK,Online Signup,2025-07-09,13,Completed
+2262,Retail,USA,Referral,2025-06-18,12,Completed
+2263,Retail,Pakistan,Referral,2026-02-15,9,Dropped
+2264,Retail,India,Direct,2025-01-29,11,Completed
+2265,Retail,India,Online Signup,2025-08-26,9,Completed
+2266,Institutional,Canada,Referral,2026-03-04,1,Completed
+2267,Commercial,UAE,Direct,2025-04-27,6,Dropped
+2268,Commercial,USA,Referral,2025-11-24,6,Completed
+2269,Retail,UK,Online Signup,2025-08-20,11,Completed
+2270,Commercial,Pakistan,Online Signup,2025-02-17,7,Completed
+2271,Commercial,Australia,Online Signup,2025-09-10,6,Completed
+2272,Commercial,Canada,Online Signup,2025-10-02,8,Completed
+2273,Retail,India,Direct,2025-12-05,11,Completed
+2274,Retail,Nigeria,Online Signup,2025-06-10,10,Completed
+2275,Retail,Singapore,Online Signup,2025-10-15,10,Completed
+2276,Retail,Germany,Direct,2025-07-04,9,Dropped
+2277,Retail,UK,Online Signup,2026-01-24,10,Completed
+2278,Retail,Germany,Online Signup,2025-12-18,9,Dropped
+2279,Retail,Germany,Referral,2025-02-26,11,Completed
+2280,Institutional,UK,Direct,2026-03-29,1,Completed
+2281,Retail,Nigeria,Referral,2025-04-07,9,Dropped
+2282,Commercial,Germany,Referral,2026-02-23,7,Completed
+2283,Institutional,USA,Referral,2025-09-11,2,Completed
+2284,Retail,Nigeria,Online Signup,2025-02-11,13,Completed
+2285,Retail,UK,Referral,2025-12-24,9,Completed
+2286,Retail,Germany,Direct,2026-03-10,9,Completed
+2287,Commercial,Singapore,Direct,2025-03-30,8,Completed
+2288,Retail,Singapore,Direct,2025-02-12,13,Completed
+2289,Institutional,Australia,Direct,2025-06-09,3,Completed
+2290,Institutional,Canada,Online Signup,2025-08-03,4,Completed
+2291,Commercial,Nigeria,Online Signup,2025-09-29,5,Completed
+2292,Commercial,USA,Online Signup,2025-03-16,6,Completed
+2293,Retail,India,Direct,2025-02-26,11,Completed
+2294,Commercial,Singapore,Online Signup,2025-07-10,6,Completed
+2295,Retail,Canada,Direct,2025-06-14,9,Completed
+2296,Retail,Nigeria,Referral,2026-02-19,9,Dropped
+2297,Retail,Canada,Direct,2026-01-16,9,Completed
+2298,Retail,Pakistan,Referral,2025-08-15,10,Completed
+2299,Retail,Australia,Online Signup,2025-02-11,11,Completed
+2300,Institutional,Canada,Online Signup,2026-02-18,2,Completed
+2301,Retail,Singapore,Referral,2025-01-25,10,Completed
+2302,Institutional,Australia,Direct,2025-05-03,4,Completed
+2303,Retail,USA,Referral,2025-02-21,10,Completed
+2304,Retail,UK,Online Signup,2026-01-14,10,Completed
+2305,Retail,Canada,Direct,2025-11-29,12,Completed
+2306,Commercial,USA,Referral,2025-03-08,5,Dropped
+2307,Institutional,UK,Online Signup,2025-07-06,1,Completed
+2308,Institutional,USA,Online Signup,2026-01-21,1,Completed
+2309,Retail,India,Referral,2025-06-23,12,Completed
+2310,Retail,USA,Online Signup,2025-09-14,13,Completed
+2311,Retail,Nigeria,Referral,2026-02-02,12,Dropped
+2312,Retail,UK,Direct,2025-04-11,13,Completed
+2313,Retail,Russia,Referral,2025-12-08,12,Completed
+2314,Institutional,Russia,Direct,2025-02-06,4,Completed
+2315,Commercial,India,Online Signup,2026-01-13,8,Completed
+2316,Retail,UAE,Referral,2025-10-31,13,Dropped
+2317,Retail,India,Online Signup,2025-04-27,12,Completed
+2318,Retail,India,Online Signup,2025-11-26,10,Dropped
+2319,Commercial,Germany,Online Signup,2025-03-16,5,Completed
+2320,Commercial,USA,Direct,2025-08-17,8,Completed
+2321,Retail,India,Referral,2026-03-03,13,Completed
+2322,Retail,USA,Referral,2025-03-05,9,Completed
+2323,Institutional,India,Online Signup,2025-02-22,1,Completed
+2324,Commercial,Pakistan,Direct,2025-07-28,6,Completed
+2325,Retail,Germany,Referral,2025-04-22,12,Dropped
+2326,Retail,UK,Online Signup,2025-12-30,13,Completed
+2327,Retail,India,Referral,2025-09-10,11,Completed
+2328,Commercial,Russia,Direct,2025-02-09,8,Completed
+2329,Retail,UK,Online Signup,2025-03-25,13,Completed
+2330,Retail,UAE,Direct,2025-12-15,13,Completed
+2331,Retail,USA,Referral,2026-02-02,11,Completed
+2332,Retail,Pakistan,Online Signup,2026-01-14,11,Completed
+2333,Commercial,Nigeria,Direct,2025-12-23,8,Completed
+2334,Commercial,USA,Referral,2025-04-22,5,Completed
+2335,Retail,Nigeria,Online Signup,2025-01-24,13,Completed
+2336,Retail,USA,Online Signup,2025-11-09,13,Completed
+2337,Retail,Russia,Referral,2025-07-25,13,Completed
+2338,Retail,USA,Referral,2025-12-03,10,Completed
+2339,Retail,India,Online Signup,2025-04-28,9,Dropped
+2340,Retail,USA,Referral,2025-05-29,11,Completed
+2341,Commercial,Nigeria,Referral,2025-01-04,7,Completed
+2342,Institutional,Germany,Referral,2025-01-05,3,Completed
+2343,Commercial,USA,Referral,2026-03-02,6,Completed
+2344,Retail,Germany,Direct,2025-12-08,9,Completed
+2345,Retail,UK,Online Signup,2025-03-31,10,Completed
+2346,Retail,USA,Direct,2025-11-17,13,Dropped
+2347,Retail,UK,Referral,2025-03-06,11,Completed
+2348,Retail,UK,Referral,2025-12-12,13,Completed
+2349,Retail,India,Referral,2025-11-10,11,Completed
+2350,Retail,UK,Online Signup,2025-03-10,13,Completed
+2351,Retail,UK,Online Signup,2025-11-21,13,Completed
+2352,Retail,UK,Referral,2026-02-18,13,Completed
+2353,Commercial,UK,Direct,2026-02-15,6,Completed
+2354,Retail,UK,Referral,2025-05-26,13,Completed
+2355,Retail,USA,Online Signup,2026-03-13,9,Dropped
+2356,Commercial,Singapore,Direct,2025-02-11,5,Completed
+2357,Institutional,Germany,Referral,2025-08-03,4,Dropped
+2358,Commercial,India,Online Signup,2025-08-05,5,Completed
+2359,Commercial,Canada,Referral,2025-11-09,8,Dropped
+2360,Retail,Russia,Referral,2026-01-24,9,Completed
+2361,Institutional,Nigeria,Online Signup,2025-05-16,2,Completed
+2362,Commercial,UAE,Online Signup,2026-03-16,6,Completed
+2363,Commercial,UAE,Direct,2025-11-19,8,Completed
+2364,Retail,UK,Online Signup,2025-06-29,10,Completed
+2365,Commercial,Nigeria,Online Signup,2025-09-15,7,Completed
+2366,Retail,Germany,Referral,2025-03-17,9,Completed
+2367,Commercial,India,Online Signup,2025-07-13,6,Completed
+2368,Retail,USA,Online Signup,2026-03-08,9,Completed
+2369,Retail,Pakistan,Direct,2025-12-12,12,Completed
+2370,Retail,Russia,Online Signup,2025-09-08,12,Completed
+2371,Retail,Nigeria,Online Signup,2025-06-21,10,Completed
+2372,Retail,India,Referral,2025-01-13,11,Dropped
+2373,Retail,Singapore,Referral,2025-02-11,11,Completed
+2374,Commercial,Nigeria,Direct,2025-11-15,5,Completed
+2375,Retail,India,Direct,2026-01-17,11,Completed
+2376,Retail,Germany,Direct,2025-04-13,10,Completed
+2377,Retail,India,Direct,2025-02-05,9,Completed
+2378,Institutional,Canada,Online Signup,2025-09-14,4,Completed
+2379,Retail,Singapore,Referral,2025-07-25,12,Completed
+2380,Retail,Singapore,Referral,2025-12-09,9,Completed
+2381,Retail,India,Direct,2025-12-29,13,Completed
+2382,Retail,UK,Direct,2025-12-26,10,Completed
+2383,Retail,Russia,Direct,2025-05-10,9,Completed
+2384,Retail,UK,Online Signup,2026-03-06,9,Completed
+2385,Commercial,USA,Direct,2025-06-17,7,Completed
+2386,Commercial,India,Online Signup,2025-04-26,7,Completed
+2387,Retail,USA,Direct,2025-04-15,11,Completed
+2388,Retail,UAE,Referral,2025-10-01,9,Completed
+2389,Retail,India,Referral,2026-03-25,13,Completed
+2390,Institutional,UK,Online Signup,2025-07-12,3,Completed
+2391,Retail,UK,Online Signup,2025-04-16,9,Completed
+2392,Retail,Australia,Direct,2025-09-30,9,Completed
+2393,Retail,Pakistan,Online Signup,2025-08-26,10,Completed
+2394,Commercial,Germany,Online Signup,2025-07-02,7,Completed
+2395,Commercial,USA,Referral,2025-09-30,5,Completed
+2396,Commercial,Singapore,Online Signup,2025-08-10,6,Completed
+2397,Retail,USA,Referral,2025-11-11,13,Dropped
+2398,Commercial,USA,Online Signup,2026-01-11,5,Completed
+2399,Retail,USA,Direct,2026-01-21,13,Completed
+2400,Retail,India,Direct,2025-03-19,9,Completed
+2401,Retail,Germany,Direct,2025-01-16,13,Completed
+2402,Institutional,India,Direct,2025-12-05,3,Completed
+2403,Institutional,USA,Online Signup,2025-12-05,4,Completed
+2404,Retail,USA,Online Signup,2025-06-29,9,Completed
+2405,Institutional,Russia,Online Signup,2025-09-22,4,Completed
+2406,Institutional,Nigeria,Referral,2026-03-30,4,Completed
+2407,Retail,UAE,Online Signup,2025-09-16,11,Completed
+2408,Retail,Nigeria,Direct,2025-09-21,13,Completed
+2409,Retail,India,Direct,2025-02-07,10,Completed
+2410,Retail,Pakistan,Online Signup,2025-07-15,9,Completed
+2411,Retail,UK,Direct,2025-04-17,11,Completed
+2412,Retail,Australia,Online Signup,2025-03-28,13,Completed
+2413,Commercial,Singapore,Online Signup,2025-05-03,7,Completed
+2414,Retail,USA,Online Signup,2025-07-21,12,Completed
+2415,Retail,Nigeria,Referral,2025-07-14,10,Completed
+2416,Retail,Nigeria,Direct,2025-09-27,10,Completed
+2417,Retail,India,Referral,2025-05-23,11,Completed
+2418,Retail,USA,Direct,2025-07-02,10,Completed
+2419,Retail,India,Referral,2025-05-22,9,Completed
+2420,Commercial,Singapore,Direct,2026-03-06,5,Completed
+2421,Retail,USA,Referral,2026-02-03,12,Completed
+2422,Retail,Russia,Direct,2025-10-17,10,Completed
+2423,Retail,UK,Referral,2025-03-16,10,Completed
+2424,Retail,India,Referral,2025-08-12,9,Completed
+2425,Commercial,Germany,Direct,2025-02-06,7,Completed
+2426,Retail,USA,Referral,2025-06-17,11,Dropped
+2427,Commercial,UK,Referral,2025-01-21,8,Completed
+2428,Retail,USA,Referral,2026-01-19,10,Completed
+2429,Commercial,Singapore,Online Signup,2025-12-16,6,Completed
+2430,Retail,Australia,Online Signup,2026-03-06,10,Dropped
+2431,Retail,Germany,Referral,2025-10-09,10,Completed
+2432,Retail,USA,Online Signup,2025-11-09,9,Dropped
+2433,Retail,India,Online Signup,2025-02-21,13,Completed
+2434,Commercial,USA,Referral,2025-11-06,6,Completed
+2435,Retail,Nigeria,Online Signup,2026-02-04,11,Completed
+2436,Retail,Germany,Referral,2026-01-07,13,Completed
+2437,Retail,Singapore,Referral,2025-02-22,11,Dropped
+2438,Retail,Nigeria,Direct,2025-09-07,12,Completed
+2439,Retail,USA,Referral,2025-11-26,11,Completed
+2440,Commercial,India,Direct,2025-03-30,7,Completed
+2441,Retail,USA,Online Signup,2025-06-18,11,Completed
+2442,Retail,Germany,Direct,2026-03-04,13,Completed
+2443,Retail,Singapore,Direct,2026-02-08,13,Dropped
+2444,Commercial,UK,Direct,2026-01-15,7,Dropped
+2445,Institutional,USA,Referral,2026-02-18,4,Completed
+2446,Retail,UK,Referral,2025-03-05,13,Completed
+2447,Retail,Germany,Referral,2025-01-19,9,Dropped
+2448,Retail,Germany,Direct,2025-02-09,12,Dropped
+2449,Retail,Nigeria,Referral,2026-01-19,9,Dropped
+2450,Retail,UK,Online Signup,2025-06-10,11,Completed
+2451,Retail,Canada,Online Signup,2025-08-06,12,Completed
+2452,Retail,Canada,Referral,2025-12-27,13,Completed
+2453,Commercial,Nigeria,Direct,2026-01-21,6,Completed
+2454,Retail,UAE,Direct,2025-08-10,12,Completed
+2455,Retail,UK,Direct,2025-04-11,9,Completed
+2456,Retail,India,Direct,2025-07-19,9,Completed
+2457,Retail,Singapore,Online Signup,2025-05-16,9,Completed
+2458,Institutional,USA,Direct,2025-04-11,2,Completed
+2459,Retail,Nigeria,Direct,2026-03-08,11,Completed
+2460,Commercial,Russia,Online Signup,2025-04-20,6,Completed
+2461,Retail,Canada,Online Signup,2025-06-25,9,Dropped
+2462,Commercial,USA,Online Signup,2026-02-27,5,Completed
+2463,Retail,Russia,Referral,2025-07-15,10,Completed
+2464,Commercial,UK,Referral,2025-01-06,6,Completed
+2465,Institutional,India,Referral,2025-12-05,4,Completed
+2466,Retail,India,Online Signup,2025-09-05,9,Dropped
+2467,Institutional,UK,Online Signup,2026-03-09,4,Completed
+2468,Commercial,Nigeria,Direct,2025-07-18,7,Completed
+2469,Institutional,Australia,Online Signup,2026-01-21,2,Completed
+2470,Retail,UK,Direct,2025-06-22,9,Dropped
+2471,Retail,Australia,Referral,2025-10-14,13,Completed
+2472,Retail,UK,Referral,2025-05-07,9,Completed
+2473,Commercial,Nigeria,Direct,2025-03-31,5,Completed
+2474,Retail,India,Direct,2026-01-31,11,Completed
+2475,Retail,Pakistan,Referral,2026-03-12,9,Completed
+2476,Institutional,UK,Direct,2025-06-05,1,Completed
+2477,Retail,India,Referral,2025-10-17,13,Completed
+2478,Retail,USA,Referral,2025-12-25,9,Completed
+2479,Institutional,UK,Online Signup,2025-07-15,1,Completed
+2480,Retail,Germany,Direct,2025-08-18,12,Completed
+2481,Retail,Singapore,Direct,2025-01-05,12,Completed
+2482,Retail,Singapore,Online Signup,2025-12-09,10,Completed
+2483,Retail,Germany,Referral,2025-05-16,11,Completed
+2484,Commercial,Pakistan,Referral,2026-01-07,6,Completed
+2485,Institutional,India,Online Signup,2025-07-04,3,Completed
+2486,Retail,Germany,Referral,2025-07-05,11,Completed
+2487,Retail,India,Referral,2025-09-17,11,Completed
+2488,Commercial,Canada,Online Signup,2026-03-16,7,Dropped
+2489,Retail,Australia,Online Signup,2025-11-02,10,Completed
+2490,Retail,Singapore,Referral,2025-08-28,9,Completed
+2491,Retail,Russia,Direct,2025-12-10,9,Completed
+2492,Commercial,Nigeria,Referral,2025-10-04,6,Completed
+2493,Retail,Russia,Referral,2025-05-24,12,Completed
+2494,Retail,UK,Direct,2025-12-15,9,Completed
+2495,Commercial,USA,Referral,2025-02-16,6,Completed
+2496,Retail,UK,Online Signup,2025-06-22,11,Completed
+2497,Retail,Nigeria,Direct,2025-05-12,10,Completed
+2498,Retail,Nigeria,Referral,2025-10-13,12,Dropped
+2499,Commercial,India,Direct,2025-03-28,5,Completed
+2500,Retail,Singapore,Direct,2025-10-31,13,Completed
+2501,Retail,USA,Direct,2026-02-17,11,Completed
+2502,Retail,Germany,Direct,2025-08-07,9,Dropped
+2503,Institutional,Germany,Online Signup,2025-01-22,2,Completed
+2504,Institutional,Pakistan,Referral,2025-06-02,3,Completed
+2505,Retail,UK,Referral,2025-03-09,12,Dropped
+2506,Institutional,UK,Online Signup,2025-12-15,4,Completed
+2507,Retail,Nigeria,Referral,2026-01-12,13,Completed
+2508,Retail,Germany,Online Signup,2025-11-26,9,Completed
+2509,Institutional,Australia,Online Signup,2025-06-25,1,Dropped
+2510,Retail,Australia,Online Signup,2025-08-10,12,Completed
+2511,Institutional,USA,Direct,2026-03-11,2,Dropped
+2512,Commercial,Canada,Direct,2026-01-22,8,Completed
+2513,Retail,Germany,Referral,2026-02-20,9,Completed
+2514,Commercial,USA,Referral,2025-06-21,8,Completed
+2515,Retail,Singapore,Direct,2025-10-26,12,Dropped
+2516,Retail,UK,Direct,2025-04-02,11,Completed
+2517,Retail,Singapore,Referral,2025-09-03,10,Completed
+2518,Retail,Pakistan,Referral,2025-09-01,9,Completed
+2519,Institutional,UK,Online Signup,2025-01-25,2,Completed
+2520,Retail,India,Direct,2025-11-04,9,Completed
+2521,Retail,Canada,Online Signup,2026-03-03,10,Completed
+2522,Retail,Russia,Online Signup,2025-01-31,9,Dropped
+2523,Retail,Nigeria,Referral,2025-06-09,9,Dropped
+2524,Institutional,USA,Referral,2025-03-06,2,Completed
+2525,Retail,UAE,Online Signup,2026-01-26,11,Completed
+2526,Institutional,UK,Referral,2026-01-29,2,Completed
+2527,Retail,Nigeria,Referral,2025-02-04,11,Completed
+2528,Retail,Australia,Referral,2025-04-01,10,Completed
+2529,Commercial,India,Online Signup,2025-04-11,7,Dropped
+2530,Retail,Australia,Online Signup,2025-10-30,10,Dropped
+2531,Retail,UK,Direct,2025-11-19,10,Completed
+2532,Retail,Germany,Online Signup,2026-02-24,12,Dropped
+2533,Retail,USA,Direct,2025-06-17,9,Dropped
+2534,Retail,Germany,Referral,2025-01-28,13,Completed
+2535,Commercial,Germany,Direct,2025-10-31,6,Completed
+2536,Retail,India,Direct,2026-02-26,11,Completed
+2537,Retail,Pakistan,Direct,2025-06-20,12,Completed
+2538,Retail,Canada,Referral,2025-07-29,10,Completed
+2539,Commercial,USA,Direct,2025-08-23,8,Completed
+2540,Retail,Germany,Online Signup,2025-08-04,13,Dropped
+2541,Commercial,UK,Referral,2025-01-13,5,Completed
+2542,Institutional,USA,Direct,2025-11-04,2,Completed
+2543,Institutional,Russia,Online Signup,2025-09-25,1,Completed
+2544,Retail,Russia,Direct,2025-06-29,9,Dropped
+2545,Retail,Australia,Direct,2026-02-26,9,Completed
+2546,Commercial,Singapore,Direct,2026-01-08,5,Completed
+2547,Retail,India,Online Signup,2025-07-10,9,Completed
+2548,Commercial,India,Online Signup,2025-01-19,8,Completed
+2549,Retail,Pakistan,Direct,2025-08-06,11,Completed
+2550,Commercial,Nigeria,Online Signup,2025-01-25,8,Completed
+2551,Retail,Nigeria,Direct,2025-05-03,12,Completed
+2552,Institutional,Nigeria,Referral,2025-02-25,3,Dropped
+2553,Institutional,UK,Direct,2025-03-12,3,Completed
+2554,Institutional,UAE,Online Signup,2025-01-19,2,Completed
+2555,Retail,UK,Online Signup,2025-04-23,9,Dropped
+2556,Institutional,UK,Direct,2025-11-11,3,Completed
+2557,Retail,India,Online Signup,2025-07-31,11,Completed
+2558,Retail,USA,Direct,2025-08-20,11,Completed
+2559,Commercial,Germany,Online Signup,2025-08-28,8,Completed
+2560,Retail,UK,Online Signup,2026-03-28,9,Dropped
+2561,Retail,USA,Direct,2025-04-22,13,Completed
+2562,Retail,Germany,Direct,2025-08-02,9,Completed
+2563,Retail,Germany,Direct,2025-01-08,10,Completed
+2564,Retail,Singapore,Referral,2025-07-07,9,Completed
+2565,Commercial,Canada,Online Signup,2025-10-28,5,Dropped
+2566,Institutional,Singapore,Direct,2026-03-24,1,Completed
+2567,Retail,Canada,Online Signup,2025-03-15,11,Completed
+2568,Commercial,USA,Direct,2025-04-12,5,Completed
+2569,Institutional,UAE,Direct,2025-12-24,2,Completed
+2570,Commercial,USA,Referral,2025-08-21,5,Completed
+2571,Commercial,Nigeria,Referral,2025-05-20,7,Completed
+2572,Institutional,Australia,Direct,2025-04-24,2,Dropped
+2573,Commercial,USA,Direct,2025-07-21,7,Completed
+2574,Institutional,UK,Referral,2025-06-29,2,Completed
+2575,Retail,UK,Direct,2025-03-26,11,Completed
+2576,Retail,Pakistan,Referral,2026-02-01,13,Completed
+2577,Retail,USA,Direct,2025-08-22,12,Completed
+2578,Retail,India,Referral,2025-11-01,10,Dropped
+2579,Retail,USA,Direct,2025-10-21,12,Dropped
+2580,Commercial,UK,Referral,2025-06-21,8,Completed
+2581,Retail,UAE,Referral,2025-07-11,10,Dropped
+2582,Retail,USA,Online Signup,2025-12-22,13,Completed
+2583,Institutional,Australia,Referral,2025-11-28,4,Completed
+2584,Retail,Australia,Direct,2025-04-11,13,Completed
+2585,Commercial,Singapore,Referral,2025-10-11,8,Completed
+2586,Retail,Pakistan,Referral,2025-11-08,12,Completed
+2587,Retail,Singapore,Direct,2025-03-02,9,Dropped
+2588,Retail,India,Online Signup,2025-04-07,11,Completed
+2589,Institutional,Russia,Online Signup,2025-11-18,3,Completed
+2590,Retail,UAE,Online Signup,2025-10-04,12,Completed
+2591,Institutional,USA,Direct,2025-07-19,1,Completed
+2592,Retail,USA,Referral,2025-08-06,9,Completed
+2593,Retail,India,Online Signup,2025-02-11,10,Dropped
+2594,Retail,India,Direct,2025-12-02,10,Completed
+2595,Retail,Pakistan,Referral,2025-03-07,10,Completed
+2596,Retail,Pakistan,Referral,2025-06-12,12,Dropped
+2597,Retail,India,Direct,2025-01-11,12,Completed
+2598,Retail,Canada,Online Signup,2026-01-03,10,Completed
+2599,Retail,India,Referral,2026-03-10,12,Completed
+2600,Retail,Australia,Online Signup,2025-04-02,11,Completed
+2601,Retail,USA,Referral,2026-03-31,13,Completed
+2602,Commercial,India,Referral,2025-05-13,7,Completed
+2603,Retail,India,Online Signup,2025-02-27,9,Dropped
+2604,Institutional,India,Referral,2025-02-13,3,Completed
+2605,Retail,Canada,Direct,2026-02-04,12,Completed
+2606,Commercial,Australia,Referral,2025-07-19,6,Completed
+2607,Institutional,USA,Referral,2025-09-18,3,Dropped
+2608,Retail,Germany,Online Signup,2025-10-29,13,Completed
+2609,Retail,India,Referral,2025-02-04,13,Completed
+2610,Commercial,Germany,Referral,2025-01-07,6,Completed
+2611,Institutional,UK,Online Signup,2025-05-30,2,Completed
+2612,Commercial,Canada,Direct,2025-09-19,8,Completed
+2613,Retail,India,Direct,2025-02-12,10,Dropped
+2614,Institutional,USA,Referral,2026-03-09,1,Completed
+2615,Retail,India,Online Signup,2025-08-09,10,Dropped
+2616,Retail,Pakistan,Direct,2025-09-20,9,Completed
+2617,Retail,USA,Referral,2025-01-06,12,Completed
+2618,Retail,UK,Referral,2025-12-16,10,Completed
+2619,Institutional,India,Referral,2025-12-30,4,Completed
+2620,Institutional,UK,Direct,2025-05-11,3,Dropped
+2621,Retail,UK,Referral,2025-01-03,9,Completed
+2622,Retail,India,Referral,2025-03-15,13,Dropped
+2623,Commercial,USA,Direct,2025-06-12,5,Completed
+2624,Retail,UK,Referral,2026-03-05,10,Completed
+2625,Retail,UAE,Online Signup,2025-08-16,11,Dropped
+2626,Retail,Australia,Referral,2025-07-27,10,Dropped
+2627,Institutional,Germany,Direct,2026-02-23,3,Completed
+2628,Retail,Singapore,Direct,2025-02-12,12,Dropped
+2629,Commercial,UK,Referral,2026-02-15,5,Completed
+2630,Commercial,Pakistan,Direct,2025-11-08,6,Completed
+2631,Commercial,Germany,Referral,2025-10-16,8,Completed
+2632,Commercial,Singapore,Online Signup,2026-02-13,6,Completed
+2633,Commercial,Nigeria,Online Signup,2025-02-23,5,Completed
+2634,Retail,Nigeria,Direct,2026-03-26,11,Dropped
+2635,Retail,UK,Referral,2025-12-15,9,Completed
+2636,Institutional,UAE,Referral,2025-05-24,4,Completed
+2637,Retail,Nigeria,Direct,2025-08-27,9,Completed
+2638,Retail,Germany,Direct,2025-09-20,11,Completed
+2639,Commercial,UK,Online Signup,2025-08-28,8,Completed
+2640,Retail,India,Online Signup,2025-12-01,11,Completed
+2641,Commercial,Nigeria,Direct,2025-08-20,8,Completed
+2642,Retail,UK,Referral,2026-03-02,11,Completed
+2643,Retail,Russia,Direct,2025-11-09,13,Completed
+2644,Retail,UAE,Referral,2025-09-17,11,Completed
+2645,Institutional,Singapore,Referral,2026-02-26,2,Completed
+2646,Institutional,Russia,Online Signup,2026-03-17,2,Dropped
+2647,Retail,UK,Online Signup,2025-03-22,10,Dropped
+2648,Retail,Singapore,Online Signup,2025-11-06,11,Completed
+2649,Retail,UAE,Online Signup,2026-02-15,12,Completed
+2650,Retail,UK,Online Signup,2025-12-20,9,Completed
+2651,Retail,Germany,Direct,2025-10-27,10,Completed
+2652,Retail,UK,Referral,2025-10-16,11,Dropped
+2653,Commercial,India,Direct,2025-12-06,5,Completed
+2654,Retail,Singapore,Direct,2025-03-28,10,Dropped
+2655,Commercial,Germany,Referral,2025-10-25,7,Completed
+2656,Retail,India,Online Signup,2025-06-09,10,Completed
+2657,Institutional,UK,Online Signup,2026-02-27,2,Dropped
+2658,Institutional,India,Referral,2025-06-22,1,Completed
+2659,Institutional,Australia,Referral,2025-12-14,1,Completed
+2660,Retail,India,Direct,2025-02-28,12,Completed
+2661,Retail,USA,Online Signup,2025-03-22,13,Completed
+2662,Retail,UK,Referral,2025-01-22,9,Completed
+2663,Commercial,Nigeria,Referral,2025-05-27,7,Completed
+2664,Retail,India,Online Signup,2026-01-18,9,Completed
+2665,Commercial,Australia,Referral,2025-09-15,7,Completed
+2666,Retail,USA,Referral,2026-03-30,11,Completed
+2667,Retail,UK,Referral,2025-10-08,13,Dropped
+2668,Institutional,Canada,Online Signup,2025-05-20,4,Completed
+2669,Retail,India,Online Signup,2025-08-21,10,Completed
+2670,Institutional,Canada,Referral,2025-05-12,1,Completed
+2671,Retail,Germany,Online Signup,2026-01-03,12,Completed
+2672,Retail,UAE,Online Signup,2026-03-06,11,Completed
+2673,Commercial,India,Referral,2025-05-02,7,Dropped
+2674,Retail,UAE,Online Signup,2025-12-15,11,Dropped
+2675,Retail,Australia,Referral,2025-09-06,9,Completed
+2676,Retail,USA,Direct,2025-04-26,12,Completed
+2677,Retail,Germany,Direct,2025-02-16,9,Dropped
+2678,Retail,Nigeria,Referral,2025-10-12,11,Dropped
+2679,Institutional,Germany,Referral,2025-10-17,4,Completed
+2680,Institutional,UAE,Direct,2025-11-14,4,Completed
+2681,Retail,Germany,Direct,2026-03-21,13,Completed
+2682,Retail,Germany,Referral,2025-12-06,13,Completed
+2683,Retail,UK,Referral,2025-01-21,11,Completed
+2684,Retail,Pakistan,Referral,2026-02-12,12,Completed
+2685,Retail,USA,Online Signup,2025-06-13,11,Completed
+2686,Retail,UK,Online Signup,2025-07-20,13,Completed
+2687,Retail,Germany,Referral,2025-03-29,11,Completed
+2688,Commercial,Nigeria,Referral,2025-03-16,8,Completed
+2689,Retail,Pakistan,Online Signup,2025-05-09,12,Completed
+2690,Institutional,Germany,Online Signup,2025-07-30,1,Completed
+2691,Retail,Pakistan,Direct,2026-03-29,10,Completed
+2692,Retail,Pakistan,Referral,2026-02-10,13,Dropped
+2693,Retail,UK,Online Signup,2025-05-11,13,Dropped
+2694,Retail,Russia,Direct,2025-09-04,13,Completed
+2695,Retail,India,Referral,2025-06-26,10,Completed
+2696,Retail,Singapore,Referral,2025-05-23,11,Completed
+2697,Institutional,India,Direct,2026-01-05,2,Completed
+2698,Retail,India,Referral,2025-07-12,10,Completed
+2699,Retail,Canada,Referral,2025-03-02,9,Completed
+2700,Retail,USA,Referral,2025-01-15,12,Completed
+2701,Institutional,Australia,Referral,2025-11-22,3,Completed
+2702,Retail,Australia,Referral,2025-02-04,13,Completed
+2703,Commercial,USA,Direct,2025-03-08,5,Dropped
+2704,Retail,UK,Referral,2025-10-04,9,Completed
+2705,Commercial,Singapore,Direct,2025-07-01,8,Completed
+2706,Retail,India,Referral,2025-03-13,9,Completed
+2707,Retail,Nigeria,Online Signup,2025-05-20,12,Completed
+2708,Retail,India,Referral,2025-08-18,9,Completed
+2709,Retail,India,Referral,2025-02-16,10,Completed
+2710,Retail,Australia,Online Signup,2025-07-19,10,Completed
+2711,Commercial,USA,Referral,2025-08-18,6,Completed
+2712,Commercial,UK,Online Signup,2025-11-21,7,Completed
+2713,Retail,Pakistan,Referral,2025-09-13,9,Completed
+2714,Institutional,Singapore,Online Signup,2025-11-22,2,Completed
+2715,Retail,UK,Referral,2025-06-22,11,Completed
+2716,Retail,Russia,Referral,2025-11-29,9,Completed
+2717,Retail,Germany,Online Signup,2025-08-24,10,Completed
+2718,Retail,Australia,Referral,2025-09-13,10,Completed
+2719,Retail,Singapore,Direct,2025-12-04,12,Completed
+2720,Retail,Russia,Referral,2025-05-21,9,Completed
+2721,Institutional,Pakistan,Direct,2025-10-22,1,Completed
+2722,Commercial,Singapore,Online Signup,2025-01-28,7,Completed
+2723,Commercial,Nigeria,Referral,2025-07-26,8,Completed
+2724,Retail,India,Referral,2025-12-23,13,Completed
+2725,Retail,Pakistan,Referral,2025-11-29,10,Completed
+2726,Commercial,Germany,Online Signup,2026-03-13,7,Completed
+2727,Retail,UK,Direct,2025-07-21,11,Completed
+2728,Retail,UK,Referral,2025-06-13,10,Completed
+2729,Institutional,Australia,Online Signup,2025-03-14,3,Completed
+2730,Institutional,UK,Referral,2026-03-26,3,Completed
+2731,Institutional,UK,Direct,2026-02-13,1,Completed
+2732,Commercial,India,Online Signup,2025-01-14,7,Completed
+2733,Commercial,Germany,Direct,2025-02-14,5,Completed
+2734,Retail,Germany,Direct,2025-04-14,10,Completed
+2735,Retail,USA,Direct,2025-03-19,9,Completed
+2736,Institutional,UK,Referral,2025-10-14,1,Completed
+2737,Institutional,Germany,Referral,2025-06-04,3,Completed
+2738,Retail,USA,Direct,2025-04-09,11,Completed
+2739,Commercial,Singapore,Online Signup,2025-07-24,8,Completed
+2740,Retail,USA,Online Signup,2025-04-22,13,Dropped
+2741,Retail,Nigeria,Referral,2025-01-19,11,Dropped
+2742,Commercial,Russia,Referral,2025-10-31,7,Completed
+2743,Commercial,Australia,Referral,2025-12-29,8,Completed
+2744,Retail,India,Direct,2025-02-17,9,Completed
+2745,Commercial,Pakistan,Online Signup,2025-07-14,6,Dropped
+2746,Commercial,India,Referral,2025-11-02,8,Completed
+2747,Retail,USA,Referral,2025-02-25,11,Completed
+2748,Retail,India,Direct,2025-05-08,10,Completed
+2749,Retail,India,Direct,2025-11-16,10,Completed
+2750,Retail,USA,Referral,2025-10-09,11,Completed
+2751,Retail,Singapore,Direct,2025-04-20,11,Completed
+2752,Commercial,Australia,Direct,2025-07-22,6,Completed
+2753,Retail,India,Referral,2025-08-04,11,Completed
+2754,Retail,USA,Referral,2025-04-27,9,Dropped
+2755,Retail,Germany,Online Signup,2025-02-22,9,Dropped
+2756,Retail,India,Online Signup,2025-06-09,10,Dropped
+2757,Commercial,Russia,Direct,2026-03-26,8,Completed
+2758,Retail,Pakistan,Direct,2026-01-15,12,Completed
+2759,Retail,India,Direct,2025-05-17,9,Completed
+2760,Commercial,India,Online Signup,2025-07-30,8,Completed
+2761,Retail,USA,Direct,2025-09-25,12,Completed
+2762,Retail,Singapore,Direct,2025-07-19,13,Completed
+2763,Retail,Singapore,Online Signup,2025-04-10,11,Completed
+2764,Institutional,USA,Direct,2025-07-30,3,Completed
+2765,Retail,USA,Referral,2025-03-30,12,Completed
+2766,Commercial,India,Referral,2025-08-08,7,Completed
+2767,Retail,Germany,Referral,2025-03-08,12,Dropped
+2768,Institutional,Singapore,Online Signup,2026-03-31,1,Completed
+2769,Commercial,USA,Referral,2025-12-31,6,Completed
+2770,Retail,USA,Direct,2025-08-16,9,Completed
+2771,Retail,Singapore,Direct,2026-01-13,10,Completed
+2772,Commercial,Australia,Online Signup,2026-03-11,6,Completed
+2773,Commercial,UK,Direct,2025-12-12,8,Completed
+2774,Institutional,USA,Referral,2025-07-13,3,Completed
+2775,Retail,Australia,Direct,2026-03-04,13,Completed
+2776,Retail,USA,Online Signup,2025-10-23,9,Dropped
+2777,Commercial,Singapore,Referral,2025-07-15,5,Completed
+2778,Retail,UK,Referral,2026-03-24,12,Completed
+2779,Retail,UAE,Direct,2025-05-04,12,Completed
+2780,Retail,Pakistan,Online Signup,2025-03-17,11,Completed
+2781,Institutional,UAE,Direct,2025-07-27,4,Completed
+2782,Retail,India,Direct,2026-03-01,13,Completed
+2783,Retail,Nigeria,Direct,2026-03-01,9,Dropped
+2784,Retail,India,Direct,2025-08-17,9,Completed
+2785,Retail,Australia,Referral,2026-01-20,13,Completed
+2786,Retail,Pakistan,Direct,2025-05-20,13,Completed
+2787,Retail,Canada,Online Signup,2025-07-29,11,Completed
+2788,Retail,Germany,Referral,2025-02-15,13,Dropped
+2789,Retail,UK,Referral,2025-10-23,11,Completed
+2790,Institutional,UK,Direct,2025-07-23,2,Completed
+2791,Commercial,USA,Online Signup,2026-01-24,5,Completed
+2792,Commercial,Singapore,Referral,2025-03-17,6,Completed
+2793,Commercial,Nigeria,Online Signup,2025-10-31,5,Completed
+2794,Institutional,Singapore,Direct,2025-05-13,2,Completed
+2795,Retail,UK,Online Signup,2025-04-01,10,Completed
+2796,Institutional,India,Online Signup,2025-06-09,2,Completed
+2797,Institutional,India,Online Signup,2025-04-18,3,Completed
+2798,Retail,Russia,Referral,2025-08-26,10,Dropped
+2799,Retail,India,Referral,2025-07-09,11,Completed
+2800,Retail,UK,Online Signup,2025-12-09,10,Completed
+2801,Retail,Germany,Direct,2025-05-15,10,Dropped
+2802,Retail,India,Online Signup,2025-08-28,13,Completed
+2803,Retail,Singapore,Referral,2026-02-13,11,Dropped
+2804,Retail,Pakistan,Online Signup,2025-11-29,13,Completed
+2805,Retail,India,Online Signup,2025-08-08,10,Completed
+2806,Retail,UK,Direct,2025-06-16,11,Completed
+2807,Retail,UK,Online Signup,2025-05-12,13,Completed
+2808,Retail,Singapore,Referral,2026-02-03,11,Dropped
+2809,Retail,USA,Direct,2026-01-14,9,Completed
+2810,Retail,Canada,Direct,2025-06-29,12,Completed
+2811,Retail,India,Direct,2025-08-07,12,Dropped
+2812,Commercial,India,Referral,2026-01-04,5,Completed
+2813,Retail,Nigeria,Online Signup,2025-11-18,10,Completed
+2814,Retail,India,Referral,2025-05-30,11,Completed
+2815,Retail,UK,Referral,2026-02-10,10,Completed
+2816,Retail,Canada,Referral,2025-08-12,11,Completed
+2817,Institutional,India,Online Signup,2025-09-15,2,Completed
+2818,Commercial,Germany,Direct,2025-05-03,5,Completed
+2819,Retail,Canada,Referral,2025-04-24,11,Completed
+2820,Retail,Canada,Referral,2025-01-17,10,Dropped
+2821,Retail,UK,Referral,2025-08-03,13,Dropped
+2822,Commercial,Nigeria,Direct,2025-09-02,8,Completed
+2823,Retail,UK,Direct,2026-02-20,11,Completed
+2824,Retail,India,Referral,2025-12-30,13,Dropped
+2825,Retail,Germany,Referral,2025-09-24,13,Completed
+2826,Retail,USA,Direct,2025-09-21,11,Dropped
+2827,Commercial,Pakistan,Direct,2026-02-09,5,Completed
+2828,Institutional,India,Referral,2025-10-14,1,Completed
+2829,Retail,UK,Referral,2025-11-17,11,Completed
+2830,Retail,Nigeria,Online Signup,2025-07-30,13,Dropped
+2831,Institutional,USA,Referral,2025-11-09,2,Completed
+2832,Retail,USA,Online Signup,2025-02-21,13,Completed
+2833,Commercial,India,Direct,2025-03-11,5,Completed
+2834,Retail,UK,Online Signup,2025-02-07,12,Completed
+2835,Institutional,Germany,Direct,2025-12-20,2,Completed
+2836,Retail,Singapore,Referral,2025-12-11,9,Dropped
+2837,Retail,Pakistan,Online Signup,2026-01-09,10,Dropped
+2838,Commercial,India,Online Signup,2025-09-18,8,Completed
+2839,Commercial,Canada,Online Signup,2025-08-09,5,Completed
+2840,Retail,UAE,Referral,2025-01-16,11,Dropped
+2841,Commercial,Singapore,Online Signup,2025-03-04,8,Completed
+2842,Retail,Nigeria,Direct,2026-03-25,13,Dropped
+2843,Institutional,Nigeria,Direct,2025-05-20,4,Completed
+2844,Retail,Australia,Online Signup,2025-01-18,12,Completed
+2845,Retail,Canada,Referral,2025-10-20,9,Completed
+2846,Retail,UK,Referral,2025-08-21,12,Completed
+2847,Retail,Germany,Direct,2026-03-26,13,Completed
+2848,Institutional,UAE,Online Signup,2025-12-31,4,Completed
+2849,Institutional,Nigeria,Referral,2025-03-12,4,Completed
+2850,Retail,Russia,Online Signup,2025-07-31,12,Completed
+2851,Retail,Russia,Direct,2025-04-16,9,Completed
+2852,Retail,USA,Referral,2026-01-17,13,Completed
+2853,Retail,Germany,Direct,2025-01-05,11,Completed
+2854,Retail,USA,Online Signup,2026-03-01,13,Completed
+2855,Institutional,USA,Direct,2026-03-26,3,Completed
+2856,Retail,Nigeria,Online Signup,2026-02-09,12,Completed
+2857,Retail,India,Online Signup,2025-03-19,11,Dropped
+2858,Institutional,Russia,Direct,2025-04-27,1,Completed
+2859,Retail,India,Direct,2026-03-18,11,Completed
+2860,Retail,UK,Referral,2025-07-05,13,Completed
+2861,Commercial,Australia,Online Signup,2025-09-25,6,Completed
+2862,Retail,USA,Referral,2025-04-14,11,Completed
+2863,Institutional,USA,Direct,2025-05-09,3,Completed
+2864,Retail,Singapore,Referral,2025-08-11,12,Completed
+2865,Retail,Nigeria,Referral,2025-02-10,10,Completed
+2866,Retail,Australia,Referral,2025-03-07,9,Completed
+2867,Commercial,USA,Direct,2025-01-08,8,Completed
+2868,Retail,Germany,Referral,2025-06-09,11,Completed
+2869,Retail,Germany,Direct,2026-02-24,10,Dropped
+2870,Retail,Australia,Online Signup,2025-06-04,10,Completed
+2871,Retail,India,Direct,2026-03-05,12,Completed
+2872,Retail,India,Referral,2025-11-07,11,Completed
+2873,Retail,USA,Direct,2025-04-20,9,Completed
+2874,Retail,USA,Referral,2025-04-16,9,Completed
+2875,Retail,Germany,Referral,2026-01-06,12,Dropped
+2876,Institutional,Singapore,Referral,2026-03-17,3,Completed
+2877,Retail,India,Direct,2025-03-03,10,Completed
+2878,Retail,Nigeria,Direct,2025-08-07,11,Dropped
+2879,Commercial,Nigeria,Online Signup,2025-10-28,8,Completed
+2880,Commercial,UK,Referral,2025-12-01,7,Completed
+2881,Institutional,UAE,Online Signup,2025-06-08,4,Completed
+2882,Retail,USA,Online Signup,2025-01-10,11,Completed
+2883,Institutional,Canada,Online Signup,2025-06-23,3,Completed
+2884,Commercial,USA,Direct,2025-09-13,6,Completed
+2885,Retail,India,Referral,2025-08-07,13,Completed
+2886,Commercial,Nigeria,Direct,2025-09-06,7,Completed
+2887,Retail,UK,Referral,2026-02-07,12,Dropped
+2888,Retail,USA,Direct,2025-01-17,9,Dropped
+2889,Commercial,Australia,Referral,2025-05-09,8,Completed
+2890,Retail,India,Referral,2025-02-19,12,Dropped
+2891,Retail,USA,Referral,2025-04-25,13,Completed
+2892,Retail,UAE,Online Signup,2025-12-12,12,Completed
+2893,Institutional,India,Referral,2025-10-18,4,Completed
+2894,Retail,Germany,Online Signup,2025-08-16,13,Completed
+2895,Commercial,India,Referral,2025-12-13,8,Completed
+2896,Retail,India,Referral,2025-09-18,13,Completed
+2897,Retail,Canada,Referral,2025-04-13,11,Completed
+2898,Commercial,UK,Online Signup,2025-04-10,8,Completed
+2899,Retail,Canada,Referral,2025-11-01,12,Completed
+2900,Retail,Canada,Referral,2026-01-17,9,Completed
+2901,Commercial,Germany,Direct,2026-01-03,6,Completed
+2902,Retail,UK,Online Signup,2025-09-26,13,Dropped
+2903,Retail,Germany,Online Signup,2026-03-20,9,Completed
+2904,Retail,India,Direct,2026-01-05,13,Completed
+2905,Retail,Nigeria,Direct,2025-09-01,10,Dropped
+2906,Retail,UK,Online Signup,2025-05-12,9,Completed
+2907,Retail,Singapore,Online Signup,2025-08-10,10,Completed
+2908,Retail,Australia,Direct,2025-04-22,10,Completed
+2909,Retail,Nigeria,Direct,2025-01-28,9,Completed
+2910,Retail,UK,Referral,2025-09-01,13,Completed
+2911,Commercial,UK,Referral,2025-08-17,7,Completed
+2912,Retail,Germany,Online Signup,2025-12-18,10,Completed
+2913,Institutional,Nigeria,Online Signup,2025-10-05,1,Completed
+2914,Institutional,India,Referral,2025-07-06,3,Completed
+2915,Retail,USA,Online Signup,2025-09-16,9,Completed
+2916,Retail,Pakistan,Referral,2025-05-17,9,Completed
+2917,Retail,India,Direct,2026-02-17,9,Completed
+2918,Commercial,UK,Online Signup,2025-01-04,7,Completed
+2919,Retail,India,Online Signup,2025-05-06,12,Completed
+2920,Retail,Nigeria,Referral,2025-05-17,9,Completed
+2921,Commercial,India,Referral,2025-11-17,7,Dropped
+2922,Retail,Germany,Referral,2025-11-14,13,Completed
+2923,Institutional,Russia,Online Signup,2025-11-15,4,Completed
+2924,Retail,Germany,Direct,2025-05-06,9,Completed
+2925,Institutional,UK,Referral,2025-04-17,2,Completed
+2926,Institutional,USA,Online Signup,2025-03-13,1,Completed
+2927,Retail,USA,Direct,2025-01-29,11,Completed
+2928,Retail,India,Online Signup,2026-01-19,10,Completed
+2929,Institutional,Canada,Online Signup,2026-03-22,2,Completed
+2930,Retail,Singapore,Online Signup,2026-02-06,13,Dropped
+2931,Retail,USA,Referral,2026-01-08,13,Completed
+2932,Commercial,Nigeria,Referral,2025-09-20,7,Completed
+2933,Commercial,Singapore,Referral,2025-01-22,6,Completed
+2934,Retail,Canada,Direct,2025-07-08,11,Completed
+2935,Retail,Nigeria,Referral,2025-08-17,12,Completed
+2936,Institutional,India,Direct,2026-03-12,3,Completed
+2937,Institutional,UK,Referral,2025-07-06,3,Completed
+2938,Retail,Pakistan,Referral,2025-08-07,10,Dropped
+2939,Commercial,India,Referral,2025-01-16,6,Completed
+2940,Retail,Russia,Direct,2025-09-09,10,Completed
+2941,Retail,Nigeria,Direct,2025-06-23,11,Completed
+2942,Retail,Singapore,Direct,2025-03-04,12,Completed
+2943,Retail,UAE,Referral,2025-08-01,13,Dropped
+2944,Retail,USA,Online Signup,2025-08-02,9,Completed
+2945,Commercial,UK,Online Signup,2026-01-03,8,Completed
+2946,Retail,UK,Direct,2025-12-09,12,Completed
+2947,Retail,USA,Direct,2025-01-18,11,Completed
+2948,Commercial,USA,Referral,2025-05-26,5,Completed
+2949,Retail,UK,Direct,2025-12-07,10,Completed
+2950,Commercial,Russia,Online Signup,2025-02-20,8,Completed
+2951,Retail,UK,Online Signup,2025-02-17,10,Completed
+2952,Commercial,Canada,Direct,2026-01-28,6,Completed
+2953,Retail,Singapore,Referral,2025-05-20,13,Completed
+2954,Commercial,Nigeria,Direct,2026-02-11,7,Completed
+2955,Commercial,Russia,Online Signup,2025-07-13,5,Completed
+2956,Retail,India,Direct,2025-12-05,13,Completed
+2957,Retail,Pakistan,Direct,2025-05-17,12,Dropped
+2958,Retail,UK,Online Signup,2025-10-13,11,Completed
+2959,Commercial,Pakistan,Online Signup,2025-06-17,8,Completed
+2960,Retail,Canada,Referral,2025-12-06,12,Completed
+2961,Retail,USA,Online Signup,2025-03-09,12,Completed
+2962,Retail,UK,Referral,2025-01-19,11,Completed
+2963,Commercial,USA,Direct,2025-02-14,8,Completed
+2964,Institutional,India,Online Signup,2025-09-28,3,Completed
+2965,Retail,India,Direct,2025-04-06,10,Completed
+2966,Retail,Nigeria,Direct,2025-04-17,10,Completed
+2967,Commercial,India,Online Signup,2025-05-17,7,Completed
+2968,Retail,India,Direct,2025-06-20,10,Completed
+2969,Retail,UK,Referral,2026-03-21,9,Completed
+2970,Institutional,India,Direct,2025-03-13,1,Completed
+2971,Institutional,UAE,Direct,2026-03-04,2,Completed
+2972,Commercial,UK,Direct,2025-07-31,7,Completed
+2973,Institutional,USA,Direct,2025-07-27,4,Completed
+2974,Retail,Russia,Online Signup,2025-09-07,9,Completed
+2975,Retail,Nigeria,Referral,2026-03-22,13,Completed
+2976,Retail,UK,Online Signup,2026-03-19,11,Completed
+2977,Retail,Singapore,Direct,2025-08-15,13,Completed
+2978,Commercial,Canada,Referral,2026-01-19,7,Completed
+2979,Retail,Pakistan,Referral,2025-12-30,11,Completed
+2980,Retail,UK,Direct,2025-01-04,11,Completed
+2981,Institutional,Nigeria,Referral,2025-03-03,4,Completed
+2982,Retail,Australia,Referral,2025-02-01,9,Completed
+2983,Retail,Pakistan,Online Signup,2026-02-24,13,Completed
+2984,Retail,Germany,Referral,2025-11-06,9,Completed
+2985,Retail,UAE,Online Signup,2025-06-27,11,Completed
+2986,Retail,Canada,Direct,2025-09-23,13,Dropped
+2987,Retail,Australia,Online Signup,2025-06-01,11,Completed
+2988,Retail,Pakistan,Referral,2026-03-19,11,Completed
+2989,Institutional,Russia,Direct,2025-08-19,1,Completed
+2990,Retail,Australia,Direct,2025-03-04,13,Completed
+2991,Retail,UK,Direct,2025-10-28,9,Completed
+2992,Institutional,Canada,Online Signup,2025-03-28,1,Completed
+2993,Institutional,UK,Online Signup,2025-08-26,2,Completed
+2994,Retail,UK,Referral,2025-11-01,11,Completed
+2995,Institutional,Pakistan,Direct,2025-04-15,3,Completed
+2996,Retail,Nigeria,Online Signup,2025-03-31,11,Completed
+2997,Retail,USA,Direct,2026-01-10,9,Completed
+2998,Retail,Germany,Online Signup,2025-11-15,11,Completed
+2999,Retail,UK,Direct,2026-01-31,9,Completed
+3000,Retail,India,Online Signup,2025-08-04,13,Completed
